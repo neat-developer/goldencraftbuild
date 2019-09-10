@@ -1,0 +1,26 @@
+{
+  "0": {
+    "price": 100,
+    "image": "assets/game/base/houses/0.png"
+  },
+  "1": {
+    "price": 10,
+    "image": "assets/game/base/houses/1.png"
+  },
+  "2": {
+    "price": 10,
+    "image": "assets/game/base/houses/2.png"
+  },
+  "3": {
+    "price": 15,
+    "image": "assets/game/base/houses/3.png"
+  },
+  "4": {
+    "price": 18,
+    "image": "assets/game/base/houses/4.png"
+  },
+  "5":  {
+    "price": 20,
+    "image": "assets/game/base/houses/5.png"
+  }
+}

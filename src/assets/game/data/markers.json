@@ -1,0 +1,2206 @@
+{
+  "BEACH": [
+    {
+      "id": "tree",
+      "longitude": 4.544970314333372,
+      "latitude": 0.48799842778977487,
+      "html": "Залезть на дерево",
+      "scale": [
+        0.3,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "hill",
+      "longitude": 4.664840365082582,
+      "latitude": 0.17096648537550818,
+      "html": "На холм",
+      "scale": [
+        0.28,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "athome",
+      "longitude": 4.058325613174024,
+      "latitude": 0.11000965160702281,
+      "html": "К началу",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "FOOT": [
+    {
+      "id": "tree",
+      "longitude": 5.527151612204048,
+      "latitude": -0.09286501927371704,
+      "html": "Залезть на дерево",
+      "scale": [
+        0.25,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "waterfall",
+      "longitude": 4.376084775400004,
+      "latitude": 0.08945289910029541,
+      "html": "К водопаду",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "beach",
+      "longitude": 5.932280586878382,
+      "latitude": -0.40499946578817725,
+      "html": "Спуститься к побережью",
+      "scale": [
+        0.3,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "HILL": [
+    {
+      "id": "tree",
+      "longitude": 1.6976759309850427,
+      "latitude": 0.19125592907600653,
+      "html": "Залезть на дерево",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "waterfall",
+      "longitude": 2.569190735853434,
+      "latitude": 0.17868185521722801,
+      "html": "К водопаду",
+      "scale": [
+        0.3,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "ATHOME": [
+    {
+      "id": "tree",
+      "longitude": 5.440266416210768,
+      "latitude": 0.8532903971444983,
+      "html": "Залезть на дерево",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "beach",
+      "longitude": 1.1026446420868556,
+      "latitude": -0.13266372216868438,
+      "html": "Спуститься к побережью",
+      "scale": [
+        0.3,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "waterfall",
+      "longitude": 3.039008432032419,
+      "latitude": 0.5022933143044233,
+      "html": "К водопаду",
+      "scale": [
+        0.3,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "TREE": [
+    {
+      "id": "waterfall",
+      "longitude": 2.824917909565079,
+      "latitude": 0.1174373271006639,
+      "html": "К водопаду",
+      "scale": [
+        0.3,
+        1.5
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "beach",
+      "longitude": 1.4714566232413693,
+      "latitude": -0.54530260014005,
+      "html": "Спуститься к побережью",
+      "scale": [
+        0.3,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "foot",
+      "longitude": 2.3561137063800643,
+      "latitude": -0.0008799825459664401,
+      "html": "Подняться к подножью горы",
+      "scale": [
+        0.25,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "hill",
+      "longitude": 4.846050579116758,
+      "latitude": -0.5177460275783128,
+      "html": "На холм",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "athome",
+      "longitude": 2.4678990206821467,
+      "latitude": -0.9470948605426761,
+      "html": "Подойти к дому",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "WATERFALL": [
+    {
+      "id": "tree",
+      "longitude": 5.949000976764951,
+      "latitude": -0.189081388291525,
+      "html": "Залезть на дерево",
+      "scale": [
+        0.3,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "foot",
+      "longitude": 1.244418646726525,
+      "latitude": -0.32483312964079336,
+      "html": "К подножью",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "hill",
+      "longitude": 5.657260980005657,
+      "latitude": -0.2623439271633943,
+      "html": "На холм",
+      "scale": [
+        0.3,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "athome",
+      "longitude": 6.2552037238753595,
+      "latitude": -0.5214734683782933,
+      "html": "К началу",
+      "scale": [
+        0.3,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "MINE": [
+    {
+      "id": "inmine",
+      "longitude": 2.5294897734341486,
+      "latitude": 0.08938800760387378,
+      "html": "В шахту",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    }
+  ],
+  "0INHOME-0": [
+    {
+      "id": "inhome-1",
+      "longitude": 3.1607422356965107,
+      "latitude": -0.11308653352258768,
+      "html": "Пройти дальше",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "athome",
+      "longitude": 6.224568400727447,
+      "latitude": -0.22675830965387234,
+      "html": "Выйти на улицу",
+      "scale": [
+        0.6,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "0INHOME-1": [
+    {
+      "id": "inhome-0",
+      "longitude": 0.0062640485378917515,
+      "latitude": -0.08348494249741534,
+      "html": "Ко входу",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "mine",
+      "longitude": 3.2014836589282165,
+      "latitude": -0.1964288918154844,
+      "html": "Выйти на задний двор",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "craftingTable",
+      "longitude": 2.0984091242643568,
+      "latitude": -0.3439998424110775,
+      "html": "Верстак",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    },
+    {
+      "id": "chest",
+      "longitude": 1.4013883290282847,
+      "latitude": -0.4483031849311163,
+      "html": "Сундук",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    }
+  ],
+  "0MINE": [
+    "MINE",
+    {
+      "id": "inhome-1",
+      "longitude": 5.03994714611894,
+      "latitude": -0.06825538712526424,
+      "html": "Зайти в дом",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "0ATHOME": [
+    "ATHOME",
+    {
+      "id": "inhome-0",
+      "longitude": 3.3034657360041857,
+      "latitude": 0.01070848602895702,
+      "html": "Зайти в дом",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "02MINE": [
+    "0MINE",
+    {
+      "id": "infarm",
+      "longitude": 5.683738038572119,
+      "latitude": -0.08196377700013735,
+      "html": "Отправиться на ферму",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    }
+  ],
+  "03ATHOME": [
+    "0ATHOME",
+    {
+      "id": "inhell",
+      "longitude": 4.289718132334657,
+      "latitude": -0.03973921754917664,
+      "html": "В ад",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    }
+  ],
+  "03MINE": [
+    "02MINE",
+    {
+      "id": "athome-1",
+      "longitude": 4.727208892801499,
+      "latitude": 0.06476649647755894,
+      "html": "К коровам",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "03ATHOME-1": [
+    {
+      "id": "mine",
+      "longitude": 1.5517265134760603,
+      "latitude": -0.24055400572303776,
+      "html": "К шахте",
+      "scale": [
+        0.3,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "infarm",
+      "longitude": 0.4001913430869958,
+      "latitude": -0.5662448870194012,
+      "html": "На ферму",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    },
+    {
+      "id": "inhome-1",
+      "longitude": 1.1092128953585376,
+      "latitude": -0.4426906817663032,
+      "html": "Зайти в дом",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "04ATHOME": [
+    "03ATHOME",
+    {
+      "id": "athome-2",
+      "longitude": 2.590845086950838,
+      "latitude": -0.0798121695193037,
+      "html": "К ферме",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "04MINE": [
+    "03MINE",
+    {
+      "id": "athome-2",
+      "longitude": 6.228018384659441,
+      "latitude": -0.04641429460759339,
+      "html": "Обойти ферму",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "04ATHOME-2": [
+    {
+      "id": "mine",
+      "longitude": 2.8651531389641054,
+      "latitude": -0.03198246710763786,
+      "html": "К шахте",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "tree",
+      "longitude": 5.605814872282771,
+      "latitude": 0.494348252319043,
+      "html": "Залезть на дерево",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "infarm",
+      "longitude": 3.604852804670329,
+      "latitude": -0.41440551895179656,
+      "html": "На ферму",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    },
+    {
+      "id": "athome",
+      "longitude": 5.6979144636687735,
+      "latitude": -0.21609128330760297,
+      "html": "К дому",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "05ATHOME": [
+    {
+      "id": "inhell",
+      "longitude": 4.653186911701672,
+      "latitude": -0.038466491274575354,
+      "html": "В ад",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    },
+    {
+      "id": "athome-2",
+      "longitude": 2.3129473225115706,
+      "latitude": -0.09493358037375343,
+      "html": "К ферме",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inedge",
+      "longitude": 5.50329524596672,
+      "latitude": -0.16266002831906068,
+      "html": "В край",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    },
+    {
+      "id": "inhome-0",
+      "longitude": 3.156625465653589,
+      "latitude": -0.15537032063617096,
+      "html": "Зайти в дом",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "tree",
+      "longitude": 5.722510823651509,
+      "latitude": 0.73143732539078,
+      "html": "Залезть на дерево",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "beach",
+      "longitude": 0.9708586701546967,
+      "latitude": -0.18610311853189865,
+      "html": "Спуститься к побережью",
+      "scale": [
+        0.3,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "waterfall",
+      "longitude": 3.039008432032419,
+      "latitude": 0.5022933143044233,
+      "html": "К водопаду",
+      "scale": [
+        0.3,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "1INHOME-0": [
+    {
+      "id": "inhome-1",
+      "longitude": 3.438137755144939,
+      "latitude": -0.0763153928419058,
+      "html": "Пройти дальше",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "athome",
+      "longitude": 6.224568400727447,
+      "latitude": -0.22675830965387234,
+      "html": "Выйти на улицу",
+      "scale": [
+        0.6,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "craftingTable",
+      "longitude": 1.535592364083384,
+      "latitude": -0.5396399624257118,
+      "html": "Верстак",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    },
+    {
+      "id": "chest",
+      "longitude": 2.366690383833098,
+      "latitude": -0.5047742888394557,
+      "html": "Сундук",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    }
+  ],
+  "1INHOME-1": [
+    {
+      "id": "inhome-0",
+      "longitude": 5.7976644436287526,
+      "latitude": -0.16106557393047427,
+      "html": "Ко входу",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-2",
+      "longitude": 2.001743688764579,
+      "latitude": -0.12031059299987712,
+      "html": "К выходу на задний двор",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-3",
+      "longitude": 3.9519821332191483,
+      "latitude": 0.5418359393877847,
+      "html": "Подняться",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "1INHOME-2": [
+    {
+      "id": "inhome-1",
+      "longitude": 4.991303099275163,
+      "latitude": -0.029337501364275154,
+      "html": "В центр дома",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "mine",
+      "longitude": 3.033918866977367,
+      "latitude": -0.3047719405720528,
+      "html": "Выйти на задний двор",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "1INHOME-3": [
+    {
+      "id": "inhome-1",
+      "longitude": 4.020429896366455,
+      "latitude": -0.7485670133228313,
+      "html": "Спуститься",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-4",
+      "longitude": 6.01353357353621,
+      "latitude": -0.20457001180390977,
+      "html": "Сесть на кровать",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "1INHOME-4": [
+    {
+      "id": "inhome-3",
+      "longitude": 3.146879887729847,
+      "latitude": -0.17595975569565514,
+      "html": "К выходу",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "chest",
+      "longitude": 1.597153571726826,
+      "latitude": -0.22274668478997017,
+      "html": "Открыть сундук",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    }
+  ],
+  "1ATHOME": [
+    "ATHOME",
+    {
+      "id": "inhome-0",
+      "longitude": 3.3034657360041857,
+      "latitude": 0.01070848602895702,
+      "html": "Зайти в дом",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "1MINE": [
+    "MINE",
+    {
+      "id": "inhome-2",
+      "longitude": 5.196495620027957,
+      "latitude": -0.0767438162317795,
+      "html": "Зайти в дом",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "12ATHOME": [
+    "1ATHOME",
+    {
+      "id": "infarm",
+      "longitude": 2.3271833252520797,
+      "latitude": -0.1665147955072761,
+      "html": "Отправиться на ферму",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    }
+  ],
+  "13ATHOME": [
+    "12ATHOME",
+    {
+      "id": "inhell",
+      "longitude": 4.284388831627181,
+      "latitude": 0.09610027221350848,
+      "html": "В ад",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    }
+  ],
+  "14ATHOME": [
+    "13ATHOME",
+    {
+      "id": "athome-1",
+      "longitude": 2.4241381060847793,
+      "latitude": 0.008028762344339357,
+      "html": "К курятнику",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "14ATHOME-1": [
+    {
+      "id": "athome",
+      "longitude": 5.196495620027957,
+      "latitude": -0.0767438162317795,
+      "html": "К дому",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "mine",
+      "longitude": 3.1576395116384854,
+      "latitude": -0.06140076666794858,
+      "html": "На задний двор",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "infarm",
+      "longitude": 1.691126205113383,
+      "latitude": -0.47803575043736846,
+      "html": "На ферму",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    }
+  ],
+  "14MINE": [
+    "1MINE",
+    {
+      "id": "athome-1",
+      "longitude": 6.2273828822641235,
+      "latitude": -0.08414909592430853,
+      "html": "К курятнику",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "15ATHOME": [
+    "14ATHOME",
+    {
+      "id": "inedge",
+      "longitude": 4.785275702954644,
+      "latitude": 0.04395098002681852,
+      "html": "В край",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    }
+  ],
+  "2ATHOME": [
+    "ATHOME",
+    {
+      "id": "inhome-0",
+      "longitude": 3.2643842520524697,
+      "latitude": -0.08579386180286086,
+      "html": "Зайти в дом",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "2INHOME-0": [
+    {
+      "id": "inhome-2",
+      "longitude": 4.529619618253797,
+      "latitude": -0.11818255692942636,
+      "html": "К лестнице",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-1",
+      "longitude": 2.1330818435400776,
+      "latitude": -0.10984149310642466,
+      "html": "К выходу на задний двор",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "athome",
+      "longitude": 6.224568400727447,
+      "latitude": -0.22675830965387234,
+      "html": "Выйти на улицу",
+      "scale": [
+        0.6,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-10",
+      "longitude": 3.1719306460324654,
+      "latitude": -0.3271551303052649,
+      "html": "Сесть на диван",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "craftingTable",
+      "longitude": 1.441502329225717,
+      "latitude": -0.33612784331135837,
+      "html": "Верстак",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    }
+  ],
+  "2INHOME-1": [
+    {
+      "id": "mine",
+      "longitude": 3.264726514253197,
+      "latitude": -0.39062608173059266,
+      "html": "Выйти на задний двор",
+      "scale": [
+        0.6,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-0",
+      "longitude": 5.311529846852945,
+      "latitude": -0.12521418744185797,
+      "html": "Ко входу",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-10",
+      "longitude": 4.7011974522985245,
+      "latitude": -0.22722686240568968,
+      "html": "Сесть на диван",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-2",
+      "longitude": 4.870725431495517,
+      "latitude": -0.06945894073402581,
+      "html": "К лестнице",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "craftingTable",
+      "longitude": 5.495191965839294,
+      "latitude": -0.31658939084253923,
+      "html": "Верстак",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    },
+    {
+      "id": "chest",
+      "longitude": 5.8762574478897704,
+      "latitude": -0.4157657286578149,
+      "html": "Сундук",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    }
+  ],
+  "2INHOME-2": [
+    {
+      "id": "inhome-3",
+      "longitude": 3.89278180573394,
+      "latitude": 0.6524272672844103,
+      "html": "Подняться на второй этаж",
+      "scale": [
+        0.6,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-0",
+      "longitude": 1.2079279378227015,
+      "latitude": -0.08081799811665324,
+      "html": "Ко входу",
+      "scale": [
+        0.6,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-10",
+      "longitude": 2.0709478482999417,
+      "latitude": -0.1814147684891525,
+      "html": "Сесть на диван",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-1",
+      "longitude": 1.8304948876379135,
+      "latitude": -0.03327151293374486,
+      "html": "К выходу на задний двор",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "2INHOME-3": [
+    {
+      "id": "inhome-4",
+      "longitude": 1.8599062732026883,
+      "latitude": -0.10165599323522434,
+      "html": "Пройти дальше",
+      "scale": [
+        0.55,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-2",
+      "longitude": 3.0855533739998764,
+      "latitude": -0.7304323097452077,
+      "html": "Спуститься",
+      "scale": [
+        0.55,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "2INHOME-4": [
+    {
+      "id": "chest",
+      "longitude": 3.058449861525265,
+      "latitude": -0.44037449735314516,
+      "html": "Сундук",
+      "scale": [
+        0.55,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    },
+    {
+      "id": "inhome-3",
+      "longitude": 4.696619175718488,
+      "latitude": -0.15648179731006562,
+      "html": "К лестнице",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-5",
+      "longitude": 1.889860981001627,
+      "latitude": -0.11662649375942724,
+      "html": "Сесть на кровать",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "2INHOME-5": [
+    {
+      "id": "inhome-4",
+      "longitude": 4.981354226895239,
+      "latitude": -0.08898583404636096,
+      "html": "В центр комнаты",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "2INHOME-10": [
+    {
+      "id": "inhome-2",
+      "longitude": 4.94204599498074,
+      "latitude": -0.09745993901929029,
+      "html": "К лестнице",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-0",
+      "longitude": 6.185599623702066,
+      "latitude": -0.07329763478377949,
+      "html": "Ко входу",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-1",
+      "longitude": 1.7811843432738679,
+      "latitude": -0.08152113024354302,
+      "html": "К выходу на задний двор",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "craftingTable",
+      "longitude": 0.7036858190149069,
+      "latitude": -0.21326071392872814,
+      "html": "Верстак",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    },
+    {
+      "id": "chest",
+      "longitude": 1.0471939430832167,
+      "latitude": -0.20579036259384687,
+      "html": "Сундук",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    }
+  ],
+  "22ATHOME": [
+    "2ATHOME",
+    {
+      "id": "infarm",
+      "longitude": 2.7478544339461974,
+      "latitude": -0.19087420843125313,
+      "html": "Отправиться на ферму",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    }
+  ],
+  "23ATHOME": [
+    "22ATHOME",
+    {
+      "id": "inhell",
+      "longitude": 4.297180139926002,
+      "latitude": -0.13766404631627327,
+      "html": "В ад",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    }
+  ],
+  "24MINE": [
+    "0MINE",
+    {
+      "id": "infarm",
+      "longitude": 6.269891055948007,
+      "latitude": -0.05971100799660589,
+      "html": "Отправиться на ферму",
+      "scale": [
+        0.55,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    }
+  ],
+  "25ATHOME": [
+    "23ATHOME",
+    {
+      "id": "inedge",
+      "longitude": 4.8540256543021325,
+      "latitude": -0.33714532975803757,
+      "html": "В край",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    }
+  ],
+  "3ATHOME": [
+    "ATHOME",
+    {
+      "id": "athome-1",
+      "longitude": 3.312594318732079,
+      "latitude": -0.15404759817086267,
+      "html": "Ко входу",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "3ATHOME-1": [
+    {
+      "id": "athome",
+      "longitude": 0.0034184953042027933,
+      "latitude": -0.027497072978375225,
+      "html": "К началу",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-0",
+      "longitude": 1.5497309200833913,
+      "latitude": -0.13447488751291026,
+      "html": "Войти в дом",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "athome-2",
+      "longitude": 3.11308789753544,
+      "latitude": -0.010288378314259772,
+      "html": "Обойти дом",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "3ATHOME-2": [
+    {
+      "id": "athome-1",
+      "longitude": 6.157500871151989,
+      "latitude": -0.049497147313323664,
+      "html": "Ко входу",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "mine",
+      "longitude": 1.8627273633454835,
+      "latitude": -0.0011288132879496704,
+      "html": "К шахте",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "3MINE": [
+    "MINE",
+    {
+      "id": "inhome-1",
+      "longitude": 5.511738814854986,
+      "latitude": -0.19371018970128517,
+      "html": "Зайти в дом",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "athome-2",
+      "longitude": 4.846721973240525,
+      "latitude": -0.13768366204902271,
+      "html": "Обойти дом",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "3INHOME-0": [
+    {
+      "id": "inhome-1",
+      "longitude": 2.846634834481912,
+      "latitude": -0.14686885609390354,
+      "html": "К выходу",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "chest",
+      "longitude": 0.0857847803522674,
+      "latitude": -0.24911084059923128,
+      "html": "Сундук",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    },
+    {
+      "id": "inhome-3",
+      "longitude": 0.8415910722238704,
+      "latitude": -0.21442727176697596,
+      "html": "К столу",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-4",
+      "longitude": 2.4467346211055583,
+      "latitude": 0.09222005834059321,
+      "html": "Подняться",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "athome-1",
+      "longitude": 4.695378880853425,
+      "latitude": -0.3021503356314543,
+      "html": "Выйти на улицу",
+      "scale": [
+        0.6,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "3INHOME-1": [
+    {
+      "id": "mine",
+      "longitude": 3.0989070042855977,
+      "latitude": -0.15458653360762886,
+      "html": "Выйти на задний двор",
+      "scale": [
+        0.6,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-0",
+      "longitude": 5.78032666696056,
+      "latitude": -0.11378714490181174,
+      "html": "Ко входу",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-2",
+      "longitude": 6.25738383401142,
+      "latitude": -0.15061813441107952,
+      "html": "В центр дома",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "3INHOME-2": [
+    {
+      "id": "inhome-1",
+      "longitude": 3.127671799037449,
+      "latitude": -0.1574744754105608,
+      "html": "К выходу на задний двор",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-0",
+      "longitude": 5.057841657795567,
+      "latitude": -0.23033519245872935,
+      "html": "Ко входу",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-3",
+      "longitude": 0.24823817566827222,
+      "latitude": -0.3001296752682445,
+      "html": "К столу",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-4",
+      "longitude": 2.6021938320611864,
+      "latitude": 0.156120558016706,
+      "html": "Подняться",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "3INHOME-3": [
+    {
+      "id": "craftingTable",
+      "longitude": 5.923105700897721,
+      "latitude": -0.33261250579183144,
+      "html": "Верстак",
+      "scale": [
+        0.55,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    },
+    {
+      "id": "chest",
+      "longitude": 0.2322716272502674,
+      "latitude": -0.39845961250966755,
+      "html": "Сундук",
+      "scale": [
+        0.55,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    },
+    {
+      "id": "inhome-1",
+      "longitude": 3.2581788620145873,
+      "latitude": -0.07119647199729795,
+      "html": "К выходу на задний двор",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-0",
+      "longitude": 4.13585254446907,
+      "latitude": -0.16590329759840183,
+      "html": "Ко входу",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-4",
+      "longitude": 2.961348454855134,
+      "latitude": 0.06921951395865511,
+      "html": "Подняться",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "3INHOME-4": [
+    {
+      "id": "chest",
+      "longitude": 4.828186395979036,
+      "latitude": -0.48815278957855845,
+      "html": "Сундук",
+      "scale": [
+        0.6,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    },
+    {
+      "id": "inhome-2",
+      "longitude": 2.441319923918436,
+      "latitude": -0.5377015019329718,
+      "html": "Спуститься",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-5",
+      "longitude": 6.2766147775940055,
+      "latitude": -0.024458962113280247,
+      "html": "Пройти дальше",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-6",
+      "longitude": 1.7590458867751821,
+      "latitude": 0.7829698461916069,
+      "html": "Подняться",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "3INHOME-5": [
+    {
+      "id": "inhome-4",
+      "longitude": 3.1201717827780877,
+      "latitude": -0.03391700281333421,
+      "html": "К выходу",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-6",
+      "longitude": 2.5192819538528832,
+      "latitude": 0.4121867286513201,
+      "html": "Подняться",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-2",
+      "longitude": 2.754696719263676,
+      "latitude": -0.2777340282083238,
+      "html": "Спуститься",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "chest",
+      "longitude": 3.6207075119602323,
+      "latitude": -0.25268021275800945,
+      "html": "Сундук",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    }
+  ],
+  "3INHOME-6": [
+    {
+      "id": "inhome-5",
+      "longitude": 0.017120286646798325,
+      "latitude": -0.7459881164768185,
+      "html": "Спуститься на 2-й этаж",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-7",
+      "longitude": 6.006739665767446,
+      "latitude": -0.044218975094375335,
+      "html": "Пройти дальше",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "3INHOME-7": [
+    {
+      "id": "inhome-5",
+      "longitude": 2.5440139556564967,
+      "latitude": -0.5407254216680544,
+      "html": "Спуститься на 2-й этаж",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-8",
+      "longitude": 6.221702327831685,
+      "latitude": -0.06927799942647606,
+      "html": "К окну",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-6",
+      "longitude": 2.9971455238574447,
+      "latitude": -0.04639576968410619,
+      "html": "К лестнице",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "3INHOME-8": [
+    {
+      "id": "inhome-7",
+      "longitude": 3.0896530937423545,
+      "latitude": -0.10204642418815801,
+      "html": "Вернуться",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "32ATHOME": [
+    "3ATHOME",
+    {
+      "id": "infarm",
+      "longitude": 1.649567781329941,
+      "latitude": -0.3412898294298634,
+      "html": "Отправиться на ферму",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    }
+  ],
+  "33ATHOME": [
+    "32ATHOME",
+    {
+      "id": "inhell",
+      "longitude": 4.285644128539831,
+      "latitude": -0.07971398065329627,
+      "html": "Ад",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    }
+  ],
+  "33ATHOME-1": [
+    "3ATHOME-1",
+    {
+      "id": "infarm",
+      "longitude": 4.470393434797213,
+      "latitude": -0.11565731627382059,
+      "html": "Ферма",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    },
+    {
+      "id": "inhell",
+      "longitude": 5.562259061993693,
+      "latitude": -0.01881171525404568,
+      "html": "Ад",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    }
+  ],
+  "33INHOME-6": [
+    "3INHOME-6",
+    {
+      "id": "chest",
+      "longitude": 5.6899136429500885,
+      "latitude": -0.20036708079992005,
+      "html": "Сундук",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    }
+  ],
+  "33INHOME-7": [
+    "3INHOME-7",
+    {
+      "id": "chest",
+      "longitude": 3.832688082445269,
+      "latitude": -0.4399715499409309,
+      "html": "Сундук",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    },
+    {
+      "id": "craftingTable",
+      "longitude": 0.5721633905314645,
+      "latitude": -0.33107301778980913,
+      "html": "Верстак",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    }
+  ],
+  "33INHOME-8": [
+    "3INHOME-8",
+    {
+      "id": "craftingTable",
+      "longitude": 1.7802634700508402,
+      "latitude": -0.36361338444013724,
+      "html": "Верстак",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    }
+  ],
+  "33ATHOME-2": [
+    "3ATHOME-2",
+    {
+      "id": "infarm",
+      "longitude": 5.509606659824801,
+      "latitude": -0.1801983276554595,
+      "html": "Ферма",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    }
+  ],
+  "35ATHOME": [
+    "33ATHOME",
+    {
+      "id": "inedge",
+      "longitude": 4.840207189628258,
+      "latitude": -0.1592532963847686,
+      "html": "Край",
+      "scale": [
+        0.55,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    }
+  ],
+  "4ATHOME": [
+    "ATHOME",
+    {
+      "id": "athome-1",
+      "longitude": 2.9171522317565577,
+      "latitude": -0.10158127061983357,
+      "html": "Во двор",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "athome-2",
+      "longitude": 3.3134940413457974,
+      "latitude": -0.07001525381528895,
+      "html": "На задний двор",
+      "scale": [
+        0.275,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "4ATHOME-1": [
+    {
+      "id": "athome",
+      "longitude": 6.073039185481576,
+      "latitude": -0.04608053920343069,
+      "html": "К началу",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-0",
+      "longitude": 1.9227320101690792,
+      "latitude": -0.156927824663752,
+      "html": "Войти в дом",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-2",
+      "longitude": 3.133440206843845,
+      "latitude": -0.04398434691502673,
+      "html": "Войти в дом",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "athome-2",
+      "longitude": 4.096334741710722,
+      "latitude": -0.007782560752644274,
+      "html": "На задний двор",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "4ATHOME-2": [
+    {
+      "id": "athome-1",
+      "longitude": 0.22687541051010152,
+      "latitude": -0.05608354871652654,
+      "html": "К главному входу",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "mine",
+      "longitude": 1.764583459686486,
+      "latitude": 0.006546708734737727,
+      "html": "К шахте",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "4INHOME-0": [
+    {"id":"inhome-1","longitude":3.166580847390858,"latitude":-0.0532970341767105,"html":"К выходу на задний двор","scale":[0.35,1.3],"className":"sphere-move-point"},
+    {"id":"athome-1","longitude":4.573023968359673,"latitude":-0.06617705525987727,"html":"Выйти во двор","scale":[0.65,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-3","longitude":0.24160869155730683,"latitude":-0.061484091303972255,"html":"В угловую комнату","scale":[0.45,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-4","longitude":0.7627722419729613,"latitude":0.411636224602723,"html":"Подняться на 2-й этаж","scale":[0.4,1.3],"className":"sphere-move-point"}
+  ],
+  "4INHOME-1": [
+    {
+      "id": "chest",
+      "longitude": 1.2309145969136188,
+      "latitude": -0.053736446935764626,
+      "html": "Сундук",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    },
+    {
+      "id": "craftingTable",
+      "longitude":5.378896777537189,"latitude":-0.4132800475996794,
+      "html": "Верстак",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-open-point"
+    },
+    {"id":"mine","longitude":3.129681488826029,"latitude":-0.22557462823710983,"html":"Выйти на задний двор","scale":[0.6,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-4","longitude":0.28915120212811357,"latitude":0.15839096796408447,"html":"Подняться на 2-й этаж","scale":[0.35,1.3],"className":"sphere-move-point"},
+    {
+      "id": "inhome-2",
+      "longitude": 5.525216131143054,
+      "latitude": -0.06538948949772339,
+      "html": "К выходу",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "inhome-0",
+      "longitude": 6.235106120626674,
+      "latitude": -0.05123930202789451,
+      "html": "К выходу",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "4INHOME-2": [
+    {"id":"athome-1","longitude":6.278099456054332,"latitude":-0.3034876325229805,"html":"Выйти во двор","scale":[0.6,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-1","longitude":2.453563960708349,"latitude":-0.06618921455081295,"html":"К выходу на задний двор","scale":[0.375,1.3],"className":"sphere-move-point"},
+    {"id":"craftingTable","longitude":2.381005721936269,"latitude":-0.3401113544509047,"html":"Верстак","scale":[0.45,1.3],"className":"sphere-open-point"}
+  ],
+  "4INHOME-3": [
+    {"id":"chest","longitude":2.0163518677407604,"latitude":-0.4156296406796023,"html":"Сундук","scale":[0.5,1.3],"className":"sphere-open-point"},
+    {"id":"inhome-0","longitude":3.4429046464481146,"latitude":-0.10727461097579893,"html":"К выходу","scale":[0.45,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-1","longitude":3.198192185199381,"latitude":-0.04407555130727703,"html":"К выходу на задний двор","scale":[0.35,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-4","longitude":2.1216316830799125,"latitude":0.6770387840522363,"html":"Подняться на 2-й этаж","scale":[0.45,1.3],"className":"sphere-move-point"}
+  ],
+  "4INHOME-4": [
+    {"id":"inhome-0","longitude":2.513798933186364,"latitude":-0.9132844802244096,"html":"Спуститься","scale":[0.5,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-7","longitude": 3.2001952797023066,"latitude":0.21117411962272392,"html":"Подняться на 3-й этаж","scale":[0.375,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-5","longitude":3.3262569392219525,"latitude":-0.10756130180270773,"html":"Подойти к лестнице","scale":[0.4,1.3],"className":"sphere-move-point"}
+  ],
+  "4INHOME-5": [
+    {"id":"inhome-7","longitude":3.004370783163502,"latitude":0.4391453597266697,"html":"Подняться на 3-й этаж","scale":[0.5,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-0","longitude":0.4198324400713276,"latitude":-0.367111352281013,"html":"Спуститься","scale":[0.4,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-6","longitude":3.626042339783188,"latitude":-0.11808779908049294,"html":"К спальне","scale":[0.4,1.3],"className":"sphere-move-point"}
+  ],
+  "4INHOME-6": [
+    {"id":"inhome-5","longitude":0.4956830118041681,"latitude":-0.040644506600221675,"html":"К лестнице","scale":[0.45,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-bed-1","longitude":5.666616914738087,"latitude":-0.24224597028112638,"html":"Сесть на кровать","scale":[0.35,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-7","longitude":1.0269238785144394,"latitude":0.4564774643056404,"html":"Подняться на 3-й этаж","scale":[0.5,1.3],"className":"sphere-move-point"},
+    {"id":"chest","longitude":5.779601084346771,"latitude":-0.4144540765298137,"html":"Сундук","scale":[0.45,1.3],"className":"sphere-open-point"}
+  ],
+  "4INHOME-7": [
+    {"id":"inhome-5","longitude":5.9643910067649415,"latitude":-0.8893596519001403,"html":"Спуститься на 2-й этаж","scale":[0.5,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-10","longitude":4.938156086586899,"latitude":0.5775291186543365,"html":"На чердак","scale":[0.4,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-8","longitude":4.424346464417573,"latitude":-0.06011520511538904,"html":"В спальню","scale":[0.45,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-100","longitude":0.16267635975004294,"latitude":-0.03486634630155527,"html":"В зал","scale":[0.35,1.3],"className":"sphere-move-point"}
+  ],
+  "4INHOME-8": [
+    {"id":"inhome-7","longitude":1.4927722561498398,"latitude":-0.06645297341102951,"html":"К лестнице","scale":[0.45,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-5","longitude":1.134241788746333,"latitude":-0.3564155947077827,"html":"Спуститься на 2-й этаж","scale":[0.45,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-9","longitude":6.138038890017595,"latitude":-0.09010064092127723,"html":"К окну","scale":[0.45,1.3],"className":"sphere-move-point"}
+  ],
+  "4INHOME-9": [
+    {"id":"inhome-8","longitude":2.801524148426265,"latitude":-0.07546496116973889,"html":"К выходу","scale":[0.45,1.3],"className":"sphere-move-point"}
+  ],
+  "4INHOME-10": [
+    {"id":"inhome-11","longitude":0.23143518263229765,"latitude":-0.06888762369814105,"html":"Подойти к окну","scale":[0.35,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-7","longitude":3.6928696109055354,"latitude":-0.6944266504247123,"html":"Спуститься на 3-й этаж","scale":[0.45,1.3],"className":"sphere-move-point"}
+  ],
+  "4INHOME-11": [
+    {"id":"inhome-10","longitude":3.3924601666807264,"latitude":0.006276690731462642,"html":"К лестнице","scale":[0.35,1.3],"className":"sphere-move-point"}
+  ],
+  "4INHOME-100": [
+    {"id":"inhome-7","longitude":3.389542429781649,"latitude":-0.059055476168740295,"html":"К лестнице","scale":[0.35,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-5","longitude":3.3257638992919842,"latitude":-0.24751953443215524,"html":"Спуститься на 2-й этаж","scale":[0.4,1.3],"className":"sphere-move-point"}
+  ],
+  "4INHOMEBED-1": [
+    {"id":"chest","longitude":2.4584697339554613,"latitude":-0.4209038949752779,"html":"Сундук","scale":[0.45,1.3],"className":"sphere-open-point"},
+    {"id":"inhome-6","longitude":2.652918000012594,"latitude":-0.034797632958357916,"html":"К выходу из спальни","scale":[0.4,1.3],"className":"sphere-move-point"}
+  ],
+  "4MINE": [
+    "MINE",
+    {
+      "id": "inhome-1",
+      "longitude": 5.769232887110649,
+      "latitude": -0.14102636740203467,
+      "html": "Войти в дом",
+      "scale": [
+        0.4,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    },
+    {
+      "id": "athome-2",
+      "longitude": 4.809276402136789,
+      "latitude": -0.07147865005667109,
+      "html": "Обойти дом",
+      "scale": [
+        0.35,
+        1.3
+      ],
+      "className": "sphere-move-point"
+    }
+  ],
+  "42ATHOME": [
+    "4ATHOME",
+    {"id":"infarm","longitude":4.7003903172675345,"latitude":-0.37936282159323964,"html":"Ферма","scale":[0.5,1.3],"className":"sphere-dungeon-point"}
+  ],
+  "42ATHOME-1": [
+    "4ATHOME-1",
+    {"id":"infarm","longitude":5.4733116290552015,"latitude":-0.04551973792461905,"html":"Ферма","scale":[0.45,1.3],"className":"sphere-dungeon-point"}
+  ],
+  "43ATHOME-2": [
+    "4ATHOME-2",
+    {"id":"infarm","longitude":5.796122284691378,"latitude":-0.0766999726093407,"html":"Ферма","scale":[0.35,1.3],"className":"sphere-dungeon-point"},
+    {"id":"inhell","longitude":2.942162776185004,"latitude":-0.09619292592829343,"html":"Ад","scale":[0.6,1.3],"className":"sphere-dungeon-point"}
+  ],
+  "44INHOME-8": [
+    "4INHOME-8",
+    {"id":"inhome-101","longitude":4.6863227810517545,"latitude":-0.13209042057300513,"html":"Выйти на балкон","scale":[0.4,1.3],"className":"sphere-move-point"},
+    {"id":"chest","longitude":5.449675020874417,"latitude":-0.3854727742492621,"html":"Сундук","scale":[0.45,1.3],"className":"sphere-open-point"}
+  ],
+  "44INHOME-9": [
+    "4INHOME-9",
+    {"id":"chest","longitude":3.3644829086994252,"latitude":-0.3004093905013998,"html":"Сундук","scale":[0.4,1.3],"className":"sphere-open-point"},
+    {"id":"inhome-101","longitude":4.143840709131435,"latitude":-0.22439643894186467,"html":"Выйти на балкон","scale":[0.5,1.3],"className":"sphere-move-point"}
+  ],
+  "44INHOME-101": [
+    {"id":"inhome-9","longitude":0.8807340319089831,"latitude":-0.13480609998024917,"html":"Вернуться в комнату","scale":[0.35,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-8","longitude":2.3811821454980806,"latitude":-0.14730861416986318,"html":"Вернуться в комнату","scale":[0.35,1.3],"className":"sphere-move-point"}
+  ],
+  "45ATHOME": [
+    "42ATHOME",
+    {"id":"inedge","longitude":4.059528079356035,"latitude":-0.08637179644419413,"html":"Край","scale":[0.4,1.3],"className":"sphere-dungeon-point"}
+  ],
+  "45ATHOME-1": [
+    "42ATHOME-1",
+    {"id":"inedge","longitude":4.774143567782776,"latitude":0.014645174877055744,"html":"Край","scale":[0.4,1.3],"className":"sphere-dungeon-point"}
+  ],
+  "5ATHOME": [
+    "ATHOME",
+    {"id":"inhome-0","longitude":1.58876318974977,"latitude":-0.4388655413990734,"html":"Войти в дом","scale":[0.5,1.3],"className":"sphere-move-point"},
+    {"id":"athome-1","longitude":3.2264762899463326,"latitude":-0.007254523046175798,"html":"Во двор","scale":[0.4,1.3],"className":"sphere-move-point"},
+    {"id":"athome-2","longitude":2.837131663198555,"latitude":-0.005782376357281072,"html":"На задний двор","scale":[0.275,1.3],"className":"sphere-move-point"}
+  ],
+  "5ATHOME-1": [
+    {"id":"athome","longitude":6.2642335066087735,"latitude":-0.1194953875634448,"html":"К началу","scale":[0.45,1.3],"className":"sphere-move-point"},
+    {"id":"athome-2","longitude":2.695657395936247,"latitude":-0.04406918872953547,"html":"На задний двор","scale":[0.35,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-2","longitude":1.2797740319548545,"latitude":-0.09702798500794674,"html":"Войти в дом","scale":[0.45,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-3","longitude":2.129405012480232,"latitude":-0.08221054797641347,"html":"Войти в дом","scale":[0.45,1.3],"className":"sphere-move-point"}
+  ],
+  "5ATHOME-2": [
+    {"id":"inmine","longitude":2.307890169114648,"latitude":0.04363209897731757,"html":"В шахту","scale":[0.35,1.3],"className":"sphere-dungeon-point"},
+    {"id":"athome-1","longitude":5.838306286348605,"latitude":-0.032880692216496366,"html":"Во двор","scale":[0.4,1.3],"className":"sphere-move-point"}
+  ],
+  "5INHOME-0": [
+    {"id":"inhome-1","longitude":2.4691852477785265,"latitude":0.04126818193362869,"html":"Подойти к двери","scale":[0.45,1.3],"className":"sphere-move-point"},
+    {"id":"athome","longitude":4.511564931935306,"latitude":-0.2354833682785309,"html":"Выйти на улицу","scale":[0.6,1.3],"className":"sphere-move-point"}
+  ],
+  "5INHOME-1": [
+    {"id":"inhome-0","longitude":5.537945413036596,"latitude":-0.3213624262650956,"html":"К выходу из дома","scale":[0.45,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-2","longitude":2.4691852477785265,"latitude":0.04126818193362869,"html":"Войти","scale":[0.6,1.3],"className":"sphere-move-point"}
+  ],
+  "5INHOME-2": [
+    {"id":"athome-1","longitude":4.6370892214856125,"latitude":-0.08776635220348172,"html":"Выйти на улицу","scale":[0.5,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-1","longitude":5.703956701099668,"latitude":-0.24100545153920905,"html":"В малую комнату","scale":[0.35,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-3","longitude":3.059257938473042,"latitude":-0.08476051308778842,"html":"Пройти дальше","scale":[0.35,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-4","longitude":1.5319623450485882,"latitude":0.7258081193445861,"html":"Подняться на 2-й этаж","scale":[0.6,1.3],"className":"sphere-move-point"},
+    {"id":"chest","longitude":1.016227725336554,"latitude":-0.4794622455800006,"html":"Сундук","scale":[0.5,1.3],"className":"sphere-open-point"}
+  ],
+  "5INHOME-3": [
+    {"id":"chest","longitude":3.230358349904587,"latitude":-0.1966199819823422,"html":"Сундук","scale":[0.5,1.3],"className":"sphere-open-point"},
+    {"id":"athome-1","longitude":4.6370892214856125,"latitude":-0.08776635220348172,"html":"Выйти на улицу","scale":[0.5,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-2","longitude":6.032493718451107,"latitude":-0.09785547431945263,"html":"В коридор","scale":[0.4,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-4","longitude":0.15326219252885087,"latitude":0.19889847994286636,"html":"Подняться на 2-й этаж","scale":[0.4,1.3],"className":"sphere-move-point"},
+    {"id":"craftingTable","longitude":2.9552689622496398,"latitude":-0.20104936230757886,"html":"Верстак","scale":[0.45,1.3],"className":"sphere-open-point"}
+  ],
+  "5INHOME-4": [
+    {"id":"inhome-2","longitude":0.8115886538629444,"latitude":-0.624269332373864,"html":"Спуститься","scale":[0.6,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-7","longitude":5.010276207233327,"latitude":-0.16910864663202663,"html":"На балкон","scale":[0.45,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-6","longitude":6.101910469565918,"latitude":-0.08107580311280294,"html":"В комнату","scale":[0.45,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-5","longitude":3.1078306299070415,"latitude":-0.027189158155958237,"html":"Пройти дальше","scale":[0.5,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-8","longitude":1.1752030136248104,"latitude":0.8829334058863036,"html":"Подняться на 3-й этаж","scale":[0.5,1.3],"className":"sphere-move-point"}
+  ],
+  "5INHOME-5": [
+    {"id":"inhome-8","longitude":0.22127213969345835,"latitude":0.1477821750513597,"html":"Подняться на 3-й этаж","scale":[0.45,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-4","longitude":6.202332653884683,"latitude":-0.06645747606261554,"html":"К лестнице","scale":[0.35,1.3],"className":"sphere-move-point"}
+  ],
+  "5INHOME-6": [
+    {"id":"chest","longitude":4.814481469458546,"latitude":-0.37244536803028994,"html":"Сундук","scale":[0.45,1.3],"className":"sphere-open-point"},
+    {"id":"inhome-4","longitude":2.8696000914575777,"latitude":-0.021424885175987063,"html":"К лестнице","scale":[0.45,1.3],"className":"sphere-move-point"}
+  ],
+  "5INHOME-7": [
+    {"id":"athome-1","longitude":4.878614795967558,"latitude":-0.9499691508954347,"html":"Спрыгнуть","scale":[0.45,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-4","longitude":1.3367056256200636,"latitude":-0.13664579809364708,"html":"Вернуться","scale":[0.45,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-5","longitude":2.25547105414132,"latitude":-0.05506751308789326,"html":"Вернуться","scale":[0.45,1.3],"className":"sphere-move-point"}
+  ],
+  "5INHOME-8": [
+    {"id":"inhome-9","longitude":6.045258005709097,"latitude":-0.06010958197823091,"html":"В зал","scale":[0.45,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-11","longitude":3.8562492056964177,"latitude":0.43551590821514474,"html":"Подняться на крышу","scale":[0.45,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-10","longitude":3.096374076660276,"latitude":-0.13002229395446174,"html":"Пройти по коридору","scale":[0.45,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-4","longitude":1.8725108385004572,"latitude":-0.850089953914444,"html":"Спуститься","scale":[0.6,1.3],"className":"sphere-move-point"}
+  ],
+  "5INHOME-9": [
+    {"id":"inhome-8","longitude":2.650567536211183,"latitude":-0.08906423989630796,"html":"К лестнице","scale":[0.5,1.3],"className":"sphere-move-point"},
+    {"id":"inhome-10","longitude":3.099219751576806,"latitude":-0.11112344356597936,"html":"По коридору к сундукам","scale":[0.35,1.3],"className":"sphere-move-point"}
+  ],
+  "5INHOME-10": [
+    {"id":"inhome-8","longitude":6.206475628101744,"latitude":0.03632837053449012,"html":"К лестнице","scale":[0.4,1.3],"className":"sphere-move-point"},
+    {"id":"chest","longitude":3.282942123042393,"latitude":-0.16103990480183739,"html":"Сундук","scale":[0.5,1.3],"className":"sphere-open-point"}
+  ],
+  "5INHOME-11": [
+    {"id":"inhome-8","longitude":3.1336161491028114,"latitude":-0.5135169196915008,"html":"Спуститься на 3-й этаж","scale":[0.45,1.3],"className":"sphere-move-point"}
+  ],
+  "52ATHOME": [
+    "5ATHOME",
+    {
+      "id": "infarm",
+      "longitude":4.34594361800079,"latitude":0.002283778970002537,
+      "html": "Отправиться на ферму",
+      "scale": [
+        0.5,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    }
+  ],
+  "52ATHOME-1": [
+    "5ATHOME-1",
+    {
+      "id": "infarm",
+      "longitude":5.5288073706424665,"latitude":-0.1411501629479912,
+      "html": "Отправиться на ферму",
+      "scale": [
+        0.45,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    }
+
+  ],
+  "53INHOME-9": [
+    "5INHOME-9",
+    {"id":"inhell","longitude":6.230115095748609,"latitude":0.08953886446740245,"html":"Ад","scale":[0.5,1.3],"className":"sphere-dungeon-point"}
+  ],
+  "55INHOME-9": [
+    "53INHOME-9",
+    {
+      "id": "inedge",
+      "longitude":5.167330442274199,"latitude":-0.2260650018638466,
+      "html": "Край",
+      "scale": [
+        0.6,
+        1.3
+      ],
+      "className": "sphere-dungeon-point"
+    }
+
+  ]
+}
