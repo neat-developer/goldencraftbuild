@@ -97,7 +97,7 @@
       },
       "food": {
         "key": "food",
-        "value": 4
+        "value": 6
       },
       "stone": {
         "key": "stone",
@@ -150,7 +150,7 @@
       },
       "food": {
         "key": "food",
-        "value": 6
+        "value": 10
       },
       "stone": {
         "key": "stone",
@@ -203,7 +203,7 @@
       },
       "food": {
         "key": "food",
-        "value": 6
+        "value": 14
       },
       "stone": {
         "key": "stone",
@@ -256,7 +256,7 @@
       },
       "food": {
         "key": "food",
-        "value": 6
+        "value": 18
       },
       "stone": {
         "key": "stone",
