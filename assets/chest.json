@@ -1495,37 +1495,37 @@
           {
             "name": "food",
             "type": "number",
-            "value": 150,
+            "value": 300,
             "id": -1
           },
           {
             "name": "wood",
             "type": "number",
-            "value": 150,
+            "value": 300,
             "id": 0
           },
           {
             "name": "stone",
             "type": "number",
-            "value": 120,
+            "value": 240,
             "id": 1
           },
           {
             "name": "iron",
             "type": "number",
-            "value": 100,
+            "value": 200,
             "id": 2
           },
           {
             "name": "gold",
             "type": "number",
-            "value": 70,
+            "value": 140,
             "id": 3
           },
           {
             "name": "diamond",
             "type": "number",
-            "value": 20,
+            "value": 40,
             "id": 4
           }
         ]
@@ -1540,7 +1540,52 @@
           {
             "name": "food",
             "type": "number",
-            "value": 150,
+            "value": 300,
+            "id": -1
+          },
+          {
+            "name": "wood",
+            "type": "number",
+            "value": 300,
+            "id": 0
+          },
+          {
+            "name": "stone",
+            "type": "number",
+            "value": 240,
+            "id": 1
+          },
+          {
+            "name": "iron",
+            "type": "number",
+            "value": 200,
+            "id": 2
+          },
+          {
+            "name": "gold",
+            "type": "number",
+            "value": 140,
+            "id": 3
+          },
+          {
+            "name": "diamond",
+            "type": "number",
+            "value": 30,
+            "id": 4
+          }
+        ]
+      },
+      {
+        "itemId": 26,
+        "lootId": null,
+        "percentFrom": 61,
+        "percentTo": 130,
+        "type": "resource",
+        "resources": [
+          {
+            "name": "food",
+            "type": "number",
+            "value": 300,
             "id": -1
           },
           {
@@ -1570,52 +1615,7 @@
           {
             "name": "diamond",
             "type": "number",
-            "value": 15,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": 26,
-        "lootId": null,
-        "percentFrom": 61,
-        "percentTo": 130,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 0,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 0,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 0,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 0,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 0,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 40,
+            "value": 20,
             "id": 4
           }
         ]
@@ -1630,37 +1630,37 @@
           {
             "name": "food",
             "type": "number",
-            "value": 100,
+            "value": 200,
             "id": -1
           },
           {
             "name": "wood",
             "type": "number",
-            "value": 25,
+            "value": 50,
             "id": 0
           },
           {
             "name": "stone",
             "type": "number",
-            "value": 20,
+            "value": 40,
             "id": 1
           },
           {
             "name": "iron",
             "type": "number",
-            "value": 15,
+            "value": 30,
             "id": 2
           },
           {
             "name": "gold",
             "type": "number",
-            "value": 5,
+            "value": 10,
             "id": 3
           },
           {
             "name": "diamond",
             "type": "number",
-            "value": 2,
+            "value": 4,
             "id": 4
           }
         ]
@@ -1675,37 +1675,37 @@
           {
             "name": "food",
             "type": "number",
-            "value": 100,
+            "value": 200,
             "id": -1
           },
           {
             "name": "wood",
             "type": "number",
-            "value": 25,
+            "value": 50,
             "id": 0
           },
           {
             "name": "stone",
             "type": "number",
-            "value": 20,
+            "value": 40,
             "id": 1
           },
           {
             "name": "iron",
             "type": "number",
-            "value": 15,
+            "value": 30,
             "id": 2
           },
           {
             "name": "gold",
             "type": "number",
-            "value": 5,
+            "value": 10,
             "id": 3
           },
           {
             "name": "diamond",
             "type": "number",
-            "value": 2,
+            "value": 4,
             "id": 4
           }
         ]
@@ -1720,37 +1720,37 @@
           {
             "name": "food",
             "type": "number",
-            "value": 100,
+            "value": 200,
             "id": -1
           },
           {
             "name": "wood",
             "type": "number",
-            "value": 25,
+            "value": 50,
             "id": 0
           },
           {
             "name": "stone",
             "type": "number",
-            "value": 20,
+            "value": 40,
             "id": 1
           },
           {
             "name": "iron",
             "type": "number",
-            "value": 15,
+            "value": 30,
             "id": 2
           },
           {
             "name": "gold",
             "type": "number",
-            "value": 5,
+            "value": 10,
             "id": 3
           },
           {
             "name": "diamond",
             "type": "number",
-            "value": 2,
+            "value": 4,
             "id": 4
           }
         ]
@@ -1765,37 +1765,37 @@
           {
             "name": "food",
             "type": "number",
-            "value": 100,
+            "value": 200,
             "id": -1
           },
           {
             "name": "wood",
             "type": "number",
-            "value": 25,
+            "value": 50,
             "id": 0
           },
           {
             "name": "stone",
             "type": "number",
-            "value": 20,
+            "value": 40,
             "id": 1
           },
           {
             "name": "iron",
             "type": "number",
-            "value": 15,
+            "value": 30,
             "id": 2
           },
           {
             "name": "gold",
             "type": "number",
-            "value": 5,
+            "value": 10,
             "id": 3
           },
           {
             "name": "diamond",
             "type": "number",
-            "value": 2,
+            "value": 4,
             "id": 4
           }
         ]
@@ -1810,37 +1810,37 @@
           {
             "name": "food",
             "type": "number",
-            "value": 100,
+            "value": 200,
             "id": -1
           },
           {
             "name": "wood",
             "type": "number",
-            "value": 25,
+            "value": 50,
             "id": 0
           },
           {
             "name": "stone",
             "type": "number",
-            "value": 20,
+            "value": 40,
             "id": 1
           },
           {
             "name": "iron",
             "type": "number",
-            "value": 15,
+            "value": 30,
             "id": 2
           },
           {
             "name": "gold",
             "type": "number",
-            "value": 5,
+            "value": 10,
             "id": 3
           },
           {
             "name": "diamond",
             "type": "number",
-            "value": 2,
+            "value": 4,
             "id": 4
           }
         ]
@@ -1855,37 +1855,37 @@
           {
             "name": "food",
             "type": "number",
-            "value": 100,
+            "value": 200,
             "id": -1
           },
           {
             "name": "wood",
             "type": "number",
-            "value": 25,
+            "value": 50,
             "id": 0
           },
           {
             "name": "stone",
             "type": "number",
-            "value": 20,
+            "value": 40,
             "id": 1
           },
           {
             "name": "iron",
             "type": "number",
-            "value": 15,
+            "value": 30,
             "id": 2
           },
           {
             "name": "gold",
             "type": "number",
-            "value": 5,
+            "value": 10,
             "id": 3
           },
           {
             "name": "diamond",
             "type": "number",
-            "value": 2,
+            "value": 4,
             "id": 4
           }
         ]
@@ -1900,37 +1900,37 @@
           {
             "name": "food",
             "type": "number",
-            "value": 100,
+            "value": 200,
             "id": -1
           },
           {
             "name": "wood",
             "type": "number",
-            "value": 25,
+            "value": 50,
             "id": 0
           },
           {
             "name": "stone",
             "type": "number",
-            "value": 20,
+            "value": 40,
             "id": 1
           },
           {
             "name": "iron",
             "type": "number",
-            "value": 15,
+            "value": 30,
             "id": 2
           },
           {
             "name": "gold",
             "type": "number",
-            "value": 5,
+            "value": 10,
             "id": 3
           },
           {
             "name": "diamond",
             "type": "number",
-            "value": 2,
+            "value": 4,
             "id": 4
           }
         ]
@@ -1945,37 +1945,37 @@
           {
             "name": "food",
             "type": "number",
-            "value": 40,
+            "value": 80,
             "id": -1
           },
           {
             "name": "wood",
             "type": "number",
-            "value": 15,
+            "value": 30,
             "id": 0
           },
           {
             "name": "stone",
             "type": "number",
-            "value": 10,
+            "value": 20,
             "id": 1
           },
           {
             "name": "iron",
             "type": "number",
-            "value": 5,
+            "value": 10,
             "id": 2
           },
           {
             "name": "gold",
             "type": "number",
-            "value": 2,
+            "value": 4,
             "id": 3
           },
           {
             "name": "diamond",
             "type": "number",
-            "value": 1,
+            "value": 2,
             "id": 4
           }
         ]
@@ -1990,37 +1990,37 @@
           {
             "name": "food",
             "type": "number",
-            "value": 40,
+            "value": 80,
             "id": -1
           },
           {
             "name": "wood",
             "type": "number",
-            "value": 15,
+            "value": 30,
             "id": 0
           },
           {
             "name": "stone",
             "type": "number",
-            "value": 10,
+            "value": 20,
             "id": 1
           },
           {
             "name": "iron",
             "type": "number",
-            "value": 5,
+            "value": 10,
             "id": 2
           },
           {
             "name": "gold",
             "type": "number",
-            "value": 2,
+            "value": 4,
             "id": 3
           },
           {
             "name": "diamond",
             "type": "number",
-            "value": 1,
+            "value": 2,
             "id": 4
           }
         ]
@@ -2035,37 +2035,37 @@
           {
             "name": "food",
             "type": "number",
-            "value": 35,
+            "value": 70,
             "id": -1
           },
           {
             "name": "wood",
             "type": "number",
-            "value": 15,
+            "value": 30,
             "id": 0
           },
           {
             "name": "stone",
             "type": "number",
-            "value": 10,
+            "value": 20,
             "id": 1
           },
           {
             "name": "iron",
             "type": "number",
-            "value": 5,
+            "value": 10,
             "id": 2
           },
           {
             "name": "gold",
             "type": "number",
-            "value": 2,
+            "value": 4,
             "id": 3
           },
           {
             "name": "diamond",
             "type": "number",
-            "value": 1,
+            "value": 2,
             "id": 4
           }
         ]
@@ -2080,31 +2080,31 @@
           {
             "name": "food",
             "type": "number",
-            "value": 35,
+            "value": 70,
             "id": -1
           },
           {
             "name": "wood",
             "type": "number",
-            "value": 15,
+            "value": 30,
             "id": 0
           },
           {
             "name": "stone",
             "type": "number",
-            "value": 10,
+            "value": 20,
             "id": 1
           },
           {
             "name": "iron",
             "type": "number",
-            "value": 5,
+            "value": 10,
             "id": 2
           },
           {
             "name": "gold",
             "type": "number",
-            "value": 1,
+            "value": 2,
             "id": 3
           },
           {
@@ -2125,31 +2125,31 @@
           {
             "name": "food",
             "type": "number",
-            "value": 35,
+            "value": 70,
             "id": -1
           },
           {
             "name": "wood",
             "type": "number",
-            "value": 15,
+            "value": 30,
             "id": 0
           },
           {
             "name": "stone",
             "type": "number",
-            "value": 10,
+            "value": 20,
             "id": 1
           },
           {
             "name": "iron",
             "type": "number",
-            "value": 5,
+            "value": 10,
             "id": 2
           },
           {
             "name": "gold",
             "type": "number",
-            "value": 1,
+            "value": 2,
             "id": 3
           },
           {
@@ -2170,31 +2170,31 @@
           {
             "name": "food",
             "type": "number",
-            "value": 35,
+            "value": 70,
             "id": -1
           },
           {
             "name": "wood",
             "type": "number",
-            "value": 15,
+            "value": 30,
             "id": 0
           },
           {
             "name": "stone",
             "type": "number",
-            "value": 10,
+            "value": 20,
             "id": 1
           },
           {
             "name": "iron",
             "type": "number",
-            "value": 5,
+            "value": 10,
             "id": 2
           },
           {
             "name": "gold",
             "type": "number",
-            "value": 1,
+            "value": 2,
             "id": 3
           },
           {
@@ -2215,37 +2215,37 @@
           {
             "name": "food",
             "type": "number",
-            "value": 30,
+            "value": 60,
             "id": -1
           },
           {
             "name": "wood",
             "type": "number",
-            "value": 30,
+            "value": 60,
             "id": 0
           },
           {
             "name": "stone",
             "type": "number",
-            "value": 25,
+            "value": 50,
             "id": 1
           },
           {
             "name": "iron",
             "type": "number",
-            "value": 15,
+            "value": 30,
             "id": 2
           },
           {
             "name": "gold",
             "type": "number",
-            "value": 3,
+            "value": 6,
             "id": 3
           },
           {
             "name": "diamond",
             "type": "number",
-            "value": 0,
+            "value": 3,
             "id": 4
           }
         ]
@@ -2260,37 +2260,37 @@
           {
             "name": "food",
             "type": "number",
-            "value": 25,
+            "value": 50,
             "id": -1
           },
           {
             "name": "wood",
             "type": "number",
-            "value": 25,
+            "value": 50,
             "id": 0
           },
           {
             "name": "stone",
             "type": "number",
-            "value": 20,
+            "value": 40,
             "id": 1
           },
           {
             "name": "iron",
             "type": "number",
-            "value": 10,
+            "value": 20,
             "id": 2
           },
           {
             "name": "gold",
             "type": "number",
-            "value": 1,
+            "value": 2,
             "id": 3
           },
           {
             "name": "diamond",
             "type": "number",
-            "value": 1,
+            "value": 2,
             "id": 4
           }
         ]
@@ -2305,31 +2305,31 @@
           {
             "name": "food",
             "type": "number",
-            "value": 25,
+            "value": 50,
             "id": -1
           },
           {
             "name": "wood",
             "type": "number",
-            "value": 25,
+            "value": 50,
             "id": 0
           },
           {
             "name": "stone",
             "type": "number",
-            "value": 20,
+            "value": 40,
             "id": 1
           },
           {
             "name": "iron",
             "type": "number",
-            "value": 10,
+            "value": 20,
             "id": 2
           },
           {
             "name": "gold",
             "type": "number",
-            "value": 1,
+            "value": 2,
             "id": 3
           },
           {
@@ -2350,31 +2350,31 @@
           {
             "name": "food",
             "type": "number",
-            "value": 25,
+            "value": 50,
             "id": -1
           },
           {
             "name": "wood",
             "type": "number",
-            "value": 25,
+            "value": 50,
             "id": 0
           },
           {
             "name": "stone",
             "type": "number",
-            "value": 20,
+            "value": 40,
             "id": 1
           },
           {
             "name": "iron",
             "type": "number",
-            "value": 10,
+            "value": 20,
             "id": 2
           },
           {
             "name": "gold",
             "type": "number",
-            "value": 1,
+            "value": 2,
             "id": 3
           },
           {
@@ -2395,31 +2395,31 @@
           {
             "name": "food",
             "type": "number",
-            "value": 15,
+            "value": 30,
             "id": -1
           },
           {
             "name": "wood",
             "type": "number",
-            "value": 15,
+            "value": 30,
             "id": 0
           },
           {
             "name": "stone",
             "type": "number",
-            "value": 10,
+            "value": 20,
             "id": 1
           },
           {
             "name": "iron",
             "type": "number",
-            "value": 5,
+            "value": 10,
             "id": 2
           },
           {
             "name": "gold",
             "type": "number",
-            "value": 1,
+            "value": 2,
             "id": 3
           },
           {
