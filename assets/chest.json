@@ -418,1044 +418,7 @@
         "id": 3
       }
     ],
-    "itemList": [
-      {
-        "itemId": -1,
-        "lootId": null,
-        "percentFrom": 0,
-        "percentTo": 10,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 150,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 75,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 60,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 50,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 35,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 10,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": 26,
-        "lootId": null,
-        "percentFrom": 11,
-        "percentTo": 40,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 40,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 20,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 10,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 10,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 3,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 2,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": 27,
-        "lootId": null,
-        "percentFrom": 41,
-        "percentTo": 70,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 40,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 20,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 10,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 10,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 3,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 1,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": 28,
-        "lootId": null,
-        "percentFrom": 71,
-        "percentTo": 100,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 40,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 20,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 10,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 10,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 3,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 1,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": 10,
-        "lootId": null,
-        "percentFrom": 101,
-        "percentTo": 200,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 20,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 20,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 15,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 5,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 1,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 1,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": 11,
-        "lootId": null,
-        "percentFrom": 201,
-        "percentTo": 300,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 20,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 20,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 15,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 5,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 0,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 1,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": 12,
-        "lootId": null,
-        "percentFrom": 301,
-        "percentTo": 400,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 20,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 20,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 15,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 5,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 1,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 1,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": 13,
-        "lootId": null,
-        "percentFrom": 401,
-        "percentTo": 500,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 20,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 20,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 15,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 5,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 0,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 1,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": 14,
-        "lootId": null,
-        "percentFrom": 501,
-        "percentTo": 600,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 20,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 20,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 15,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 5,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 0,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 1,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": 15,
-        "lootId": null,
-        "percentFrom": 601,
-        "percentTo": 700,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 20,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 20,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 15,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 5,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 0,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 1,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": 16,
-        "lootId": null,
-        "percentFrom": 701,
-        "percentTo": 800,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 20,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 20,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 15,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 5,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 0,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 1,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": -1,
-        "lootId": null,
-        "percentFrom": 801,
-        "percentTo": 900,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 15,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 15,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 10,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 7,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 1,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 1,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": 0,
-        "lootId": null,
-        "percentFrom": 901,
-        "percentTo": 1200,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 10,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 5,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 3,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 2,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 0,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 1,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": 2,
-        "lootId": null,
-        "percentFrom": 1201,
-        "percentTo": 1600,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 10,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 5,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 3,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 2,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 1,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 0,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": 5,
-        "lootId": null,
-        "percentFrom": 1601,
-        "percentTo": 2000,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 10,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 5,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 3,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 2,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 1,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 0,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": 4,
-        "lootId": null,
-        "percentFrom": 2001,
-        "percentTo": 2400,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 10,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 5,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 3,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 1,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 0,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 0,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": 3,
-        "lootId": null,
-        "percentFrom": 2401,
-        "percentTo": 2800,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 10,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 5,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 3,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 2,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 1,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 0,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": 2,
-        "lootId": null,
-        "percentFrom": 2801,
-        "percentTo": 3200,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 10,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 5,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 3,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 1,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 0,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 0,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": 1,
-        "lootId": null,
-        "percentFrom": 3201,
-        "percentTo": 3600,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 10,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 5,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 3,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 2,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 1,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 0,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": -1,
-        "lootId": null,
-        "percentFrom": 3601,
-        "percentTo": 5101,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 15,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 8,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 5,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 3,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 1,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 0,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": -1,
-        "lootId": null,
-        "percentFrom": 5101,
-        "percentTo": 6100,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 5,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 5,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 3,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 2,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 1,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 0,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": -1,
-        "lootId": null,
-        "percentFrom": 6101,
-        "percentTo": 7500,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 5,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 5,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 3,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 2,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 1,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 0,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": -1,
-        "lootId": null,
-        "percentFrom": 7501,
-        "percentTo": 10000,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 10,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 4,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 2,
-            "id": 1
-          },
-          {
-            "name": "iron",
-            "type": "number",
-            "value": 1,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 0,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 0,
-            "id": 4
-          }
-        ]
-      }
-    ]
-  },
+    "itemList": [{"itemId":-1,"lootId":null,"percentFrom":0,"percentTo":9,"type":"resources","resources":[{"name":"food","type":"number","value":150,"id":-1},{"name":"wood","type":"number","value":75,"id":0},{"name":"stone","type":"number","value":60,"id":1},{"name":"iron","type":"number","value":50,"id":2},{"name":"gold","type":"number","value":35,"id":3},{"name":"diamond","type":"number","value":10,"id":4}]},{"itemId":26,"lootId":null,"percentFrom":10,"percentTo":39,"type":"resources","resources":[{"name":"food","type":"number","value":40,"id":-1},{"name":"wood","type":"number","value":20,"id":0},{"name":"stone","type":"number","value":10,"id":1},{"name":"iron","type":"number","value":10,"id":2},{"name":"gold","type":"number","value":3,"id":3},{"name":"diamond","type":"number","value":2,"id":4}]},{"itemId":27,"lootId":null,"percentFrom":40,"percentTo":69,"type":"resources","resources":[{"name":"food","type":"number","value":40,"id":-1},{"name":"wood","type":"number","value":20,"id":0},{"name":"stone","type":"number","value":10,"id":1},{"name":"iron","type":"number","value":10,"id":2},{"name":"gold","type":"number","value":3,"id":3},{"name":"diamond","type":"number","value":1,"id":4}]},{"itemId":28,"lootId":null,"percentFrom":70,"percentTo":99,"type":"resources","resources":[{"name":"food","type":"number","value":40,"id":-1},{"name":"wood","type":"number","value":20,"id":0},{"name":"stone","type":"number","value":10,"id":1},{"name":"iron","type":"number","value":10,"id":2},{"name":"gold","type":"number","value":3,"id":3},{"name":"diamond","type":"number","value":1,"id":4}]},{"itemId":10,"lootId":null,"percentFrom":100,"percentTo":199,"type":"resources","resources":[{"name":"food","type":"number","value":20,"id":-1},{"name":"wood","type":"number","value":20,"id":0},{"name":"stone","type":"number","value":15,"id":1},{"name":"iron","type":"number","value":15,"id":2},{"name":"gold","type":"number","value":1,"id":3},{"name":"diamond","type":"number","value":1,"id":4}]},{"itemId":11,"lootId":null,"percentFrom":200,"percentTo":299,"type":"resources","resources":[{"name":"food","type":"number","value":20,"id":-1},{"name":"wood","type":"number","value":20,"id":0},{"name":"stone","type":"number","value":15,"id":1},{"name":"iron","type":"number","value":15,"id":2},{"name":"gold","type":"number","value":0,"id":3},{"name":"diamond","type":"number","value":1,"id":4}]},{"itemId":12,"lootId":null,"percentFrom":300,"percentTo":399,"type":"resources","resources":[{"name":"food","type":"number","value":20,"id":-1},{"name":"wood","type":"number","value":20,"id":0},{"name":"stone","type":"number","value":15,"id":1},{"name":"iron","type":"number","value":15,"id":2},{"name":"gold","type":"number","value":1,"id":3},{"name":"diamond","type":"number","value":1,"id":4}]},{"itemId":13,"lootId":null,"percentFrom":400,"percentTo":499,"type":"resources","resources":[{"name":"food","type":"number","value":20,"id":-1},{"name":"wood","type":"number","value":20,"id":0},{"name":"stone","type":"number","value":15,"id":1},{"name":"iron","type":"number","value":15,"id":2},{"name":"gold","type":"number","value":0,"id":3},{"name":"diamond","type":"number","value":1,"id":4}]},{"itemId":14,"lootId":null,"percentFrom":500,"percentTo":599,"type":"resources","resources":[{"name":"food","type":"number","value":20,"id":-1},{"name":"wood","type":"number","value":20,"id":0},{"name":"stone","type":"number","value":15,"id":1},{"name":"iron","type":"number","value":15,"id":2},{"name":"gold","type":"number","value":0,"id":3},{"name":"diamond","type":"number","value":1,"id":4}]},{"itemId":15,"lootId":null,"percentFrom":600,"percentTo":699,"type":"resources","resources":[{"name":"food","type":"number","value":20,"id":-1},{"name":"wood","type":"number","value":20,"id":0},{"name":"stone","type":"number","value":15,"id":1},{"name":"iron","type":"number","value":15,"id":2},{"name":"gold","type":"number","value":0,"id":3},{"name":"diamond","type":"number","value":1,"id":4}]},{"itemId":16,"lootId":null,"percentFrom":700,"percentTo":799,"type":"resources","resources":[{"name":"food","type":"number","value":20,"id":-1},{"name":"wood","type":"number","value":20,"id":0},{"name":"stone","type":"number","value":15,"id":1},{"name":"iron","type":"number","value":15,"id":2},{"name":"gold","type":"number","value":0,"id":3},{"name":"diamond","type":"number","value":1,"id":4}]},{"itemId":-1,"lootId":null,"percentFrom":800,"percentTo":900,"type":"resources","resources":[{"name":"food","type":"number","value":15,"id":-1},{"name":"wood","type":"number","value":15,"id":0},{"name":"stone","type":"number","value":10,"id":1},{"name":"iron","type":"number","value":10,"id":2},{"name":"gold","type":"number","value":1,"id":3},{"name":"diamond","type":"number","value":1,"id":4}]},{"itemId":0,"lootId":null,"percentFrom":901,"percentTo":1200,"type":"resources","resources":[{"name":"food","type":"number","value":10,"id":-1},{"name":"wood","type":"number","value":5,"id":0},{"name":"stone","type":"number","value":3,"id":1},{"name":"iron","type":"number","value":3,"id":2},{"name":"gold","type":"number","value":0,"id":3},{"name":"diamond","type":"number","value":1,"id":4}]},{"itemId":5,"lootId":null,"percentFrom":1201,"percentTo":1600,"type":"resources","resources":[{"name":"food","type":"number","value":10,"id":-1},{"name":"wood","type":"number","value":5,"id":0},{"name":"stone","type":"number","value":3,"id":1},{"name":"iron","type":"number","value":3,"id":2},{"name":"gold","type":"number","value":1,"id":3},{"name":"diamond","type":"number","value":0,"id":4}]},{"itemId":4,"lootId":null,"percentFrom":1601,"percentTo":2000,"type":"resources","resources":[{"name":"food","type":"number","value":10,"id":-1},{"name":"wood","type":"number","value":5,"id":0},{"name":"stone","type":"number","value":3,"id":1},{"name":"iron","type":"number","value":3,"id":2},{"name":"gold","type":"number","value":0,"id":3},{"name":"diamond","type":"number","value":0,"id":4}]},{"itemId":3,"lootId":null,"percentFrom":2001,"percentTo":2400,"type":"resources","resources":[{"name":"food","type":"number","value":10,"id":-1},{"name":"wood","type":"number","value":5,"id":0},{"name":"stone","type":"number","value":3,"id":1},{"name":"iron","type":"number","value":3,"id":2},{"name":"gold","type":"number","value":1,"id":3},{"name":"diamond","type":"number","value":0,"id":4}]},{"itemId":2,"lootId":null,"percentFrom":2401,"percentTo":2800,"type":"resources","resources":[{"name":"food","type":"number","value":10,"id":-1},{"name":"wood","type":"number","value":5,"id":0},{"name":"stone","type":"number","value":3,"id":1},{"name":"iron","type":"number","value":3,"id":2},{"name":"gold","type":"number","value":0,"id":3},{"name":"diamond","type":"number","value":0,"id":4}]},{"itemId":1,"lootId":null,"percentFrom":2801,"percentTo":3200,"type":"resources","resources":[{"name":"food","type":"number","value":10,"id":-1},{"name":"wood","type":"number","value":5,"id":0},{"name":"stone","type":"number","value":2,"id":1},{"name":"iron","type":"number","value":2,"id":2},{"name":"gold","type":"number","value":1,"id":3},{"name":"diamond","type":"number","value":0,"id":4}]},{"itemId":-1,"lootId":null,"percentFrom":3201,"percentTo":4700,"type":"resources","resources":[{"name":"food","type":"number","value":15,"id":-1},{"name":"wood","type":"number","value":8,"id":0},{"name":"stone","type":"number","value":5,"id":1},{"name":"iron","type":"number","value":5,"id":2},{"name":"gold","type":"number","value":1,"id":3},{"name":"diamond","type":"number","value":0,"id":4}]},{"itemId":-1,"lootId":null,"percentFrom":4701,"percentTo":5700,"type":"resources","resources":[{"name":"food","type":"number","value":5,"id":-1},{"name":"wood","type":"number","value":5,"id":0},{"name":"stone","type":"number","value":3,"id":1},{"name":"iron","type":"number","value":3,"id":2},{"name":"gold","type":"number","value":1,"id":3},{"name":"diamond","type":"number","value":0,"id":4}]},{"itemId":-1,"lootId":null,"percentFrom":5701,"percentTo":7100,"type":"resources","resources":[{"name":"food","type":"number","value":5,"id":-1},{"name":"wood","type":"number","value":5,"id":0},{"name":"stone","type":"number","value":2,"id":1},{"name":"iron","type":"number","value":2,"id":2},{"name":"gold","type":"number","value":1,"id":3},{"name":"diamond","type":"number","value":0,"id":4}]},{"itemId":-1,"lootId":null,"percentFrom":7101,"percentTo":10000,"type":"resources","resources":[{"name":"food","type":"number","value":10,"id":-1},{"name":"wood","type":"number","value":4,"id":0},{"name":"stone","type":"number","value":2,"id":1},{"name":"iron","type":"number","value":2,"id":2},{"name":"gold","type":"number","value":0,"id":3},{"name":"diamond","type":"number","value":0,"id":4}]}]  },
   {
     "price": 899,
     "chance": [
@@ -1490,7 +453,7 @@
         "lootId": null,
         "percentFrom": 0,
         "percentTo": 29,
-        "type": "resource",
+        "type": "resources",
         "resources": [
           {
             "name": "food",
@@ -1507,7 +470,7 @@
           {
             "name": "stone",
             "type": "number",
-            "value": 240,
+            "value": 200,
             "id": 1
           },
           {
@@ -1535,7 +498,7 @@
         "lootId": null,
         "percentFrom": 30,
         "percentTo": 60,
-        "type": "resource",
+        "type": "resources",
         "resources": [
           {
             "name": "food",
@@ -1552,7 +515,7 @@
           {
             "name": "stone",
             "type": "number",
-            "value": 240,
+            "value": 200,
             "id": 1
           },
           {
@@ -1580,12 +543,12 @@
         "lootId": null,
         "percentFrom": 61,
         "percentTo": 130,
-        "type": "resource",
+        "type": "resources",
         "resources": [
           {
             "name": "food",
             "type": "number",
-            "value": 300,
+            "value": 150,
             "id": -1
           },
           {
@@ -1597,7 +560,7 @@
           {
             "name": "stone",
             "type": "number",
-            "value": 120,
+            "value": 100,
             "id": 1
           },
           {
@@ -1625,12 +588,12 @@
         "lootId": null,
         "percentFrom": 131,
         "percentTo": 230,
-        "type": "resource",
+        "type": "resources",
         "resources": [
           {
             "name": "food",
             "type": "number",
-            "value": 200,
+            "value": 50,
             "id": -1
           },
           {
@@ -1642,7 +605,7 @@
           {
             "name": "stone",
             "type": "number",
-            "value": 40,
+            "value": 30,
             "id": 1
           },
           {
@@ -1670,12 +633,12 @@
         "lootId": null,
         "percentFrom": 231,
         "percentTo": 330,
-        "type": "resource",
+        "type": "resources",
         "resources": [
           {
             "name": "food",
             "type": "number",
-            "value": 200,
+            "value": 50,
             "id": -1
           },
           {
@@ -1687,7 +650,7 @@
           {
             "name": "stone",
             "type": "number",
-            "value": 40,
+            "value": 30,
             "id": 1
           },
           {
@@ -1715,12 +678,12 @@
         "lootId": null,
         "percentFrom": 331,
         "percentTo": 430,
-        "type": "resource",
+        "type": "resources",
         "resources": [
           {
             "name": "food",
             "type": "number",
-            "value": 200,
+            "value": 50,
             "id": -1
           },
           {
@@ -1732,7 +695,7 @@
           {
             "name": "stone",
             "type": "number",
-            "value": 40,
+            "value": 30,
             "id": 1
           },
           {
@@ -1760,12 +723,12 @@
         "lootId": null,
         "percentFrom": 431,
         "percentTo": 530,
-        "type": "resource",
+        "type": "resources",
         "resources": [
           {
             "name": "food",
             "type": "number",
-            "value": 200,
+            "value": 50,
             "id": -1
           },
           {
@@ -1777,7 +740,7 @@
           {
             "name": "stone",
             "type": "number",
-            "value": 40,
+            "value": 30,
             "id": 1
           },
           {
@@ -1805,12 +768,12 @@
         "lootId": null,
         "percentFrom": 531,
         "percentTo": 630,
-        "type": "resource",
+        "type": "resources",
         "resources": [
           {
             "name": "food",
             "type": "number",
-            "value": 200,
+            "value": 50,
             "id": -1
           },
           {
@@ -1822,7 +785,7 @@
           {
             "name": "stone",
             "type": "number",
-            "value": 40,
+            "value": 30,
             "id": 1
           },
           {
@@ -1850,12 +813,12 @@
         "lootId": null,
         "percentFrom": 631,
         "percentTo": 730,
-        "type": "resource",
+        "type": "resources",
         "resources": [
           {
             "name": "food",
             "type": "number",
-            "value": 200,
+            "value": 50,
             "id": -1
           },
           {
@@ -1867,7 +830,7 @@
           {
             "name": "stone",
             "type": "number",
-            "value": 40,
+            "value": 30,
             "id": 1
           },
           {
@@ -1895,12 +858,12 @@
         "lootId": null,
         "percentFrom": 731,
         "percentTo": 830,
-        "type": "resource",
+        "type": "resources",
         "resources": [
           {
             "name": "food",
             "type": "number",
-            "value": 200,
+            "value": 50,
             "id": -1
           },
           {
@@ -1912,7 +875,7 @@
           {
             "name": "stone",
             "type": "number",
-            "value": 40,
+            "value": 30,
             "id": 1
           },
           {
@@ -1940,12 +903,12 @@
         "lootId": null,
         "percentFrom": 831,
         "percentTo": 1130,
-        "type": "resource",
+        "type": "resources",
         "resources": [
           {
             "name": "food",
             "type": "number",
-            "value": 80,
+            "value": 30,
             "id": -1
           },
           {
@@ -1957,7 +920,7 @@
           {
             "name": "stone",
             "type": "number",
-            "value": 20,
+            "value": 10,
             "id": 1
           },
           {
@@ -1985,12 +948,12 @@
         "lootId": null,
         "percentFrom": 1131,
         "percentTo": 1430,
-        "type": "resource",
+        "type": "resources",
         "resources": [
           {
             "name": "food",
             "type": "number",
-            "value": 80,
+            "value": 30,
             "id": -1
           },
           {
@@ -2001,53 +964,8 @@
           },
           {
             "name": "stone",
-            "type": "number",
-            "value": 20,
-            "id": 1
-          },
-          {
-            "name": "iron",
             "type": "number",
             "value": 10,
-            "id": 2
-          },
-          {
-            "name": "gold",
-            "type": "number",
-            "value": 4,
-            "id": 3
-          },
-          {
-            "name": "diamond",
-            "type": "number",
-            "value": 2,
-            "id": 4
-          }
-        ]
-      },
-      {
-        "itemId": 17,
-        "lootId": null,
-        "percentFrom": 1431,
-        "percentTo": 1800,
-        "type": "resource",
-        "resources": [
-          {
-            "name": "food",
-            "type": "number",
-            "value": 70,
-            "id": -1
-          },
-          {
-            "name": "wood",
-            "type": "number",
-            "value": 30,
-            "id": 0
-          },
-          {
-            "name": "stone",
-            "type": "number",
-            "value": 20,
             "id": 1
           },
           {
@@ -2073,14 +991,14 @@
       {
         "itemId": 18,
         "lootId": null,
-        "percentFrom": 1801,
-        "percentTo": 2200,
-        "type": "resource",
+        "percentFrom": 1431,
+        "percentTo": 1800,
+        "type": "resources",
         "resources": [
           {
             "name": "food",
             "type": "number",
-            "value": 70,
+            "value": 30,
             "id": -1
           },
           {
@@ -2092,7 +1010,7 @@
           {
             "name": "stone",
             "type": "number",
-            "value": 20,
+            "value": 10,
             "id": 1
           },
           {
@@ -2104,7 +1022,7 @@
           {
             "name": "gold",
             "type": "number",
-            "value": 2,
+            "value": 4,
             "id": 3
           },
           {
@@ -2116,16 +1034,61 @@
         ]
       },
       {
-        "itemId": 20,
+        "itemId": -1,
+        "lootId": null,
+        "percentFrom": 1801,
+        "percentTo": 2200,
+        "type": "resources",
+        "resources": [
+          {
+            "name": "food",
+            "type": "number",
+            "value": 30,
+            "id": -1
+          },
+          {
+            "name": "wood",
+            "type": "number",
+            "value": 30,
+            "id": 0
+          },
+          {
+            "name": "stone",
+            "type": "number",
+            "value": 10,
+            "id": 1
+          },
+          {
+            "name": "iron",
+            "type": "number",
+            "value": 10,
+            "id": 2
+          },
+          {
+            "name": "gold",
+            "type": "number",
+            "value": 4,
+            "id": 3
+          },
+          {
+            "name": "diamond",
+            "type": "number",
+            "value": 2,
+            "id": 4
+          }
+        ]
+      },
+      {
+        "itemId": -1,
         "lootId": null,
         "percentFrom": 2201,
         "percentTo": 2800,
-        "type": "resource",
+        "type": "resources",
         "resources": [
           {
             "name": "food",
             "type": "number",
-            "value": 70,
+            "value": 30,
             "id": -1
           },
           {
@@ -2137,7 +1100,7 @@
           {
             "name": "stone",
             "type": "number",
-            "value": 20,
+            "value": 10,
             "id": 1
           },
           {
@@ -2149,7 +1112,7 @@
           {
             "name": "gold",
             "type": "number",
-            "value": 2,
+            "value": 4,
             "id": 3
           },
           {
@@ -2161,16 +1124,16 @@
         ]
       },
       {
-        "itemId": 23,
+        "itemId": -1,
         "lootId": null,
         "percentFrom": 2801,
         "percentTo": 3400,
-        "type": "resource",
+        "type": "resources",
         "resources": [
           {
             "name": "food",
             "type": "number",
-            "value": 70,
+            "value": 30,
             "id": -1
           },
           {
@@ -2182,7 +1145,7 @@
           {
             "name": "stone",
             "type": "number",
-            "value": 20,
+            "value": 10,
             "id": 1
           },
           {
@@ -2194,7 +1157,7 @@
           {
             "name": "gold",
             "type": "number",
-            "value": 2,
+            "value": 4,
             "id": 3
           },
           {
@@ -2209,8 +1172,8 @@
         "itemId": -1,
         "lootId": null,
         "percentFrom": 3401,
-        "percentTo": 5000,
-        "type": "resource",
+        "percentTo": 4200,
+        "type": "resources",
         "resources": [
           {
             "name": "food",
@@ -2227,7 +1190,52 @@
           {
             "name": "stone",
             "type": "number",
-            "value": 50,
+            "value": 30,
+            "id": 1
+          },
+          {
+            "name": "iron",
+            "type": "number",
+            "value": 30,
+            "id": 2
+          },
+          {
+            "name": "gold",
+            "type": "number",
+            "value": 6,
+            "id": 3
+          },
+          {
+            "name": "diamond",
+            "type": "number",
+            "value": 3,
+            "id": 4
+          }
+        ]
+      },
+      {
+        "itemId": -1,
+        "lootId": null,
+        "percentFrom": 4201,
+        "percentTo": 5000,
+        "type": "resources",
+        "resources": [
+          {
+            "name": "food",
+            "type": "number",
+            "value": 60,
+            "id": -1
+          },
+          {
+            "name": "wood",
+            "type": "number",
+            "value": 60,
+            "id": 0
+          },
+          {
+            "name": "stone",
+            "type": "number",
+            "value": 30,
             "id": 1
           },
           {
@@ -2255,7 +1263,7 @@
         "lootId": null,
         "percentFrom": 5001,
         "percentTo": 6000,
-        "type": "resource",
+        "type": "resources",
         "resources": [
           {
             "name": "food",
@@ -2272,7 +1280,7 @@
           {
             "name": "stone",
             "type": "number",
-            "value": 40,
+            "value": 20,
             "id": 1
           },
           {
@@ -2290,7 +1298,7 @@
           {
             "name": "diamond",
             "type": "number",
-            "value": 2,
+            "value": 1,
             "id": 4
           }
         ]
@@ -2300,7 +1308,7 @@
         "lootId": null,
         "percentFrom": 6001,
         "percentTo": 7000,
-        "type": "resource",
+        "type": "resources",
         "resources": [
           {
             "name": "food",
@@ -2317,7 +1325,7 @@
           {
             "name": "stone",
             "type": "number",
-            "value": 40,
+            "value": 20,
             "id": 1
           },
           {
@@ -2335,7 +1343,7 @@
           {
             "name": "diamond",
             "type": "number",
-            "value": 0,
+            "value": 1,
             "id": 4
           }
         ]
@@ -2345,7 +1353,7 @@
         "lootId": null,
         "percentFrom": 7001,
         "percentTo": 8000,
-        "type": "resource",
+        "type": "resources",
         "resources": [
           {
             "name": "food",
@@ -2362,7 +1370,7 @@
           {
             "name": "stone",
             "type": "number",
-            "value": 40,
+            "value": 20,
             "id": 1
           },
           {
@@ -2390,7 +1398,7 @@
         "lootId": null,
         "percentFrom": 8001,
         "percentTo": 10000,
-        "type": "resource",
+        "type": "resources",
         "resources": [
           {
             "name": "food",
