@@ -1,3 +1,6 @@
 {
-
+  "about": ["О проекте", "About", "关于"],
+  "trailer": ["Трейлер игры", "Trailer of the game", "游戏预告片"],
+  "partners": ["Партнерка", "Partner", "伙伴"],
+  "graphic": ["График инвестиций", "Graphic", "投资时间表"]
 }
