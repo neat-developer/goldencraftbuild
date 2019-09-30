@@ -51,12 +51,77 @@
     "邀请朋友和您一起玩，共同发展。 智能合约会自动向您收取所有推荐费用的10％（拍卖，买房，购买案例等）。 有关更多信息以及如何增加引荐百分比的信息，请参见游戏中的“引荐程序”部分。"
   ],
 
-
   "partnersDescription": [
     "Мы постарались разработать хорошую партнерскую программу, чтобы Вы могли зарабатывать приглашая других игроков. Приглашая других пользователей в <span class=\"text-warning\">GoldenCraft</span>, Вы сразу же получаете на свой кошелек криптовалюту TRON, смартконтракт разработан таким образом что вы моментально получаете криптовалюту на свой счет. Вся статистика по приглашениям и прибыли доступна в игре. Мы очень надеемся, что разработали очень хороший продукт, с помощью которого Вы сможете зарабатывать. После регистрации, Ваш реферальный бонус равен <span class=\"text-warning\">10%</span>. Приглашая другого пользователя в игру Вы моментально получаете криптовалюту за его действия в игре, а именно <span class=\"text-info\">Покупка дома</span>, <span class=\"text-info\">регистрационная комиссия</span>, <span class=\"text-info\">покупка сундуков</span>, <span class=\"text-info\">отправка сообщений в чат</span>, <span class=\"text-info\">торговля на аукционе</span>. Вы также можете увеличить процент партнерской программы до <span class=\"text-warning\">50%</span>, для этого нужно стать нашим партнером, более подробная информация доступна внутри игры, кликните по иконке <span class=\"text-warning\">Реферальная программа</span>. Играйте и зарабатывайте вместе с <span class=\"text-info\">GoldenCraft</span>.",
     "We tried to develop a good affiliate program so that you can earn money by inviting other players. By inviting other users to <span class=\"text-warning\"> GoldenCraft </span>, you immediately receive TRON cryptocurrency on your wallet, the smart contract is designed in such a way that you instantly receive cryptocurrency on your account. All statistics on invitations and profits are available in the game. We really hope that we have developed a very good product with which you can earn money. After registration, your referral bonus is equal to <span class=\"text-warning\"> 10% </span>. By inviting another user to the game, you instantly receive cryptocurrency for his actions in the game, namely <span class=\"text-info\"> Buying a house </span>, <span class=\"text-info\"> registration fee </span> , <span class=\"text-info\"> buying chests </span>, <span class=\"text-info\"> sending chat messages </span>, <span class=\"text-info\"> auction trading </span>. You can also increase the percentage of affiliate programs to <span class=\"text-warning\"> 50% </span>, for this you need to become our partner, more detailed information is available inside the game, click on the <span class=\"text-warning icon \"> Referral program </span>. Play and earn with <span class=\"text-info\"> GoldenCraft </span>.",
     "我们试图开发一个良好的会员计划，以便您可以通过邀请其他玩家来赚钱。通过邀请其他用户使用<span class=\"text-warning\"> GoldenCraft </ span>，您可以立即在钱包中接收TRON加密货币，该智能合约的设计方式是，您可以立即在您的帐户中接收加密货币。游戏中提供了有关邀请和利润的所有统计信息。我们真的希望我们开发出了一种很好的产品，可以赚钱。注册后，您的推荐奖金等于<span class=\"text-warning\"> 10％</ span>。通过邀请其他用户参加游戏，您可以立即获得他在游戏中的操作所产生的加密货币，即<span class=\"text-info\">买房</ span>，<span class=\"text-info\">注册费</span> ，<span class=\"text-info\">采购箱</ span>，<span class=\"text-info\">发送聊天消息</ span>，<span class=\"text-info\">拍卖交易</跨度>。您还可以将会员计划的比例提高到<span class=\"text-warning\"> 30％</ span>，为此，您需要成为我们的合作伙伴，游戏中提供了更多详细信息，请单击<span class=\"text-warning图标\">推荐程序</ span>。使用<span class=\"text-info\"> GoldenCraft </span>进行游戏并赚钱。"
   ],
+
+
+  "startGame1Description": [
+    "Добро пожаловать в <span class=\"text-warning\">GoldenCraft</span>, игра запущена в блокчейне <b class=\"text-success\">TRX</b>. Развивайтесь и добывайте ресурсы, посещайте данжы, улучшайте свой дом, а также создавайте и улучшайте свою экипировку и обменивайтесь с другими игроками, используя криптовалюту TRON. Соревнуйтесь с игроками по всему миру. Обменивайтесь сообщениями в чате, поощеряйте друг-друга, зарабатывайте на реферальной программе. Посещайте данжы, собирайте ежедневные бонусы, собирайте урожай и добывайте сундуки. Все это доступно в <span class=\"text-warning\">GoldenCraft</span>. Нажмите на кнопку далее, для дальнейшего ознакомления. ",
+    "Welcome to <span class=\"text-warning\"> GoldenCraft </span>, the game is launched on the <b class=\"text-success\"> TRX </b> blockchain. Develop and get resources, visit dungeons, upgrade your home, and also create and improve your equipment and exchange with other players using TRON cryptocurrency. Compete with players around the world. Exchange chat messages, encourage each other, earn money on a referral program. Visit dungeons, collect daily bonuses, collect crops and get chests. All of this is available at <span class=\"text-warning\"> GoldenCraft </span>. Click on the button for further review.",
+    "欢迎使用<span class=\"text-warning\"> GoldenCraft </span>，该游戏已在 <b class=\"text-success\"> TRX </b>区块链上启动。开发和获取资源，访问地牢，改善您的家园，还创建和改善您的设备并使用TRON加密货币与其他玩家交换。与世界各地的玩家竞争。交流聊天消息，互相鼓励，通过推荐计划赚钱。参观地牢，收集每日奖金，收集庄稼，并获得箱子。所有这些都可以在 <span class=\"text-warning\"> GoldenCraft </span>中获得。单击按钮进行进一步检查。"
+  ],
+  "startGame2Description": [
+    "Используйте маркеры для смены позиций, с помощью мыши можно вращать головой, с помощью колесика можно увеличивать или отдалять камеру. Нажмите кнопку далее и смените позицию.",
+    "Use markers to change positions, use the mouse to rotate your head, use the wheel to zoom in or out on the camera. Click on the button and change the position.",
+    "使用标记改变位置，使用鼠标旋转头部，使用滚轮在相机上放大或缩小。 单击按钮并更改位置。"
+  ],
+  "startGame3Description": [
+    "Отлично! У Вас хорошо получается, теперь Вы знаете как менять позицию, пришло время выбрать дом, обращайте внимание на стоимость и ежедневный бонус.",
+    "Fine! You are doing well, now you know how to change position, it's time to choose a house, pay attention to the cost and daily bonus.",
+    "好极了！ 您做得不错，现在您知道该如何换仓了，该选择房子了，注意成本和每日奖金。"
+  ],
+
+  "startGame4Description": [
+    "Теперь следует выбрать дом, чем выше дом по классу, тем больше ежедневный бонус. <span class=\"text-info\">Еда</span> нужна для посещения разного рода данжей, такие как <span class=\"text-success\" title=\"Позволяет добывать ресурсы/опыт\">шахта</span>, <span class=\"text-success\" title=\"Увеличивает уровень пищи\">ферма</span>, <span class=\"text-success\" title=\"Можно получить большое количество опыта\">ад</span> и <span class=\"text-success\" title=\"Можно получить огромное количество опыта\">край</span>.  В игре Вам также доступна опция улучшения дома, что позволяет получить дополнительные игровые возможности. А также, с каждым уровнем увеличивается Ваш ежедневный бонус.  Все Ваши игровые данные, после регистрации, будут храниться в блокчейне изменить или как-то затереть эти данные невозможно, развивайтесь и зарабатывайте в игре <span class=\"text-warning\">GoldenCraft</span>.",
+    "Now you should choose a house, the higher the house in the class, the greater the daily bonus. <span class=\"text-info\">Food</span> is needed to visit all kinds of dungeons, such as <span class=\"text-success\" title=\"Allows you to extract resources / experience\"> mine </span>, <span class=\"text-success\" title=\"Increases food level\">farm</span>, <span class=\"text-success\" title=\"You can get a lot of experience\"> hell </span> and <span class=\"text-success\" title=\"You can get a huge amount of experience\"> edge </span>. In the game you also have the option of home improvement, which allows you to get additional gaming features. And also, with each level your daily bonus increases. All your game data, after registration, will be stored on the blockchain or it’s impossible to erase this data somehow, develop and earn in the game <span class=\"text-warning\">GoldenCraft</span>. ",
+    "现在您应该选择一所房子，班上的房子越高，每日奖金就越大。<span class=\"text-info\">食品</span> 需要参观各种各样的地牢，例如<span class=\"text-success\" title=\"允许挖掘资源/经验\">矿</span>, <span class=\"text-success\" title=\"增加食物水平\">农场</span>, <span class=\"text-success\" title=\"您可以获得很多经验。\">地狱</span> 和 <span class=\"text-success\" title=\"您可以获得很多经验。\">边缘</span>.  在游戏中，您还可以选择家庭装修，从而获得其他游戏功能。 而且，每增加一个级别，您的每日奖金就会增加。 注册后，您所有的游戏数据都将存储在区块链中；无法更改或以某种方式擦除这些数据，在游戏中开发并赚钱 <span class=\"text-warning\">GoldenCraft</span>."
+  ],
+
+  "startGame6Description": [
+    "Отлично! Самое время подумать над ником, максимальная длина ника  <span class=\"text-warning\">15 символов</span>, а минимальная  <span class=\"text-warning\">3 символа</span>. Использовать можно только латинский алфавит, пример:  <span class=\"text-info\">nickname12</span>",
+    "Fine! It's time to think about the nickname, the maximum length of the nickname is <span class=\"text-warning\"> 15 characters </span>, and the minimum is <span class=\"text-warning\"> 3 characters </span>. You can only use the Latin alphabet, for example: <span class=\"text-info\"> nickname12 </span>",
+    "好极了！ 现在该考虑昵称了，昵称的最大长度为<span class=\"text-warning\"> 15个字符</span>，最小长度为<span class=\"text-warning\"> 3个字符</span>。 您只能使用拉丁字母，例如：<span class=\"text-info\">nickname12 </span>"
+  ],
+
+  "startGame7DescriptionBefore": [
+    "Это было достаточно просто, не так ли? Теперь необходимо завести TRON кошелек, а также пополнить его, следуйте простой инструкции, кликнув",
+    "It was simple enough, right? Now you need to get a TRON wallet, as well as replenish it, follow the simple instructions by clicking",
+    "很简单，对吧？ 现在，您需要获取一个TRON钱包并进行充值，请按照以下简单说明进行操作："
+  ],
+  "startGame7DescriptionAfter": [
+    "Если у Вас уже установлено и настроено расширение TronLink, жмите \"Далее\"",
+    "If you have already installed and configured the TronLink extension, click \"Next\"",
+    "如果您已经安装并配置了TronLink扩展，请单击“下一步”。"
+  ],
+
+  "startGame8Description": [
+    "Поздравляем, Вы справились с данной задачей, добро пожаловать в игру. Вас ждет масса увлекательных вещей!",
+    "Congratulations, you coped with this task, welcome to the game. You will find a lot of exciting things!",
+    "恭喜，您已经完成了这项任务，欢迎来到游戏中。 您会发现很多令人兴奋的东西！"
+  ],
+
+  "enterNickname": ["Введите никнейм персонажа", "Type nickname of your character", "输入角色的昵称"],
+
+  "hide": ["Свернуть", "Hide", "隐藏"],
+  "here": ["Здесь", "Here", "这里"],
+  "next": ["Далее", "Next", "进一步"],
+  "back": ["Назад", "Back", "前"],
+  "open": ["Открыть", "Open", "开放"],
+  "continueRegistration": ["Продолжить регистрацию", "Continue registration", "继续注册"],
+
+  "food": ["Еда", "Food", "食品"],
+  "wood": ["Дерево", "Wood", "木"],
+  "stone": ["Камень", "Stone", "石"],
+  "iron": ["Железо", "Iron", "铁"],
+  "gold": ["Золото", "Gold", "黄金"],
+  "diamond": ["Алмаз", "Diamond", "钻石"],
+  "mine": ["Шахта", "Mine", "矿"],
+  "farm": ["Ферма", "Farm", "农场"],
+  "hell": ["Ад", "Hell", "地狱"],
+  "edge": ["Край", "Edge", "边缘"],
 
   "registration": ["Регистрация","Registration","注册"],
   "dailyBonus": ["Ежедневный бонус","Daily Bonus","每日奖金"],
