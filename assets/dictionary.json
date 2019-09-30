@@ -110,6 +110,14 @@
   "next": ["Далее", "Next", "进一步"],
   "back": ["Назад", "Back", "前"],
   "open": ["Открыть", "Open", "开放"],
+  "this": ["Это", "This", "是的"],
+  "withdraw": ["Вывести", "Withdraw", "退出"],
+  "percent": ["Процент", "Percent", "百分比"],
+  "calculate": ["Рассчитать", "Calculate", "计算"],
+  "yourBalance": ["Ваш баланс", "Your balance", "您的余额"],
+
+
+
   "continueRegistration": ["Продолжить регистрацию", "Continue registration", "继续注册"],
 
   "food": ["Еда", "Food", "食品"],
@@ -118,10 +126,19 @@
   "iron": ["Железо", "Iron", "铁"],
   "gold": ["Золото", "Gold", "黄金"],
   "diamond": ["Алмаз", "Diamond", "钻石"],
+  "pearl": ["Жемчуг", "Pearl", "珍珠"],
+  "username": ["Имя пользователя", "Username", "用户名"],
+  "pearls": ["Жемчужин", "Pearls", "珍珠"],
   "mine": ["Шахта", "Mine", "矿"],
   "farm": ["Ферма", "Farm", "农场"],
   "hell": ["Ад", "Hell", "地狱"],
   "edge": ["Край", "Edge", "边缘"],
+
+  "totalDailyBonus": ["Общая сумма сбора", "Total points", "总积分"],
+  "ratingComponentCollectedDescription": ["Сегодня вы собрали", "Today you collected", "今天你收集了"],
+  "fromAllCollected": ["от всех собранных.", "from all collected.", "从所有收集的。"],
+  "YouWillReceiveApproximately": ["Вы получите примерно", "You will receive approximately", "您会收到大约"],
+  "ratingComponentDividendDescription": ["Вы можете забрать дивиденды в любой момент. Дивиденды начисляются за действия, совершенные в игре. На сегодняшний день в сокровищнице дракона:", "You can pick up dividends at any time. Dividends are accrued for actions committed in the game. To date, in the treasury of the dragon:", "您可以随时提取股息。 在游戏中进行的动作会产生红利。 迄今为止，在龙的金库中："],
 
   "registration": ["Регистрация","Registration","注册"],
   "dailyBonus": ["Ежедневный бонус","Daily Bonus","每日奖金"],
