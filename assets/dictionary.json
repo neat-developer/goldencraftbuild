@@ -9,6 +9,54 @@
   "turnover": ["Общий оборот игры", "The total turnover", "总营业额"],
   "incomeOfReferral": ["Общая прибль рефералов", "Profit of referrals", "推荐利润"],
   "itemsCreated": ["Предметов создано", "Items Created", "创建的项目"],
+  "chat": ["Чат", "Chat", "聊天室"],
+  "time": ["Время", "Time", "时间"],
+  "action": ["Действие", "Action", "效果"],
+  "address": ["Адрес", "Address", "地址"],
+
+  "playInTronBlockchain": ["Играй в блокчейне трона", "Play in TRON blockchain", "在TRON区块链中玩"],
+  "playInTronBlockchainDescription": [
+    "Игра работает на блокчейне Tron, для игры вам понадобится расширение TronLink и криптовалюта TRX. Все доступные объекты, ресурсы, информация о домах, сообщения в чатах и прочее, все это хранится в блокчейне.",
+    "The game runs on the Tron blockchain, for the game you will need the TronLink extension and the TRX cryptocurrency. All available objects, resources, information about houses, chat messages and more, all this is stored on the blockchain.",
+    "该游戏在Tron区块链上运行，对于该游戏，您需要TronLink扩展和TRX加密货币。 所有可用的对象，资源，有关房屋的信息，聊天消息等等，所有这些都存储在区块链上。"
+  ],
+  "getDailyDividends": ["Получай дивидендные выплаты", "Get daily dividends", "获得每日股息"],
+  "getDailyDividendsDescription": [
+    "70% инвестиций идет в фонд дивидендов, на основании этого фонда формируется ежедневный пул и начисляются ежедневные выплаты. За посещение данжей, кроме ресурсов и опыта, вы также получаете Жемчуг Эндера, на основе Жемчуга формируется ежедневный рейтинг и дивиденды будут распределяться в процентном соотношении между всеми игроками.",
+    "70% of the investment goes to the dividend fund, on the basis of this fund a daily pool is formed and daily payments are calculated. For visiting dungeons, in addition to resources and experience, you also receive Ender Pearls, a daily rating is formed on the basis of Pearls and dividends will be distributed as a percentage of all players.",
+    "投资的70％用于股息基金，在此基金的基础上形成每日资金池并计算每日付款。 对于访问地下城的玩家，除了资源和经验外，您还将获得Ender Pearls，它将根据Pearls进行每日评分，并且红利将按所有玩家的百分比进行分配。"
+  ],
+  "improveYourHome": ["Улучшай свой дом", "Play in TRON blockchain", "改善你的家"],
+  "improveYourHomeDescription": [
+    "Чтобы начать вам нужно купить свой дом. Дом позволяет получать ежедневный бонус, количество ресурсов в бонусе зависит от выбранного вами дома. Повышайте уровни дома, это увеличит ваш ежедневный бонус и откроет новые возможности.",
+    "To start you need to buy your home. The house allows you to receive a daily bonus, the amount of resources in the bonus depends on the house you choose. Raise levels at home, this will increase your daily bonus and open up new opportunities.",
+    "首先，您需要购买房屋。 房子可以让您获得每日奖金，奖金中的资源量取决于您选择的房子。 提高在家的水平，这将增加您的每日奖金并开辟新的机会。"
+  ],
+  "opportunities": ["Возможности", "Opportunities", "机会"],
+  "opportunitiesDescription": [
+    "В игре очень много возможностей, вы можете посещать данжи, добывать ресурсы, крафтить и чинить ваши вещи. А так же зачаровывать их используя уровень персонажа, как расходное средство.",
+    "The game has a lot of opportunities, you can visit dungeons, get resources, craft and repair your things. And also enchant them using the character level as a consumable.",
+    "游戏有很多机会，您可以参观地牢，获取资源，制作和修理东西。 并使用角色等级作为消耗品来使他们着迷。"
+  ],
+  "exchangeYourItems": ["Обменивайся предметами", "Exchange your items with other players", "与其他玩家交换物品"],
+  "exchangeYourItemsDescription": [
+    "Все скрафченые вами предметы, вы можете продавать на аукционе в игре, за криптовалюту TRX. Используйте игровой чат для поиска покупателей. Чем больше характеристик дает предмет, тем больше ресурсов, опыта и Жемчугов дракона вы получите.",
+    "All items you crafted, you can sell at auction in the game, for TRX cryptocurrency. Use game chat to find customers. The more characteristics an item gives, the more resources, experience, and Dragon Pearls you will receive.",
+    "您制作的所有物品都可以在游戏中以TRX加密货币在拍卖中出售。 使用游戏聊天查找客户。 物品赋予的特征越多，您将获得的资源，经验和龙珠越多。"
+  ],
+  "inviteFriends": ["Приглашай друзей", "Invite friends", "邀请朋友"],
+  "inviteFriendsDescription": [
+    "Приглашайте друзей играть вместе с Вами, развивайтесь вместе. Смартконтракт автоматически начисляет вам от 10% от всех затрат вашего реферала (аукцион, покупка дома, покупка кейсов и тд). Больше информации и как можно увеличить реферальный процент, доступно в игре, в разделе \"Реферальная программа\"",
+    "Invite friends to play with you, develop together. A smart contract automatically charges you 10% of all the costs of your referral (auction, buying a house, buying cases, etc.). More information and how to increase the referral percentage is available in the game in the \"Referral program\" section.",
+    "邀请朋友和您一起玩，共同发展。 智能合约会自动向您收取所有推荐费用的10％（拍卖，买房，购买案例等）。 有关更多信息以及如何增加引荐百分比的信息，请参见游戏中的“引荐程序”部分。"
+  ],
+
+
+  "partnersDescription": [
+    "Мы постарались разработать хорошую партнерскую программу, чтобы Вы могли зарабатывать приглашая других игроков. Приглашая других пользователей в <span class=\"text-warning\">GoldenCraft</span>, Вы сразу же получаете на свой кошелек криптовалюту TRON, смартконтракт разработан таким образом что вы моментально получаете криптовалюту на свой счет. Вся статистика по приглашениям и прибыли доступна в игре. Мы очень надеемся, что разработали очень хороший продукт, с помощью которого Вы сможете зарабатывать. После регистрации, Ваш реферальный бонус равен <span class=\"text-warning\">10%</span>. Приглашая другого пользователя в игру Вы моментально получаете криптовалюту за его действия в игре, а именно <span class=\"text-info\">Покупка дома</span>, <span class=\"text-info\">регистрационная комиссия</span>, <span class=\"text-info\">покупка сундуков</span>, <span class=\"text-info\">отправка сообщений в чат</span>, <span class=\"text-info\">торговля на аукционе</span>. Вы также можете увеличить процент партнерской программы до <span class=\"text-warning\">50%</span>, для этого нужно стать нашим партнером, более подробная информация доступна внутри игры, кликните по иконке <span class=\"text-warning\">Реферальная программа</span>. Играйте и зарабатывайте вместе с <span class=\"text-info\">GoldenCraft</span>.",
+    "We tried to develop a good affiliate program so that you can earn money by inviting other players. By inviting other users to <span class=\"text-warning\"> GoldenCraft </span>, you immediately receive TRON cryptocurrency on your wallet, the smart contract is designed in such a way that you instantly receive cryptocurrency on your account. All statistics on invitations and profits are available in the game. We really hope that we have developed a very good product with which you can earn money. After registration, your referral bonus is equal to <span class=\"text-warning\"> 10% </span>. By inviting another user to the game, you instantly receive cryptocurrency for his actions in the game, namely <span class=\"text-info\"> Buying a house </span>, <span class=\"text-info\"> registration fee </span> , <span class=\"text-info\"> buying chests </span>, <span class=\"text-info\"> sending chat messages </span>, <span class=\"text-info\"> auction trading </span>. You can also increase the percentage of affiliate programs to <span class=\"text-warning\"> 50% </span>, for this you need to become our partner, more detailed information is available inside the game, click on the <span class=\"text-warning icon \"> Referral program </span>. Play and earn with <span class=\"text-info\"> GoldenCraft </span>.",
+    "我们试图开发一个良好的会员计划，以便您可以通过邀请其他玩家来赚钱。通过邀请其他用户使用<span class=\"text-warning\"> GoldenCraft </ span>，您可以立即在钱包中接收TRON加密货币，该智能合约的设计方式是，您可以立即在您的帐户中接收加密货币。游戏中提供了有关邀请和利润的所有统计信息。我们真的希望我们开发出了一种很好的产品，可以赚钱。注册后，您的推荐奖金等于<span class=\"text-warning\"> 10％</ span>。通过邀请其他用户参加游戏，您可以立即获得他在游戏中的操作所产生的加密货币，即<span class=\"text-info\">买房</ span>，<span class=\"text-info\">注册费</span> ，<span class=\"text-info\">采购箱</ span>，<span class=\"text-info\">发送聊天消息</ span>，<span class=\"text-info\">拍卖交易</跨度>。您还可以将会员计划的比例提高到<span class=\"text-warning\"> 30％</ span>，为此，您需要成为我们的合作伙伴，游戏中提供了更多详细信息，请单击<span class=\"text-warning图标\">推荐程序</ span>。使用<span class=\"text-info\"> GoldenCraft </span>进行游戏并赚钱。"
+  ],
 
   "registration": ["Регистрация","Registration","注册"],
   "dailyBonus": ["Ежедневный бонус","Daily Bonus","每日奖金"],
