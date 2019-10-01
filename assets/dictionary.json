@@ -110,12 +110,34 @@
   "next": ["Далее", "Next", "进一步"],
   "back": ["Назад", "Back", "前"],
   "open": ["Открыть", "Open", "开放"],
+
+  "putOn": ["Надеть", "Put on", "穿上"],
+  "enchant": ["Зачаровать", "Enchant", "魅力"],
+  "fix": ["Починить", "Fix", "确定"],
+  "throwOut": ["Выкинуть", "Throw out", "扔出去"],
+  "throwOutItemDescription": ["Вы выкинули в лаву предмет", "You threw into the lava", "你把一个物体扔进熔岩"],
+
+  "inBackpack": ["В рюкзак", "In backpack", "在背包里"],
+  "inChest": ["В сундук", "In chest", "在胸口"],
+  "tradeIn": ["На аукцион", "Trade In", "在拍卖中"],
+
+  "changeUseTypeItemLoadInBackpack": ["Секундочку, убираю предмет в рюкзак","Wait a second, put the item in my backpack","等一下，把东西放在我的背包里"],
+  "changeUseTypeItemLoadInChest": ["В сундуке всегда найдется местечко для этого хлама","In the chest there is always a place for this trash","在箱子里总有放垃圾的地方"],
+  "changeUseTypeItemLoadDress": ["Секундочку, переодеваюсь","Just a second, change","稍等一下"],
+
+
+
+
+
+
+
   "done": ["Готово", "Done", "完成"],
   "this": ["Это", "This", "是的"],
   "withdraw": ["Вывести", "Withdraw", "退出"],
   "percent": ["Процент", "Percent", "百分比"],
   "calculate": ["Рассчитать", "Calculate", "计算"],
   "visit": ["Посетить", "Visit", "参观"],
+  "continue": ["Продолжить", "Continue", "继续"],
   "yes": ["Да", "Yes", "是的"],
   "no": ["Нет", "No", "没有"],
   "yourBalance": ["Ваш баланс", "Your balance", "您的余额"],
@@ -135,6 +157,7 @@
   "loot": ["Добыча", "Production", "生产"],
   "levelHouse": ["Ур. дома", "House level", "房屋级别"],
   "level": ["Уровень", "Level", "水平"],
+  "resources": ["Ресурсы", "Resources", "资源"],
   "list": ["Список", "List", "名单"],
   "history": ["История", "History", "历史"],
   "inventory": ["Инвентарь", "Inventory", "库存"],
@@ -147,6 +170,58 @@
   "hell": ["Ад", "Hell", "地狱"],
   "edge": ["Край", "Edge", "边缘"],
 
+  "woodenSword": ["Деревянный меч", "Wooden sword","木剑"],
+  "stoneSword": ["Каменный меч", "Stone sword","石剑"],
+  "ironSword": ["Железный меч", "Iron sword","铁剑"],
+  "goldenSword": ["Золотой меч", "Golden sword","黄金剑"],
+  "diamondSword": ["Алмазный меч", "Diamond sword","钻石剑"],
+
+  "woodenHelmet": ["Деревянный шлем","Wooden helmet","木头盔"],
+  "stoneHelmet": ["Каменный шлем","Stone helmet","石盔"],
+  "ironHelmet": ["Железный шлем","Iron helmet","铁头盔"],
+  "goldenHelmet": ["Золотой шлем","Golden helmet","金色头盔"],
+  "diamondHelmet": ["Алмазный шлем","Diamond helmet","钻石头盔"],
+
+  "woodenArmour": ["Деревянный доспех","Wooden armour","木装甲"],
+  "stoneArmour": ["Каменный доспех","Stone armour","石装甲"],
+  "ironArmour": ["Железный доспех","Iron armour","铁装甲"],
+  "goldenArmour": ["Золотой доспех","Golden armour","金色装甲"],
+  "diamondArmour": ["Алмазный доспех","Diamond armour","钻石装甲"],
+
+  "woodenLeg": ["Деревянные поножи","Wooden leggings","木绑腿"],
+  "stoneLeg": ["Каменные поножи","Stone leggings","石绑腿"],
+  "ironLeg": ["Железные поножи","Iron leggings","铁绑腿"],
+  "goldenLeg": ["Золотые поножи","Golden leggings","金色绑腿"],
+  "diamondLeg": ["Алмазные поножи","Diamond leggings","钻石绑腿"],
+
+  "woodenBoots": ["Деревянные сапоги","Wooden boots","木靴子"],
+  "stoneBoots": ["Каменные сапоги","Stone boots","石靴子"],
+  "ironBoots": ["Железные сапоги","Iron boots","铁靴子"],
+  "goldenBoots": ["Золотые сапоги","Golden boots","金色靴子"],
+  "diamondBoots": ["Алмазные сапоги","Diamond boots","钻石靴子"],
+
+
+  "woodenPickaxe": ["Деревянная кирка","Wooden pickaxe","木镐"],
+  "stonePickaxe": ["Каменная кирка","Stone pickaxe","石镐"],
+  "ironPickaxe": ["Железная кирка","Iron pickaxe","铁镐"],
+  "goldenPickaxe": ["Золотая кирка","Golden pickaxe","金镐"],
+  "diamondPickaxe": ["Алмазная кирка","Diamond pickaxe","钻石镐"],
+
+  "woodenHoe": ["Деревянная мотыга","Wooden hoe","木头"],
+  "stoneHoe": ["Каменная мотыга","Stone hoe","石"],
+  "ironHoe": ["Железная мотыга","Iron hoe","铁"],
+  "goldenHoe": ["Золотая мотыга","Golden hoe","金"],
+  "diamondHoe": ["Алмазная мотыга","Diamond hoe","钻石"],
+
+  "whenDressed": ["Когда на персонаже:","When dressed:","穿好衣服时"],
+  "game": ["Когда на персонаже:","When dressed:","穿好衣服时"],
+
+  "createAnItemBtnName": ["Создать предмет","Create an Item","创建一个物品"],
+
+
+
+
+
 
   "pageNotEnoughPlace": ["Удалите или перенесите предметы для того чтобы увидеть остальные предметы", "Remove or move items to see other items", "删除或移动项目以查看其他项目"],
   "pageNotEnoughPlaceTitle": ["Недостаточно места", "Not enough storage", "空间不足"],
@@ -156,7 +231,10 @@
   "YouWillReceiveApproximately": ["Вы получите примерно", "You will receive approximately", "您会收到大约"],
   "ratingComponentDividendDescription": ["Вы можете забрать дивиденды в любой момент. Дивиденды начисляются за действия, совершенные в игре. На сегодняшний день в сокровищнице дракона:", "You can pick up dividends at any time. Dividends are accrued for actions committed in the game. To date, in the treasury of the dragon:", "您可以随时提取股息。 在游戏中进行的动作会产生红利。 迄今为止，在龙的金库中："],
 
-  "mineDescription": ["Шахта позволяет добывать разные ресурсов, для максимальной добычи используйте <span class=\"text-info\">Кирку</span> и <span class=\"text-info\">Доспехи</span>.","","矿山允许您开采不同的资源，以最大限度地利用 <span class=\"text-info\">镐</span>和<span class=\"text-info\">装甲</span>。"],
+  "createItemDescriptionOfLoad": ["Создаю предмет, Вы берете в руки кузнечный молот и усердно стараетесь создать предмет.","I create a game item, you pick up a blacksmith hammer and try hard to create an item.","我创建一个游戏项目，您拿起铁匠锤子并努力创建一个项目。"],
+  "exchangeResourcesDescription": ["Обмен ресурсами","Exchanging resources","交换资源"],
+
+  "mineDescription": ["Шахта позволяет добывать разные ресурсов, для максимальной добычи используйте <span class=\"text-info\">Кирку</span> и <span class=\"text-info\">Доспехи</span>.","The mine allows you to mine different resources, for maximum production use <span class=\"text-info\"> Pickaxe </span> and <span class=\"text-info\"> Armor </span>.","矿山允许您开采不同的资源，以最大限度地利用 <span class=\"text-info\">镐</span>和<span class=\"text-info\">装甲</span>。"],
   "farmDescription": ["Отличное место для добычи пищи, для максимальной эффективности используйте  <span class=\"text-info\">Мотыгу</span> и  <span class=\"text-info\">Доспехи</span>.","Great place to get food, for maximum efficiency use <span class=\"text-info\"> Hoe </span> and <span class=\"text-info\"> Armor </span>.","获得食物的好地方，要获得最大效率，请使用 <span class=\"text-info\"> e头</span>和<span class=\"text-info\">装甲</span>。"],
   "hellDescription": ["Жуткое и очень опасное место, посещайте <span class=\"text-info\">Ад</span> для получения опыта, используйте <span class=\"text-info\">Меч</span> и <span class=\"text-info\">Доспехи</span> для максимальной эффективности.","A creepy and very dangerous place, visit <span class=\"text-info\"> Hell </span> for experience, use <span class=\"text-info\"> Sword </span> and <span class=\"text-info\"> Armor </span> for maximum effectiveness.","令人毛骨悚然且非常危险的地方，请访问 <span class=\"text-info\">地狱</span>以获取经验，使用<span class=\"text-info\"> Sword </span>和<span class=\"text-info\"> 信息“>装甲</span>可获得最大效力。"],
   "edgeDescription": ["Огромнейший мир, со своими жителями расположился на той стороне портала. Используйте <span class=\"text-info\">Меч</span> и <span class=\"text-info\">Доспехи</span> для максимальной эффективности.","A huge world, with its inhabitants, is located on the other side of the portal. Use <span class=\"text-info\"> Sword </span> and <span class=\"text-info\"> Armor </span> for maximum effectiveness.","门户的另一端是一个巨大的世界，上面有居民。 使用 <span class=\"text-info\">剑</span>和<span class=\"text-info\">护甲</span>可获得最佳效果。"],
@@ -172,20 +250,49 @@
   "youCantVisitThisAdventure": ["Вы не можете посетить данное подземелье","You cannot visit this dungeon.","您无法访问此地牢。"],
   "validateErrorMin1": ["Минимальное значение не может быть меньше 1","The minimum value cannot be less than 1","最小值不能小于1"],
   "validateErrorMax10": ["Максимальное значение не должно превышать 10","The maximum value must not exceed 10","最大值不能超过10"],
+  "validateErrorMax100": ["Максимальное значение не должно превышать 100","The maximum value must not exceed 100","最大值不能超过100"],
+  "dontEnoughResourcesForImprovement": ["Недостаточно ресурсов для улучшения","Not enough resources to improve","没有足够的资源来改进"],
+
+
+
+
+
 
 
   "getDailyBonus": ["Получить ежедневный бонус?", "Get a daily bonus?", "获得每日奖金？"],
+  "regItemToTradeIn1": ["Зарегистрировать предмет на аукционе? Комиссия за регистрацию предмета составит:", "Register an item at auction? The commission for registering an item will be:", "在拍卖中注册商品？ 注册项目的佣金为："],
+  "regItemToTradeIn2": ["При продаже Вы получите <span class=\"ml-2 text-info\">95%</span> от его стоимости.", "Upon sale, you will receive <span class=\"ml-2 text-info\"> 95% </span> of its value.", "出售后，您将获得其价值的 <span class=\"ml-2 text-info\">95％</span>。"],
   "getDailyBonusLoadDescription": ["Получение ежедневного бонуса, пожалуйста подождите.", "Getting a daily bonus, please wait.", "获得每日奖金，请等待。"],
+  "improvementModalDescription": ["Улучшения предмета требует как минимум <span class=\"text-info\">30 уровень</span>, Продолжить?", "Improvements to the item require at least <span class=\"text-info\"> Level 30 </span>, Continue?", "对该项的改进至少需要<span class=\"text-info\"> 30级</span>，继续吗？"],
+  "improvementModalLoadingDescription": ["Происходит улучшение предмета, Вы усердно стараетесь используете при этом весь свой опыт.", "The game item is improving, you are trying hard to use all your experience.", "游戏项目正在改善，您正在努力使用所有经验。"],
+  "openChest": ["Открыть сундук", "Open chest", "开胸"],
+  "openingChest": ["Открываю сундук", "Opening chest", "我打开胸部"],
+  "registrationAnItemInTradeIn": ["Регистрирую игровой предмет, пожалуйста подождите", "Registering a game item, please wait", "正在注册游戏项目，请稍候"],
+  "openChestDescription": ["Вы точно хотите открыть сундук?", "Are you sure you want to open the chest?", "您确定要打开箱子吗？"],
+  "pleaseWait": ["Пожалуйста подождите.", "Wait, please", "请稍等"],
+  "areYouSure": ["Вы уверены?", "Are you sure?", "你确定吗？"],
+  "fixItemDescription": ["Для починки предмета необходимо 10 единиц", "To repair a game item, 10 units are needed of", "要修复游戏物品，需要10个单位"],
+
+
+
+
+  "exchangeResourceWoodInDiamond": ["400 ед. Дерева в Алмаз", "400 units of Tree in Diamond", "400伙 钻石树"],
+  "exchangeResourceStoneInDiamond": ["350 ед. Камня в Алмаз", "350 units of Stone in Diamond", "350伙 钻石中的石头"],
+  "exchangeResourceIronInDiamond": ["300 ед. Железа в Алмаз", "300 units of Iron in Diamond", "300伙 铁到钻石"],
+  "exchangeResourceGoldInDiamond": ["100 ед. Золота в Алмаз", "100 units of Gold in Diamond", "100单位 金到钻石"],
+  "exchangeResourceDiamondInExp": ["Обменять алмазы в опыт", "Exchange Diamonds in Experience", "交流经验中的钻石"],
+
+
 
 
   "registration": ["Регистрация","Registration","注册"],
   "dailyBonus": ["Ежедневный бонус","Daily Bonus","每日奖金"],
   "homeImprovement": ["Улучшение дома","Home improvement","家居装修"],
   "becamePartner": ["Стал партнером","Became a partner","成为合作伙伴"],
-  "fixGameItem": ["Починил предмет","Fix a game item","修正游戏物品"],
+  "fixGameItem": ["Починка предмета","Fix a game item","修正游戏物品"],
   "threw": ["Выкинул/Сломал предмет","Threw / Broken item","投掷/破碎的物品"],
-  "enchantedItem": ["Зачаровал предмет","Enchanted Item","附魔物品"],
-  "itemCreated": ["Создал предмет","Item created","项目已创建"],
+  "enchantedItem": ["Улучшение предмета","Enchant Item","附魔物品"],
+  "itemCreated": ["Создание предмета","Item create","项目创建"],
   "exchangeResources": ["Обменял ресурсы","Exchange resources","交换资源"],
   "boughtItemFromAuction": ["Купил предмет на аукционе","Bought an item in auction","在拍卖会上买了一件商品"],
   "takeItemFromAuction": ["Забрал предмет с аукциона","Took an item from the auction","我从拍卖中拿走了"],
