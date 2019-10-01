@@ -110,10 +110,14 @@
   "next": ["Далее", "Next", "进一步"],
   "back": ["Назад", "Back", "前"],
   "open": ["Открыть", "Open", "开放"],
+  "done": ["Готово", "Done", "完成"],
   "this": ["Это", "This", "是的"],
   "withdraw": ["Вывести", "Withdraw", "退出"],
   "percent": ["Процент", "Percent", "百分比"],
   "calculate": ["Рассчитать", "Calculate", "计算"],
+  "visit": ["Посетить", "Visit", "参观"],
+  "yes": ["Да", "Yes", "是的"],
+  "no": ["Нет", "No", "没有"],
   "yourBalance": ["Ваш баланс", "Your balance", "您的余额"],
 
 
@@ -126,6 +130,15 @@
   "iron": ["Железо", "Iron", "铁"],
   "gold": ["Золото", "Gold", "黄金"],
   "diamond": ["Алмаз", "Diamond", "钻石"],
+  "damage": ["Урон", "Damage", "损伤"],
+  "defence": ["Защита", "Defense", "防御"],
+  "loot": ["Добыча", "Production", "生产"],
+  "levelHouse": ["Ур. дома", "House level", "房屋级别"],
+  "level": ["Уровень", "Level", "水平"],
+  "list": ["Список", "List", "名单"],
+  "history": ["История", "History", "历史"],
+  "inventory": ["Инвентарь", "Inventory", "库存"],
+  "page": ["Страница", "Page", "页"],
   "pearl": ["Жемчуг", "Pearl", "珍珠"],
   "username": ["Имя пользователя", "Username", "用户名"],
   "pearls": ["Жемчужин", "Pearls", "珍珠"],
@@ -134,11 +147,36 @@
   "hell": ["Ад", "Hell", "地狱"],
   "edge": ["Край", "Edge", "边缘"],
 
+
+  "pageNotEnoughPlace": ["Удалите или перенесите предметы для того чтобы увидеть остальные предметы", "Remove or move items to see other items", "删除或移动项目以查看其他项目"],
+  "pageNotEnoughPlaceTitle": ["Недостаточно места", "Not enough storage", "空间不足"],
   "totalDailyBonus": ["Общая сумма сбора", "Total points", "总积分"],
   "ratingComponentCollectedDescription": ["Сегодня вы собрали", "Today you collected", "今天你收集了"],
   "fromAllCollected": ["от всех собранных.", "from all collected.", "从所有收集的。"],
   "YouWillReceiveApproximately": ["Вы получите примерно", "You will receive approximately", "您会收到大约"],
   "ratingComponentDividendDescription": ["Вы можете забрать дивиденды в любой момент. Дивиденды начисляются за действия, совершенные в игре. На сегодняшний день в сокровищнице дракона:", "You can pick up dividends at any time. Dividends are accrued for actions committed in the game. To date, in the treasury of the dragon:", "您可以随时提取股息。 在游戏中进行的动作会产生红利。 迄今为止，在龙的金库中："],
+
+  "mineDescription": ["Шахта позволяет добывать разные ресурсов, для максимальной добычи используйте <span class=\"text-info\">Кирку</span> и <span class=\"text-info\">Доспехи</span>.","","矿山允许您开采不同的资源，以最大限度地利用 <span class=\"text-info\">镐</span>和<span class=\"text-info\">装甲</span>。"],
+  "farmDescription": ["Отличное место для добычи пищи, для максимальной эффективности используйте  <span class=\"text-info\">Мотыгу</span> и  <span class=\"text-info\">Доспехи</span>.","Great place to get food, for maximum efficiency use <span class=\"text-info\"> Hoe </span> and <span class=\"text-info\"> Armor </span>.","获得食物的好地方，要获得最大效率，请使用 <span class=\"text-info\"> e头</span>和<span class=\"text-info\">装甲</span>。"],
+  "hellDescription": ["Жуткое и очень опасное место, посещайте <span class=\"text-info\">Ад</span> для получения опыта, используйте <span class=\"text-info\">Меч</span> и <span class=\"text-info\">Доспехи</span> для максимальной эффективности.","A creepy and very dangerous place, visit <span class=\"text-info\"> Hell </span> for experience, use <span class=\"text-info\"> Sword </span> and <span class=\"text-info\"> Armor </span> for maximum effectiveness.","令人毛骨悚然且非常危险的地方，请访问 <span class=\"text-info\">地狱</span>以获取经验，使用<span class=\"text-info\"> Sword </span>和<span class=\"text-info\"> 信息“>装甲</span>可获得最大效力。"],
+  "edgeDescription": ["Огромнейший мир, со своими жителями расположился на той стороне портала. Используйте <span class=\"text-info\">Меч</span> и <span class=\"text-info\">Доспехи</span> для максимальной эффективности.","A huge world, with its inhabitants, is located on the other side of the portal. Use <span class=\"text-info\"> Sword </span> and <span class=\"text-info\"> Armor </span> for maximum effectiveness.","门户的另一端是一个巨大的世界，上面有居民。 使用 <span class=\"text-info\">剑</span>和<span class=\"text-info\">护甲</span>可获得最佳效果。"],
+  "dungeonSomeDescription": ["Не забудьте проверить свое снаряжение.","Remember to check your gear.","请记住检查您的装备。"],
+  "dungeonVisitButton": ["Посетить подземелье?","Visit the dungeon?","参观地牢？"],
+  "prodResources": ["Добытые ресурсы","Extracted resources","提取资源"],
+  "dungeon": ["Подземелье","Dungeon","地下城"],
+  "stakeCounting": [["Стейк", "Стейка", "Стейков"],["Steak", "Steak", "Steaks"],["牛排", "牛排", "牛排餐厅"]],
+  "dungeonVisitModalDescription1": ["Вы уверены что хотите посетить данное подземелье? Каждое посещение требует","Are you sure you want to visit this dungeon? Each visit requires","您确定要参观这个地牢吗？ 每次访问都需要"],
+  "dungeonVisitModalDescription2": ["За один раз подземелье можно посетить максимум 10 раз. Тем самым мы сократили комиссию на посещения подземелий. <span class=\"text-danger\">Предметы при посещении могут сломаться</span>. Сколько раз посетить?","You can visit the dungeon at most 10 times at a time. Thus, we reduced the commission for visiting dungeons.\n<span class=\"text-danger\"> Items may break when visited </span>. How many times to visit?","您一次最多只能访问10次。 因此，我们减少了参观地牢的佣金。 <span class=\"text-danger\">访问时项目可能会损坏</span>。 多少次参观？"],
+
+
+  "youCantVisitThisAdventure": ["Вы не можете посетить данное подземелье","You cannot visit this dungeon.","您无法访问此地牢。"],
+  "validateErrorMin1": ["Минимальное значение не может быть меньше 1","The minimum value cannot be less than 1","最小值不能小于1"],
+  "validateErrorMax10": ["Максимальное значение не должно превышать 10","The maximum value must not exceed 10","最大值不能超过10"],
+
+
+  "getDailyBonus": ["Получить ежедневный бонус?", "Get a daily bonus?", "获得每日奖金？"],
+  "getDailyBonusLoadDescription": ["Получение ежедневного бонуса, пожалуйста подождите.", "Getting a daily bonus, please wait.", "获得每日奖金，请等待。"],
+
 
   "registration": ["Регистрация","Registration","注册"],
   "dailyBonus": ["Ежедневный бонус","Daily Bonus","每日奖金"],
