@@ -12,6 +12,8 @@
   "chat": ["Чат", "Chat", "聊天室"],
   "time": ["Время", "Time", "时间"],
   "action": ["Действие", "Action", "效果"],
+  "name": ["Название", "Name", "名"],
+  "cost": ["Стоимость", "Cost", "成本"],
   "address": ["Адрес", "Address", "地址"],
 
   "playInTronBlockchain": ["Играй в блокчейне трона", "Play in TRON blockchain", "在TRON区块链中玩"],
@@ -114,8 +116,13 @@
   "putOn": ["Надеть", "Put on", "穿上"],
   "enchant": ["Зачаровать", "Enchant", "魅力"],
   "fix": ["Починить", "Fix", "确定"],
+  "buy": ["Купить", "Buy", "购买"],
+  "productPurchase": ["Покупка предмета", "Product purchase", "产品购买"],
+  "areYouSureWantToBuy": ["Вы точно хотите приобрести", "You definitely want to purchase", "您肯定要购买"],
+  "pickUp": ["Забрать", "Pick up", "拾起"],
   "throwOut": ["Выкинуть", "Throw out", "扔出去"],
   "throwOutItemDescription": ["Вы выкинули в лаву предмет", "You threw into the lava", "你把一个物体扔进熔岩"],
+
 
   "inBackpack": ["В рюкзак", "In backpack", "在背包里"],
   "inChest": ["В сундук", "In chest", "在胸口"],
@@ -132,11 +139,12 @@
 
 
   "done": ["Готово", "Done", "完成"],
-  "this": ["Это", "This", "是的"],
+  "this": ["Это", "It is", "是的"],
   "withdraw": ["Вывести", "Withdraw", "退出"],
   "percent": ["Процент", "Percent", "百分比"],
   "calculate": ["Рассчитать", "Calculate", "计算"],
   "visit": ["Посетить", "Visit", "参观"],
+  "myItems": ["Мои предметы", "My game items", "我的游戏物品"],
   "continue": ["Продолжить", "Continue", "继续"],
   "yes": ["Да", "Yes", "是的"],
   "no": ["Нет", "No", "没有"],
@@ -243,11 +251,20 @@
   "prodResources": ["Добытые ресурсы","Extracted resources","提取资源"],
   "dungeon": ["Подземелье","Dungeon","地下城"],
   "stakeCounting": [["Стейк", "Стейка", "Стейков"],["Steak", "Steak", "Steaks"],["牛排", "牛排", "牛排餐厅"]],
+
   "dungeonVisitModalDescription1": ["Вы уверены что хотите посетить данное подземелье? Каждое посещение требует","Are you sure you want to visit this dungeon? Each visit requires","您确定要参观这个地牢吗？ 每次访问都需要"],
   "dungeonVisitModalDescription2": ["За один раз подземелье можно посетить максимум 10 раз. Тем самым мы сократили комиссию на посещения подземелий. <span class=\"text-danger\">Предметы при посещении могут сломаться</span>. Сколько раз посетить?","You can visit the dungeon at most 10 times at a time. Thus, we reduced the commission for visiting dungeons.\n<span class=\"text-danger\"> Items may break when visited </span>. How many times to visit?","您一次最多只能访问10次。 因此，我们减少了参观地牢的佣金。 <span class=\"text-danger\">访问时项目可能会损坏</span>。 多少次参观？"],
+  "improvementModalDescription": ["Улучшения предмета требует как минимум <span class=\"text-info\">30 уровень</span>, Продолжить?", "Improvements to the item require at least <span class=\"text-info\"> Level 30 </span>, Continue?", "对该项的改进至少需要<span class=\"text-info\"> 30级</span>，继续吗？"],
+  "improvementModalLoadingDescription": ["Происходит улучшение предмета, Вы усердно стараетесь используете при этом весь свой опыт.", "The game item is improving, you are trying hard to use all your experience.", "游戏项目正在改善，您正在努力使用所有经验。"],
+  "pickUpModalItemTitle": ["Забрать предмет?", "Pick up game item?", "拿起游戏物品？"],
+  "pickUpModalItemDescription": ["Вы точно хотите забрать", "Are you sure want to pick up", "你一定要接"],
+
+  "fromAuction": ["с аукциона", "from auction", "从拍卖"],
+  "auctionPickUpItemFromAuctionLoadingDescription": ["Забираю предмет с аукциона", "I am taking the item from the auction", "我正在从拍卖中拿走物品"],
+  "successUpdateUserData": ["Успешно, обновляю данные пользователя", "Successfully updating user data", "成功更新用户数据"],
 
 
-  "youCantVisitThisAdventure": ["Вы не можете посетить данное подземелье","You cannot visit this dungeon.","您无法访问此地牢。"],
+"youCantVisitThisAdventure": ["Вы не можете посетить данное подземелье","You cannot visit this dungeon.","您无法访问此地牢。"],
   "validateErrorMin1": ["Минимальное значение не может быть меньше 1","The minimum value cannot be less than 1","最小值不能小于1"],
   "validateErrorMax10": ["Максимальное значение не должно превышать 10","The maximum value must not exceed 10","最大值不能超过10"],
   "validateErrorMax100": ["Максимальное значение не должно превышать 100","The maximum value must not exceed 100","最大值不能超过100"],
@@ -263,8 +280,6 @@
   "regItemToTradeIn1": ["Зарегистрировать предмет на аукционе? Комиссия за регистрацию предмета составит:", "Register an item at auction? The commission for registering an item will be:", "在拍卖中注册商品？ 注册项目的佣金为："],
   "regItemToTradeIn2": ["При продаже Вы получите <span class=\"ml-2 text-info\">95%</span> от его стоимости.", "Upon sale, you will receive <span class=\"ml-2 text-info\"> 95% </span> of its value.", "出售后，您将获得其价值的 <span class=\"ml-2 text-info\">95％</span>。"],
   "getDailyBonusLoadDescription": ["Получение ежедневного бонуса, пожалуйста подождите.", "Getting a daily bonus, please wait.", "获得每日奖金，请等待。"],
-  "improvementModalDescription": ["Улучшения предмета требует как минимум <span class=\"text-info\">30 уровень</span>, Продолжить?", "Improvements to the item require at least <span class=\"text-info\"> Level 30 </span>, Continue?", "对该项的改进至少需要<span class=\"text-info\"> 30级</span>，继续吗？"],
-  "improvementModalLoadingDescription": ["Происходит улучшение предмета, Вы усердно стараетесь используете при этом весь свой опыт.", "The game item is improving, you are trying hard to use all your experience.", "游戏项目正在改善，您正在努力使用所有经验。"],
   "openChest": ["Открыть сундук", "Open chest", "开胸"],
   "openingChest": ["Открываю сундук", "Opening chest", "我打开胸部"],
   "registrationAnItemInTradeIn": ["Регистрирую игровой предмет, пожалуйста подождите", "Registering a game item, please wait", "正在注册游戏项目，请稍候"],
