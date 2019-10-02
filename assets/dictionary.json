@@ -141,6 +141,7 @@
   "done": ["Готово", "Done", "完成"],
   "this": ["Это", "It is", "是的"],
   "withdraw": ["Вывести", "Withdraw", "退出"],
+  "close": ["Закрыть", "Close", "关"],
   "percent": ["Процент", "Percent", "百分比"],
   "calculate": ["Рассчитать", "Calculate", "计算"],
   "visit": ["Посетить", "Visit", "参观"],
@@ -149,6 +150,16 @@
   "yes": ["Да", "Yes", "是的"],
   "no": ["Нет", "No", "没有"],
   "yourBalance": ["Ваш баланс", "Your balance", "您的余额"],
+  "list": ["Список", "List", "名单"],
+  "history": ["История", "History", "历史"],
+  "inventory": ["Инвентарь", "Inventory", "库存"],
+  "page": ["Страница", "Page", "页"],
+  "level": ["Уровень", "Level", "水平"],
+  "username": ["Имя пользователя", "Username", "用户名"],
+  "current": ["Текущий", "Current", "当前"],
+  "improve": ["Улучшить", "To improve", "改善"],
+  "new": ["Новый", "New", "新"],
+  "newLocation": ["Новая локация", "New location", "新地点"],
 
 
 
@@ -162,21 +173,25 @@
   "diamond": ["Алмаз", "Diamond", "钻石"],
   "damage": ["Урон", "Damage", "损伤"],
   "defence": ["Защита", "Defense", "防御"],
+  "durability": ["Прочность", "Durability", "耐久力"],
   "loot": ["Добыча", "Production", "生产"],
   "levelHouse": ["Ур. дома", "House level", "房屋级别"],
-  "level": ["Уровень", "Level", "水平"],
   "resources": ["Ресурсы", "Resources", "资源"],
-  "list": ["Список", "List", "名单"],
-  "history": ["История", "History", "历史"],
-  "inventory": ["Инвентарь", "Inventory", "库存"],
-  "page": ["Страница", "Page", "页"],
   "pearl": ["Жемчуг", "Pearl", "珍珠"],
-  "username": ["Имя пользователя", "Username", "用户名"],
   "pearls": ["Жемчужин", "Pearls", "珍珠"],
   "mine": ["Шахта", "Mine", "矿"],
   "farm": ["Ферма", "Farm", "农场"],
   "hell": ["Ад", "Hell", "地狱"],
   "edge": ["Край", "Edge", "边缘"],
+
+  "enchantTable": ["Стол зачаровывания", "Enchantment table", "附魔表"],
+  "cowFarm": ["Коровья ферма", "Cow Farm", "牛场"],
+  "anvil": ["Наковальня", "Anvil", "砧"],
+  "chickenFarm": ["Куриная ферма", "Chicken Farm", "养鸡场"],
+
+
+
+
 
   "woodenSword": ["Деревянный меч", "Wooden sword","木剑"],
   "stoneSword": ["Каменный меч", "Stone sword","石剑"],
@@ -253,11 +268,13 @@
   "stakeCounting": [["Стейк", "Стейка", "Стейков"],["Steak", "Steak", "Steaks"],["牛排", "牛排", "牛排餐厅"]],
 
   "dungeonVisitModalDescription1": ["Вы уверены что хотите посетить данное подземелье? Каждое посещение требует","Are you sure you want to visit this dungeon? Each visit requires","您确定要参观这个地牢吗？ 每次访问都需要"],
-  "dungeonVisitModalDescription2": ["За один раз подземелье можно посетить максимум 10 раз. Тем самым мы сократили комиссию на посещения подземелий. <span class=\"text-danger\">Предметы при посещении могут сломаться</span>. Сколько раз посетить?","You can visit the dungeon at most 10 times at a time. Thus, we reduced the commission for visiting dungeons.\n<span class=\"text-danger\"> Items may break when visited </span>. How many times to visit?","您一次最多只能访问10次。 因此，我们减少了参观地牢的佣金。 <span class=\"text-danger\">访问时项目可能会损坏</span>。 多少次参观？"],
+  "dungeonVisitModalDescription2": ["За один раз подземелье можно посетить максимум 10 раз. Тем самым мы сократили комиссию на посещения подземелий. <span class=\"text-danger\">Предметы при посещении могут сломаться</span>. Сколько раз посетить?","You can visit the dungeon at most 10 times at a time. Thus, we reduced the commission for visiting dungeons. <span class=\"text-danger\"> Items may break when visited </span>. How many times to visit?","您一次最多只能访问10次。 因此，我们减少了参观地牢的佣金。 <span class=\"text-danger\">访问时项目可能会损坏</span>。 多少次参观？"],
   "improvementModalDescription": ["Улучшения предмета требует как минимум <span class=\"text-info\">30 уровень</span>, Продолжить?", "Improvements to the item require at least <span class=\"text-info\"> Level 30 </span>, Continue?", "对该项的改进至少需要<span class=\"text-info\"> 30级</span>，继续吗？"],
   "improvementModalLoadingDescription": ["Происходит улучшение предмета, Вы усердно стараетесь используете при этом весь свой опыт.", "The game item is improving, you are trying hard to use all your experience.", "游戏项目正在改善，您正在努力使用所有经验。"],
   "pickUpModalItemTitle": ["Забрать предмет?", "Pick up game item?", "拿起游戏物品？"],
   "pickUpModalItemDescription": ["Вы точно хотите забрать", "Are you sure want to pick up", "你一定要接"],
+  "homeImprovementModalDescription": ["Улучшить дом на следующий уровень?", "Improve the house to the next level?", "将房子提高到新的水平？"],
+  "buyChestModalDescription": ["После покупки сундук доступен из инвентаря.", "After purchase, the chest is available from the inventory.", "购买后，可从库存中获取胸部。"],
 
   "fromAuction": ["с аукциона", "from auction", "从拍卖"],
   "auctionPickUpItemFromAuctionLoadingDescription": ["Забираю предмет с аукциона", "I am taking the item from the auction", "我正在从拍卖中拿走物品"],
@@ -289,6 +306,14 @@
   "fixItemDescription": ["Для починки предмета необходимо 10 единиц", "To repair a game item, 10 units are needed of", "要修复游戏物品，需要10个单位"],
 
 
+  "eatChest": ["Сундук с едой","Food chest","食物柜"],
+  "eatChestDescription": ["Обычно содержит от 5 до 30 единиц пищи, этот сундук спасет Вас от голода. Иногда вместе с едой можно найти экипировку.","Usually contains from 5 to 30 units of food, this chest will save you from hunger. Sometimes with food you can find equipment.","通常包含5到30单位的食物，这个箱子可以使您免于饥饿。 有时带食物可以找到设备。"],
+  "rareChest":["Редкий сундук","Rare chest","稀有的箱子"],
+  "rareChestDescription":["Может содержать в себе разные драгоценности и редкие предметы (<span class=\"text-info\">алмазы</span>, <span class=\"text-info\">золото</span>, <span class=\"text-info\">железо</span>). Также есть небольшой шанс найти <span class=\"text-info\">алмазные предметы</span>","May contain various jewels and rare items (<span class=\"text-info\"> diamonds </span>, <span class=\"text-info\"> gold </span>, <span class=\"text-info \"> iron </span>). There is also a small chance to find <span class=\"text-info\"> diamond objects </span> ","可能包含各种珠宝和稀有物品（<span class=\"text-info\">钻石</span>，<span class=\"text-info\">黄金</span>， <span class=\"text-info\">铁</span>）。 还有机会找到 <span class=\"text-info\">钻石对象</span>"],
+  "epicChest": ["Эпический сундук","Epic chest","史诗般的宝箱"],
+  "epicChestDescription": ["Содержит очень редкие предметы (<span class=\"text-info\">золотые</span> и <span class=\"text-info\">алмазные доспехи</span>, <span class=\"text-info\">кирки</span>, <span class=\"text-info\">мечи</span> и <span class=\"text-info\">мотыги</span>) также есть вероятность найти большое количество <span class=\"text-info\">ресурсов</span>.","Contains very rare items (<span class=\"text-info\"> gold </span> and <span class=\"text-info\"> diamond armor </span>,\n<span class=\"text-info\"> pickaxe </span>, <span class=\"text-info\"> swords </span> and <span class=\"text-info\"> hoes </span>) it is also possible to find a large number of <span class=\"text-info \"> resources </span>.","包含非常稀有的物品（<span class=\"text-info\">黄金</span>和<span class=\"text-info\">钻石装甲</span>，<span class=\"text-info\">镐</span>，<span class=\"text-info\">剑</span>和<span class=\"text-info\"> es头</span>），也有可能找到大量的 <span class=\"text-info\">资源</span>。"],
+
+
 
 
   "exchangeResourceWoodInDiamond": ["400 ед. Дерева в Алмаз", "400 units of Tree in Diamond", "400伙 钻石树"],
@@ -296,6 +321,8 @@
   "exchangeResourceIronInDiamond": ["300 ед. Железа в Алмаз", "300 units of Iron in Diamond", "300伙 铁到钻石"],
   "exchangeResourceGoldInDiamond": ["100 ед. Золота в Алмаз", "100 units of Gold in Diamond", "100单位 金到钻石"],
   "exchangeResourceDiamondInExp": ["Обменять алмазы в опыт", "Exchange Diamonds in Experience", "交流经验中的钻石"],
+
+
 
 
 
@@ -314,7 +341,7 @@
   "putOnAnItemInAuction": ["Поставил предмет на аукцион","Put on an item in auction","放在拍卖品中"],
   "sendMessage": ["Отправил сообщение в чат","Send a message","发送一个消息"],
   "praisedSomeUser": ["Похвалил пользователя","Praised some user","称赞一些用户"],
-  "boughtChest": ["Купил сундук","Bought some chest","买了一些胸"],
+  "boughtChest": ["Покупка сундука","Buy chest","买胸部"],
   "openedChest": ["Открыл сундук","Opened some chest","打开一些箱子"],
   "visitedAnAdventure": ["Посетил подземелье","Visited an adventure","参观了一次冒险"]
 }
