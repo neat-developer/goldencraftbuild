@@ -133,6 +133,9 @@
   "changeUseTypeItemLoadInChest": ["В сундуке всегда найдется местечко для этого хлама","In the chest there is always a place for this trash","在箱子里总有放垃圾的地方"],
   "changeUseTypeItemLoadDress": ["Секундочку, переодеваюсь","Just a second, change","稍等一下"],
 
+
+  "move": ["Перейти","Go to","前往"],
+  "toComeIn": ["Войти", "To come in", "登入"],
   "climbATree": ["Залезть на дерево","Climb a tree","爬树"],
   "climbAHill": ["На холм","Climb the hill","到山上"],
   "toTheBegin": ["К началу","To the beginning","从头开始"],
