@@ -338,6 +338,7 @@
   "referralProgramDescription": ["Приглашая других пользователей, Вы получаете дополнительный доход со всех действий которые они совершают в игре. А именно: <span class=\"text-info\">Покупка дома</span>, <span class=\"text-info\">Отправка сообщений в чат</span>, <span class=\"text-info\">Покупка сундуков</span>, <span class=\"text-info\">Комиссия на аукционе</span>. Отслеживайте всю информацию о приглашениях ","By inviting other users, you get additional income from all the actions that they perform in the game. Namely: <span class=\"text-info\">Buying a home</span>, <span class=\"text-info\">Sending messages to the chat</span>, <span class=\"text-info\">Buying chests</span>, <span class=\"text-info\">Auction fee</span>. Track all invitation information","通过邀请其他用户，您可以从他们在游戏中执行的所有操作中获得更多收益。即：<span class =\"text-info\">购买房屋</span>，<span class=\"text-info\">向聊天室发送消息</span>，<span class=\"text-info\">采购宝箱</span>，<span class=\"text-info\">拍卖费</span>。追踪所有邀请信息"],
   "tronNetworkValidateError": ["Вам нужно подключиться к тестовой сети shasta в вашем расширении TronLink","You need switch to testnet shasta network in your tronLink extension","您需要在TronLink扩展程序中连接到shasta测试网络"],
   "tronNetworkValidateErrorMainnet": ["Вам нужно подключиться к основной сети mainnet в вашем расширении TronLink","You need switch to Mainnet network in your tronLink extension","您需要在TronLink扩展中连接到主网网络"],
+  "needInstallTronLinkExtension": ["Вам нужно установить расширение TronLink", "You need to install the TronLink extension","您需要安装TronLink扩展"],
 
 
 
