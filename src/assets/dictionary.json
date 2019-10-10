@@ -1,0 +1,418 @@
+{
+  "about": ["О проекте", "About", "关于"],
+  "trailer": ["Трейлер игры", "Trailer of the game", "游戏预告片"],
+  "partners": ["Партнерка", "Partner", "伙伴"],
+  "graphic": ["График инвестиций", "Investment schedule", "投资时间表"],
+  "latestOperation": ["Список последних операций", "List of Recent Operations", "最近操作清单"],
+  "startGame": ["Начать игру!", "Start game!", "开始游戏!"],
+  "regCount": ["Зарегистрировано пользователей", "Registered Users", "注册用户"],
+  "turnover": ["Общий оборот игры", "The total turnover", "总营业额"],
+  "incomeOfReferral": ["Общая прибль рефералов", "Profit of referrals", "推荐利润"],
+  "itemsCreated": ["Предметов создано", "Items Created", "创建的项目"],
+  "chat": ["Чат", "Chat", "聊天室"],
+  "time": ["Время", "Time", "时间"],
+  "action": ["Действие", "Action", "效果"],
+  "name": ["Название", "Name", "名"],
+  "cost": ["Стоимость", "Cost", "成本"],
+  "address": ["Адрес", "Address", "地址"],
+
+  "playInTronBlockchain": ["Играй в блокчейне трона", "Play in TRON blockchain", "在TRON区块链中玩"],
+  "playInTronBlockchainDescription": [
+    "Игра работает на блокчейне Tron, для игры вам понадобится расширение TronLink и криптовалюта TRX. Все доступные объекты, ресурсы, информация о домах, сообщения в чатах и прочее, все это хранится в блокчейне.",
+    "The game runs on the Tron blockchain, for the game you will need the TronLink extension and the TRX cryptocurrency. All available objects, resources, information about houses, chat messages and more, all this is stored on the blockchain.",
+    "该游戏在Tron区块链上运行，对于该游戏，您需要TronLink扩展和TRX加密货币。 所有可用的对象，资源，有关房屋的信息，聊天消息等等，所有这些都存储在区块链上。"
+  ],
+  "getDailyDividends": ["Получай дивидендные выплаты", "Get daily dividends", "获得每日股息"],
+  "getDailyDividendsDescription": [
+    "70% инвестиций идет в фонд дивидендов, на основании этого фонда формируется ежедневный пул и начисляются ежедневные выплаты. За посещение данжей, кроме ресурсов и опыта, вы также получаете Жемчуг Эндера, на основе Жемчуга формируется ежедневный рейтинг и дивиденды будут распределяться в процентном соотношении между всеми игроками.",
+    "70% of the investment goes to the dividend fund, on the basis of this fund a daily pool is formed and daily payments are calculated. For visiting dungeons, in addition to resources and experience, you also receive Ender Pearls, a daily rating is formed on the basis of Pearls and dividends will be distributed as a percentage of all players.",
+    "投资的70％用于股息基金，在此基金的基础上形成每日资金池并计算每日付款。 对于访问地下城的玩家，除了资源和经验外，您还将获得Ender Pearls，它将根据Pearls进行每日评分，并且红利将按所有玩家的百分比进行分配。"
+  ],
+  "improveYourHome": ["Улучшай свой дом", "Play in TRON blockchain", "改善你的家"],
+  "improveYourHomeDescription": [
+    "Чтобы начать вам нужно купить свой дом. Дом позволяет получать ежедневный бонус, количество ресурсов в бонусе зависит от выбранного вами дома. Повышайте уровни дома, это увеличит ваш ежедневный бонус и откроет новые возможности.",
+    "To start you need to buy your home. The house allows you to receive a daily bonus, the amount of resources in the bonus depends on the house you choose. Raise levels at home, this will increase your daily bonus and open up new opportunities.",
+    "首先，您需要购买房屋。 房子可以让您获得每日奖金，奖金中的资源量取决于您选择的房子。 提高在家的水平，这将增加您的每日奖金并开辟新的机会。"
+  ],
+  "opportunities": ["Возможности", "Opportunities", "机会"],
+  "opportunitiesDescription": [
+    "В игре очень много возможностей, вы можете посещать данжи, добывать ресурсы, крафтить и чинить ваши вещи. А так же зачаровывать их используя уровень персонажа, как расходное средство.",
+    "The game has a lot of opportunities, you can visit dungeons, get resources, craft and repair your things. And also enchant them using the character level as a consumable.",
+    "游戏有很多机会，您可以参观地牢，获取资源，制作和修理东西。 并使用角色等级作为消耗品来使他们着迷。"
+  ],
+  "exchangeYourItems": ["Обменивайся предметами", "Exchange your items with other players", "与其他玩家交换物品"],
+  "exchangeYourItemsDescription": [
+    "Все скрафченые вами предметы, вы можете продавать на аукционе в игре, за криптовалюту TRX. Используйте игровой чат для поиска покупателей. Чем больше характеристик дает предмет, тем больше ресурсов, опыта и Жемчугов дракона вы получите.",
+    "All items you crafted, you can sell at auction in the game, for TRX cryptocurrency. Use game chat to find customers. The more characteristics an item gives, the more resources, experience, and Dragon Pearls you will receive.",
+    "您制作的所有物品都可以在游戏中以TRX加密货币在拍卖中出售。 使用游戏聊天查找客户。 物品赋予的特征越多，您将获得的资源，经验和龙珠越多。"
+  ],
+  "inviteFriends": ["Приглашай друзей", "Invite friends", "邀请朋友"],
+  "inviteFriendsDescription": [
+    "Приглашайте друзей играть вместе с Вами, развивайтесь вместе. Смартконтракт автоматически начисляет вам от 10% от всех затрат вашего реферала (аукцион, покупка дома, покупка кейсов и тд). Больше информации и как можно увеличить реферальный процент, доступно в игре, в разделе \"Реферальная программа\"",
+    "Invite friends to play with you, develop together. A smart contract automatically charges you 10% of all the costs of your referral (auction, buying a house, buying cases, etc.). More information and how to increase the referral percentage is available in the game in the \"Referral program\" section.",
+    "邀请朋友和您一起玩，共同发展。 智能合约会自动向您收取所有推荐费用的10％（拍卖，买房，购买案例等）。 有关更多信息以及如何增加引荐百分比的信息，请参见游戏中的“引荐程序”部分。"
+  ],
+
+  "partnersDescription": [
+    "Мы постарались разработать хорошую партнерскую программу, чтобы Вы могли зарабатывать приглашая других игроков. Приглашая других пользователей в <span class=\"text-warning\">GoldenCraft</span>, Вы сразу же получаете на свой кошелек криптовалюту TRON, смартконтракт разработан таким образом что вы моментально получаете криптовалюту на свой счет. Вся статистика по приглашениям и прибыли доступна в игре. Мы очень надеемся, что разработали очень хороший продукт, с помощью которого Вы сможете зарабатывать. После регистрации, Ваш реферальный бонус равен <span class=\"text-warning\">10%</span>. Приглашая другого пользователя в игру Вы моментально получаете криптовалюту за его действия в игре, а именно <span class=\"text-info\">Покупка дома</span>, <span class=\"text-info\">регистрационная комиссия</span>, <span class=\"text-info\">покупка сундуков</span>, <span class=\"text-info\">отправка сообщений в чат</span>, <span class=\"text-info\">торговля на аукционе</span>. Вы также можете увеличить процент партнерской программы до <span class=\"text-warning\">30%</span>, для этого нужно стать нашим партнером, более подробная информация доступна внутри игры, кликните по иконке <span class=\"text-warning\">Реферальная программа</span>. Играйте и зарабатывайте вместе с <span class=\"text-info\">GoldenCraft</span>.",
+    "We tried to develop a good affiliate program so that you can earn money by inviting other players. By inviting other users to <span class=\"text-warning\">GoldenCraft</span>, you immediately receive TRON cryptocurrency on your wallet, the smart contract is designed in such a way that you instantly receive cryptocurrency on your account. All statistics on invitations and profits are available in the game. We really hope that we have developed a very good product with which you can earn money. After registration, your referral bonus is equal to <span class=\"text-warning\">10%</span>. By inviting another user to the game, you instantly receive cryptocurrency for his actions in the game, namely <span class=\"text-info\">Buying a house</span>, <span class=\"text-info\">registration fee</span> , <span class=\"text-info\">buying chests</span>, <span class=\"text-info\">sending chat messages</span>, <span class=\"text-info\">auction trading</span>. You can also increase the percentage of affiliate programs to <span class=\"text-warning\">30%</span>, for this you need to become our partner, more detailed information is available inside the game, click on the <span class=\"text-warning icon \">Referral program</span>. Play and earn with <span class=\"text-info\">GoldenCraft</span>.",
+    "我们试图开发一个良好的会员计划，以便您可以通过邀请其他玩家来赚钱。通过邀请其他用户使用<span class=\"text-warning\">GoldenCraft </ span>，您可以立即在钱包中接收TRON加密货币，该智能合约的设计方式是，您可以立即在您的帐户中接收加密货币。游戏中提供了有关邀请和利润的所有统计信息。我们真的希望我们开发出了一种很好的产品，可以赚钱。注册后，您的推荐奖金等于<span class=\"text-warning\">10％</ span>。通过邀请其他用户参加游戏，您可以立即获得他在游戏中的操作所产生的加密货币，即<span class=\"text-info\">买房</ span>，<span class=\"text-info\">注册费</span> ，<span class=\"text-info\">采购箱</ span>，<span class=\"text-info\">发送聊天消息</ span>，<span class=\"text-info\">拍卖交易</跨度>。您还可以将会员计划的比例提高到<span class=\"text-warning\">30％</ span>，为此，您需要成为我们的合作伙伴，游戏中提供了更多详细信息，请单击<span class=\"text-warning图标\">推荐程序</ span>。使用<span class=\"text-info\">GoldenCraft</span>进行游戏并赚钱。"
+  ],
+
+
+  "startGame1Description": [
+    "Добро пожаловать в <span class=\"text-warning\">GoldenCraft</span>, игра запущена в блокчейне <b class=\"text-success\">TRX</b>. Развивайтесь и добывайте ресурсы, посещайте данжы, улучшайте свой дом, а также создавайте и улучшайте свою экипировку и обменивайтесь с другими игроками, используя криптовалюту TRON. Соревнуйтесь с игроками по всему миру. Обменивайтесь сообщениями в чате, поощеряйте друг-друга, зарабатывайте на реферальной программе. Посещайте данжы, собирайте ежедневные бонусы, собирайте урожай и добывайте сундуки. Все это доступно в <span class=\"text-warning\">GoldenCraft</span>. Нажмите на кнопку далее, для дальнейшего ознакомления. ",
+    "Welcome to <span class=\"text-warning\">GoldenCraft</span>, the game is launched on the <b class=\"text-success\">TRX </b> blockchain. Develop and get resources, visit dungeons, upgrade your home, and also create and improve your equipment and exchange with other players using TRON cryptocurrency. Compete with players around the world. Exchange chat messages, encourage each other, earn money on a referral program. Visit dungeons, collect daily bonuses, collect crops and get chests. All of this is available at <span class=\"text-warning\">GoldenCraft</span>. Click on the button for further review.",
+    "欢迎使用<span class=\"text-warning\">GoldenCraft</span>，该游戏已在 <b class=\"text-success\">TRX </b>区块链上启动。开发和获取资源，访问地牢，改善您的家园，还创建和改善您的设备并使用TRON加密货币与其他玩家交换。与世界各地的玩家竞争。交流聊天消息，互相鼓励，通过推荐计划赚钱。参观地牢，收集每日奖金，收集庄稼，并获得箱子。所有这些都可以在 <span class=\"text-warning\">GoldenCraft</span>中获得。单击按钮进行进一步检查。"
+  ],
+  "startGame2Description": [
+    "Используйте маркеры для смены позиций, с помощью мыши можно вращать головой, с помощью колесика можно увеличивать или отдалять камеру. Нажмите кнопку далее и смените позицию.",
+    "Use markers to change positions, use the mouse to rotate your head, use the wheel to zoom in or out on the camera. Click on the button and change the position.",
+    "使用标记改变位置，使用鼠标旋转头部，使用滚轮在相机上放大或缩小。 单击按钮并更改位置。"
+  ],
+  "startGame3Description": [
+    "Отлично! У Вас хорошо получается, теперь Вы знаете как менять позицию, пришло время выбрать дом, обращайте внимание на стоимость и ежедневный бонус.",
+    "Fine! You are doing well, now you know how to change position, it's time to choose a house, pay attention to the cost and daily bonus.",
+    "好极了！ 您做得不错，现在您知道该如何换仓了，该选择房子了，注意成本和每日奖金。"
+  ],
+
+  "startGame4Description": [
+    "Теперь следует выбрать дом, чем выше дом по классу, тем больше ежедневный бонус. <span class=\"text-info\">Еда</span> нужна для посещения разного рода данжей, такие как <span class=\"text-success\" title=\"Позволяет добывать ресурсы/опыт\">шахта</span>, <span class=\"text-success\" title=\"Увеличивает уровень пищи\">ферма</span>, <span class=\"text-success\" title=\"Можно получить большое количество опыта\">ад</span> и <span class=\"text-success\" title=\"Можно получить огромное количество опыта\">край</span>.  В игре Вам также доступна опция улучшения дома, что позволяет получить дополнительные игровые возможности. А также, с каждым уровнем увеличивается Ваш ежедневный бонус.  Все Ваши игровые данные, после регистрации, будут храниться в блокчейне изменить или как-то затереть эти данные невозможно, развивайтесь и зарабатывайте в игре <span class=\"text-warning\">GoldenCraft</span>.",
+    "Now you should choose a house, the higher the house in the class, the greater the daily bonus. <span class=\"text-info\">Food</span> is needed to visit all kinds of dungeons, such as <span class=\"text-success\" title=\"Allows you to extract resources / experience\">mine</span>, <span class=\"text-success\" title=\"Increases food level\">farm</span>, <span class=\"text-success\" title=\"You can get a lot of experience\">hell</span> and <span class=\"text-success\" title=\"You can get a huge amount of experience\">edge</span>. In the game you also have the option of home improvement, which allows you to get additional gaming features. And also, with each level your daily bonus increases. All your game data, after registration, will be stored on the blockchain or it’s impossible to erase this data somehow, develop and earn in the game <span class=\"text-warning\">GoldenCraft</span>. ",
+    "现在您应该选择一所房子，班上的房子越高，每日奖金就越大。<span class=\"text-info\">食品</span> 需要参观各种各样的地牢，例如<span class=\"text-success\" title=\"允许挖掘资源/经验\">矿</span>, <span class=\"text-success\" title=\"增加食物水平\">农场</span>, <span class=\"text-success\" title=\"您可以获得很多经验。\">地狱</span> 和 <span class=\"text-success\" title=\"您可以获得很多经验。\">边缘</span>.  在游戏中，您还可以选择家庭装修，从而获得其他游戏功能。 而且，每增加一个级别，您的每日奖金就会增加。 注册后，您所有的游戏数据都将存储在区块链中；无法更改或以某种方式擦除这些数据，在游戏中开发并赚钱 <span class=\"text-warning\">GoldenCraft</span>."
+  ],
+
+  "startGame6Description": [
+    "Отлично! Самое время подумать над ником, максимальная длина ника  <span class=\"text-warning\">15 символов</span>, а минимальная  <span class=\"text-warning\">3 символа</span>. Использовать можно только латинский алфавит, пример:  <span class=\"text-info\">nickname12</span>",
+    "Fine! It's time to think about the nickname, the maximum length of the nickname is <span class=\"text-warning\">15 characters</span>, and the minimum is <span class=\"text-warning\">3 characters</span>. You can only use the Latin alphabet, for example: <span class=\"text-info\">nickname12</span>",
+    "好极了！ 现在该考虑昵称了，昵称的最大长度为<span class=\"text-warning\">15个字符</span>，最小长度为<span class=\"text-warning\">3个字符</span>。 您只能使用拉丁字母，例如：<span class=\"text-info\">nickname12</span>"
+  ],
+
+  "startGame7DescriptionBefore": [
+    "Это было достаточно просто, не так ли? Теперь необходимо завести TRON кошелек, а также пополнить его, следуйте простой инструкции, кликнув",
+    "It was simple enough, right? Now you need to get a TRON wallet, as well as replenish it, follow the simple instructions by clicking",
+    "很简单，对吧？ 现在，您需要获取一个TRON钱包并进行充值，请按照以下简单说明进行操作："
+  ],
+  "startGame7DescriptionAfter": [
+    "Если у Вас уже установлено и настроено расширение TronLink, жмите \"Далее\"",
+    "If you have already installed and configured the TronLink extension, click \"Next\"",
+    "如果您已经安装并配置了TronLink扩展，请单击“下一步”。"
+  ],
+
+  "startGame8Description": [
+    "Поздравляем, Вы справились с данной задачей, добро пожаловать в игру. Вас ждет масса увлекательных вещей!",
+    "Congratulations, you coped with this task, welcome to the game. You will find a lot of exciting things!",
+    "恭喜，您已经完成了这项任务，欢迎来到游戏中。 您会发现很多令人兴奋的东西！"
+  ],
+
+  "enterNickname": ["Введите никнейм персонажа", "Type nickname of your character", "输入角色的昵称"],
+
+  "hide": ["Свернуть", "Hide", "隐藏"],
+  "here": ["Здесь", "Here", "这里"],
+  "next": ["Далее", "Next", "进一步"],
+  "back": ["Назад", "Back", "前"],
+  "open": ["Открыть", "Open", "开放"],
+
+  "putOn": ["Надеть", "Put on", "穿上"],
+  "enchant": ["Зачаровать", "Enchant", "魅力"],
+  "fix": ["Починить", "Fix", "确定"],
+  "buy": ["Купить", "Buy", "购买"],
+  "productPurchase": ["Покупка предмета", "Product purchase", "产品购买"],
+  "areYouSureWantToBuy": ["Вы точно хотите приобрести", "You definitely want to purchase", "您肯定要购买"],
+  "authInTronLink": ["Авторизуйтесь в TronLink", "Log in to TronLink", "登录到TronLink"],
+  "pickUp": ["Забрать", "Pick up", "拾起"],
+  "throwOut": ["Выкинуть", "Throw out", "扔出去"],
+  "throwOutItemDescription": ["Вы выкинули в лаву предмет", "You threw into the lava", "你把一个物体扔进熔岩"],
+
+
+  "inBackpack": ["В рюкзак", "In backpack", "在背包里"],
+  "inChest": ["В сундук", "In chest", "在胸口"],
+  "tradeIn": ["На аукцион", "Trade In", "在拍卖中"],
+
+  "changeUseTypeItemLoadInBackpack": ["Секундочку, убираю предмет в рюкзак","Wait a second, put the item in my backpack","等一下，把东西放在我的背包里"],
+  "changeUseTypeItemLoadInChest": ["В сундуке всегда найдется местечко для этого хлама","In the chest there is always a place for this trash","在箱子里总有放垃圾的地方"],
+  "changeUseTypeItemLoadDress": ["Секундочку, переодеваюсь","Just a second, change","稍等一下"],
+
+
+  "move": ["Перейти","Go to","前往"],
+  "toComeIn": ["Войти", "To come in", "登入"],
+  "climbATree": ["Залезть на дерево","Climb a tree","爬树"],
+  "climbAHill": ["На холм","Climb the hill","到山上"],
+  "toTheBegin": ["К началу","To the beginning","从头开始"],
+  "toTheWaterfall": ["К Водопаду","To the waterfall","到瀑布"],
+  "toShore": ["Спуститься на берег","Go down to shore","下岸"],
+  "toTheFootOfMountain": ["К подножию горы","To the foot of the mountain","到山脚下"],
+  "atHome": ["Подойти к дому","Go to home","回家"],
+  "atMine": ["Подойти к шахте","Go to the mine","去我的"],
+  "atFarm": ["Подойти к ферме","Go to the farm","去农场"],
+  "atDoor": ["Подойти к двери","Go to the door","去门口"],
+  "atChickenCoop": ["Подойти к курятнику","Go to the chicken coop","去鸡舍"],
+  "getAround": ["Обойти","Get around","到处走走"],
+  "return": ["Вернуться","Return","回报"],
+  "intoTheYard": ["Во двор","Into the yard","进入院子"],
+  "goToTheTable": ["Подойти к столу","Go to the table","去桌子"],
+  "goToTheBalcony": ["Выйти на балкон","Go to the balcony","去阳台"],
+  "goToTheWindow": ["Подойти к окну","Go to the window","转到窗口"],
+  "goToTheHall": ["Пройти по коридору","Walk down the hall","沿着大厅走"],
+  "inHome": ["Войти в дом","Go into the house","进屋子"],
+  "inMine": ["В шахту","To the mine","到我的"],
+  "inFarm": ["На ферму","To the farm","到农场"],
+  "inHell": ["В ад","To the hell","到地狱"],
+  "inEdge": ["В край","To the edge","到边缘"],
+  "inRoom": ["В комнату","Into the room","到房间"],
+  "toTheExit": ["К выходу","To the exit","到出口"],
+  "riseUp": ["Подняться","Rise up","上升"],
+  "goDown": ["Спуститься","Go down","往下走"],
+  "onTheBackYard": ["На задний двор","To the back yard","到后院"],
+  "toTheStairs": ["К лестнице","To the stairs","上楼梯"],
+  "sitOnTheBed": ["Сесть на кровать","Sit on the bed","坐在床上"],
+  "sitOnTheSofa": ["Сесть на диван","Sit on the sofa","坐在沙发上"],
+  "inCenterOfHouse": ["В центр дома","In the center of the house","在房子的中央"],
+  "toCow": ["К коровам","To the cows","给牛"],
+  "goFurther": ["Пройти дальше","Go further","走得更远"],
+  "goToStreet": ["Выйти на улицу","Go outside","外出"],
+  "toTheEntrance": ["Ко входу","To the entrance","到入口"],
+  "craftingTable": ["Верстак","Crafting table","工作台"],
+
+
+
+  "done": ["Готово", "Ready", "准备"],
+  "this": ["Это", "It is", "是的"],
+  "withdraw": ["Вывести", "Withdraw", "退出"],
+  "close": ["Закрыть", "Close", "关"],
+  "percent": ["Процент", "Percent", "百分比"],
+  "calculate": ["Рассчитать", "Calculate", "计算"],
+  "visit": ["Посетить", "Visit", "参观"],
+  "myItems": ["Мои предметы", "My game items", "我的游戏物品"],
+  "items": ["Предметы", "Game items", "我的游戏物品"],
+  "continue": ["Продолжить", "Continue", "继续"],
+  "yes": ["Да", "Yes", "是的"],
+  "no": ["Нет", "No", "没有"],
+  "yourBalance": ["Ваш баланс", "Your balance", "您的余额"],
+  "youFound": ["Вы нашли", "You have found", "你发现了"],
+  "empty": ["Пусто", "It's Empty", "是空的"],
+  "knowMore": ["Узнать больше", "To learn more", "了解更多"],
+  "yourUniqLink": ["Ваша уникальная ссылка:", "Your unique link:", "您的独特链接："],
+  "list": ["Список", "List", "名单"],
+  "history": ["История", "History", "历史"],
+  "inventory": ["Инвентарь", "Inventory", "库存"],
+  "page": ["Страница", "Page", "页"],
+  "level": ["Уровень", "Level", "水平"],
+  "username": ["Имя пользователя", "Username", "用户名"],
+  "current": ["Текущий", "Current", "当前"],
+  "improve": ["Улучшить", "To improve", "改善"],
+  "new": ["Новый", "New", "新"],
+  "newLocation": ["Новая локация", "New location", "新地点"],
+
+
+
+  "continueRegistration": ["Продолжить регистрацию", "Continue registration", "继续注册"],
+
+  "food": ["Еда", "Food", "食品"],
+  "wood": ["Дерево", "Wood", "木"],
+  "stone": ["Камень", "Stone", "石"],
+  "iron": ["Железо", "Iron", "铁"],
+  "gold": ["Золото", "Gold", "黄金"],
+  "diamond": ["Алмаз", "Diamond", "钻石"],
+  "damage": ["Урон", "Damage", "损伤"],
+  "defence": ["Защита", "Defense", "防御"],
+  "durability": ["Прочность", "Durability", "耐久力"],
+  "loot": ["Добыча", "Production", "生产"],
+  "levelHouse": ["Ур. дома", "House level", "房屋级别"],
+  "resources": ["Ресурсы", "Resources", "资源"],
+  "pearl": ["Жемчуг", "Pearl", "珍珠"],
+  "pearls": ["Жемчужин", "Pearls", "珍珠"],
+  "mine": ["Шахта", "Mine", "矿"],
+  "farm": ["Ферма", "Farm", "农场"],
+  "hell": ["Ад", "Hell", "地狱"],
+  "edge": ["Край", "Edge", "边缘"],
+
+  "enchantTable": ["Стол зачаровывания", "Enchantment table", "附魔表"],
+  "cowFarm": ["Коровья ферма", "Cow Farm", "牛场"],
+  "anvil": ["Наковальня", "Anvil", "砧"],
+  "chickenFarm": ["Куриная ферма", "Chicken Farm", "养鸡场"],
+
+
+
+
+
+  "woodenSword": ["Деревянный меч", "Wooden sword","木剑"],
+  "stoneSword": ["Каменный меч", "Stone sword","石剑"],
+  "ironSword": ["Железный меч", "Iron sword","铁剑"],
+  "goldenSword": ["Золотой меч", "Golden sword","黄金剑"],
+  "diamondSword": ["Алмазный меч", "Diamond sword","钻石剑"],
+
+  "woodenHelmet": ["Деревянный шлем","Wooden helmet","木头盔"],
+  "stoneHelmet": ["Каменный шлем","Stone helmet","石盔"],
+  "ironHelmet": ["Железный шлем","Iron helmet","铁头盔"],
+  "goldenHelmet": ["Золотой шлем","Golden helmet","金色头盔"],
+  "diamondHelmet": ["Алмазный шлем","Diamond helmet","钻石头盔"],
+
+  "woodenArmour": ["Деревянный доспех","Wooden armour","木装甲"],
+  "stoneArmour": ["Каменный доспех","Stone armour","石装甲"],
+  "ironArmour": ["Железный доспех","Iron armour","铁装甲"],
+  "goldenArmour": ["Золотой доспех","Golden armour","金色装甲"],
+  "diamondArmour": ["Алмазный доспех","Diamond armour","钻石装甲"],
+
+  "woodenLeg": ["Деревянные поножи","Wooden leggings","木绑腿"],
+  "stoneLeg": ["Каменные поножи","Stone leggings","石绑腿"],
+  "ironLeg": ["Железные поножи","Iron leggings","铁绑腿"],
+  "goldenLeg": ["Золотые поножи","Golden leggings","金色绑腿"],
+  "diamondLeg": ["Алмазные поножи","Diamond leggings","钻石绑腿"],
+
+  "woodenBoots": ["Деревянные сапоги","Wooden boots","木靴子"],
+  "stoneBoots": ["Каменные сапоги","Stone boots","石靴子"],
+  "ironBoots": ["Железные сапоги","Iron boots","铁靴子"],
+  "goldenBoots": ["Золотые сапоги","Golden boots","金色靴子"],
+  "diamondBoots": ["Алмазные сапоги","Diamond boots","钻石靴子"],
+
+
+  "woodenPickaxe": ["Деревянная кирка","Wooden pickaxe","木镐"],
+  "stonePickaxe": ["Каменная кирка","Stone pickaxe","石镐"],
+  "ironPickaxe": ["Железная кирка","Iron pickaxe","铁镐"],
+  "goldenPickaxe": ["Золотая кирка","Golden pickaxe","金镐"],
+  "diamondPickaxe": ["Алмазная кирка","Diamond pickaxe","钻石镐"],
+
+  "woodenHoe": ["Деревянная мотыга","Wooden hoe","木头"],
+  "stoneHoe": ["Каменная мотыга","Stone hoe","石"],
+  "ironHoe": ["Железная мотыга","Iron hoe","铁"],
+  "goldenHoe": ["Золотая мотыга","Golden hoe","金"],
+  "diamondHoe": ["Алмазная мотыга","Diamond hoe","钻石"],
+
+  "whenDressed": ["Когда на персонаже:","When dressed:","穿好衣服时"],
+  "game": ["Когда на персонаже:","When dressed:","穿好衣服时"],
+
+  "createAnItemBtnName": ["Создать предмет","Create an Item","创建一个物品"],
+
+
+
+
+
+
+  "pageNotEnoughPlace": ["Удалите или перенесите предметы для того чтобы увидеть остальные предметы", "Remove or move items to see other items", "删除或移动项目以查看其他项目"],
+  "pageNotEnoughPlaceTitle": ["Недостаточно места", "Not enough storage", "空间不足"],
+  "totalDailyBonus": ["Общая сумма сбора", "Total points", "总积分"],
+  "ratingComponentCollectedDescription": ["Сегодня вы собрали", "Today you collected", "今天你收集了"],
+  "fromAllCollected": ["от всех собранных.", "from all collected.", "从所有收集的。"],
+  "YouWillReceiveApproximately": ["Вы получите примерно", "You will receive approximately", "您会收到大约"],
+  "ratingComponentDividendDescription": ["Вы можете забрать дивиденды в любой момент. Дивиденды начисляются за действия, совершенные в игре. На сегодняшний день в сокровищнице дракона:", "You can pick up dividends at any time. Dividends are accrued for actions committed in the game. To date, in the treasury of the dragon:", "您可以随时提取股息。 在游戏中进行的动作会产生红利。 迄今为止，在龙的金库中："],
+
+  "createItemDescriptionOfLoad": ["Создаю предмет, Вы берете в руки кузнечный молот и усердно стараетесь создать предмет.","I create a game item, you pick up a blacksmith hammer and try hard to create an item.","我创建一个游戏项目，您拿起铁匠锤子并努力创建一个项目。"],
+  "exchangeResourcesDescription": ["Обмен ресурсами","Exchanging resources","交换资源"],
+
+  "mineDescription": ["Шахта позволяет добывать разные ресурсы, для максимальной добычи используйте <span class=\"text-info\">Кирку</span> и <span class=\"text-info\">Доспехи</span>.","The mine allows you to mine different resources, for maximum production use <span class=\"text-info\">Pickaxe</span> and <span class=\"text-info\">Armor</span>.","矿山允许您开采不同的资源，以最大限度地利用 <span class=\"text-info\">镐</span>和<span class=\"text-info\">装甲</span>。"],
+  "farmDescription": ["Отличное место для добычи пищи, для максимальной эффективности используйте  <span class=\"text-info\">Мотыгу</span> и  <span class=\"text-info\">Доспехи</span>.","Great place to get food, for maximum efficiency use <span class=\"text-info\">Hoe</span> and <span class=\"text-info\">Armor</span>.","获得食物的好地方，要获得最大效率，请使用 <span class=\"text-info\">e头</span>和<span class=\"text-info\">装甲</span>。"],
+  "hellDescription": ["Жуткое и очень опасное место, посещайте <span class=\"text-info\">Ад</span> для получения опыта, используйте <span class=\"text-info\">Меч</span> и <span class=\"text-info\">Доспехи</span> для максимальной эффективности.","A creepy and very dangerous place, visit <span class=\"text-info\">Hell</span> for experience, use <span class=\"text-info\">Sword</span> and <span class=\"text-info\">Armor</span> for maximum effectiveness.","令人毛骨悚然且非常危险的地方，请访问 <span class=\"text-info\">地狱</span>以获取经验，使用<span class=\"text-info\">Sword</span>和<span class=\"text-info\">信息“>装甲</span>可获得最大效力。"],
+  "edgeDescription": ["Огромнейший мир, со своими жителями расположился на той стороне портала. Используйте <span class=\"text-info\">Меч</span> и <span class=\"text-info\">Доспехи</span> для максимальной эффективности.","A huge world, with its inhabitants, is located on the other side of the portal. Use <span class=\"text-info\">Sword</span> and <span class=\"text-info\">Armor</span> for maximum effectiveness.","门户的另一端是一个巨大的世界，上面有居民。 使用 <span class=\"text-info\">剑</span>和<span class=\"text-info\">护甲</span>可获得最佳效果。"],
+  "dungeonSomeDescription": ["Не забудьте проверить свое снаряжение.","Remember to check your gear.","请记住检查您的装备。"],
+  "dungeonVisitButton": ["Посетить подземелье?","Visit the dungeon?","参观地牢？"],
+  "prodResources": ["Добытые ресурсы","Extracted resources","提取资源"],
+  "dungeon": ["Подземелье","Dungeon","地下城"],
+  "stakeCounting": [["Стейк", "Стейка", "Стейков"],["Steak", "Steak", "Steaks"],["牛排", "牛排", "牛排餐厅"]],
+
+  "dungeonVisitModalDescription1": ["Вы уверены что хотите посетить данное подземелье? Каждое посещение требует","Are you sure you want to visit this dungeon? Each visit requires","您确定要参观这个地牢吗？ 每次访问都需要"],
+  "dungeonVisitModalDescription2": ["За один раз подземелье можно посетить максимум 10 раз. Тем самым мы сократили комиссию на посещения подземелий. <span class=\"text-danger\">Предметы при посещении могут сломаться</span>. Сколько раз посетить?","You can visit the dungeon at most 10 times at a time. Thus, we reduced the commission for visiting dungeons. <span class=\"text-danger\">Items may break when visited</span>. How many times to visit?","您一次最多只能访问10次。 因此，我们减少了参观地牢的佣金。 <span class=\"text-danger\">访问时项目可能会损坏</span>。 多少次参观？"],
+  "improvementModalDescription": ["Улучшения предмета требует как минимум <span class=\"text-info\">30 уровень</span>, Продолжить?", "Improvements to the item require at least <span class=\"text-info\">Level 30</span>, Continue?", "对该项的改进至少需要<span class=\"text-info\">30级</span>，继续吗？"],
+  "improvementModalLoadingDescription": ["Происходит улучшение предмета, Вы усердно стараетесь используете при этом весь свой опыт.", "The game item is improving, you are trying hard to use all your experience.", "游戏项目正在改善，您正在努力使用所有经验。"],
+  "pickUpModalItemTitle": ["Забрать предмет?", "Pick up game item?", "拿起游戏物品？"],
+  "pickUpModalItemDescription": ["Вы точно хотите забрать", "Are you sure want to pick up", "你一定要接"],
+  "homeImprovementModalDescription": ["Улучшить дом на следующий уровень?", "Improve the house to the next level?", "将房子提高到新的水平？"],
+  "buyChestModalDescription": ["После покупки сундук доступен из инвентаря.", "After purchase, the chest is available from the inventory.", "购买后，可从库存中获取胸部。"],
+
+  "fromAuction": ["с аукциона", "from auction", "从拍卖"],
+  "auctionPickUpItemFromAuctionLoadingDescription": ["Забираю предмет с аукциона", "I am taking the item from the auction", "我正在从拍卖中拿走物品"],
+  "successUpdateUserData": ["Успешно, обновляю данные пользователя", "Successfully updating user data", "成功更新用户数据"],
+
+
+  "youCantVisitThisAdventure": ["Вы не можете посетить данное подземелье","You cannot visit this dungeon.","您无法访问此地牢。"],
+  "validateErrorMin1": ["Минимальное значение не может быть меньше 1","The minimum value cannot be less than 1","最小值不能小于1"],
+  "validateErrorMax10": ["Максимальное значение не должно превышать 10","The maximum value must not exceed 10","最大值不能超过10"],
+  "validateErrorMax100": ["Максимальное значение не должно превышать 100","The maximum value must not exceed 100","最大值不能超过100"],
+  "dontEnoughResourcesForImprovement": ["Недостаточно ресурсов для улучшения","Not enough resources to improve","没有足够的资源来改进"],
+  "referralProgram": ["Реферальная программа","Referral program","推荐程序"],
+  "yourReferralBonusIs": ["Ваш реферальный бонус","Your current referral bonus is", "您当前的推荐奖金"],
+  "costOfPartnerProgram1": ["Стоимость партнерской программы","Affiliate program cost is", "会员计划费用"],
+  "costOfPartnerProgram2": ["После покупки Ваш реферальный процент увеличится до","After the purchase, your referral percentage will increase to", "购买后，您的推荐比例将提高到"],
+  "youAlsoCanBecameOurPartner1": ["Вы также можете увеличить свой реферальный бонус до","You can also increase your referral bonus to", "您还可以将推荐奖金增加到"],
+  "youAlsoCanBecameOurPartner2": ["став нашим партнером","become our partner", "成为我们的合作伙伴"],
+  "referralProgramDescription": ["Приглашая других пользователей, Вы получаете дополнительный доход со всех действий которые они совершают в игре. А именно: <span class=\"text-info\">Покупка дома</span>, <span class=\"text-info\">Отправка сообщений в чат</span>, <span class=\"text-info\">Покупка сундуков</span>, <span class=\"text-info\">Комиссия на аукционе</span>. Отслеживайте всю информацию о приглашениях ","By inviting other users, you get additional income from all the actions that they perform in the game. Namely: <span class=\"text-info\">Buying a home</span>, <span class=\"text-info\">Sending messages to the chat</span>, <span class=\"text-info\">Buying chests</span>, <span class=\"text-info\">Auction fee</span>. Track all invitation information","通过邀请其他用户，您可以从他们在游戏中执行的所有操作中获得更多收益。即：<span class =\"text-info\">购买房屋</span>，<span class=\"text-info\">向聊天室发送消息</span>，<span class=\"text-info\">采购宝箱</span>，<span class=\"text-info\">拍卖费</span>。追踪所有邀请信息"],
+  "tronNetworkValidateError": ["Вам нужно подключиться к тестовой сети shasta в вашем расширении TronLink","You need switch to testnet shasta network in your tronLink extension","您需要在TronLink扩展程序中连接到shasta测试网络"],
+  "tronNetworkValidateErrorMainnet": ["Вам нужно подключиться к основной сети mainnet в вашем расширении TronLink","You need switch to Mainnet network in your tronLink extension","您需要在TronLink扩展中连接到主网网络"],
+  "needInstallTronLinkExtension": ["Вам нужно установить расширение TronLink", "You need to install the TronLink extension","您需要安装TronLink扩展"],
+
+
+
+  "supportHelp": ["Если во время регистрации возникли какие-то сложности, Вы всегда можете обратиться в нашу службу поддержки.\n<a href=\"mailto: support@goldencraft.io\" class=\"text-muted\">support@goldencraft.io</a>\n", "If you encounter any difficulties during registration, you can always contact our support team.\n<a href=\"mailto: support@goldencraft.io\" class=\"text-muted\"> support@goldencraft.io </a>", "如果您在注册时遇到任何困难，可以随时与我们的支持团队联系。\n<a href=\"mailto: support@goldencraft.io\" class=\"text-muted\"> support@goldencraft.io </a>"],
+  "supportHelpAfterTronLinkInstall": ["После установки нужно завести <a href=\"https://tronscan.org/#/\" target=\"_blank\">кошелек криптовалюты TRON</a>. На сайте, в правом верхнем углу нажимаем \"Войти в систему\", далее выбираем \"Импортировать кошелек\", затем в модальном окне нажать \"Создать кошелек\".\n", "After installation, you need to get a <a href=\"https://tronscan.org/#/\" target=\"_blank\"> TRON cryptocurrency wallet </a>. On the site, in the upper right corner, click \"Log in\", then select \"Import wallet\", then click \"Create wallet\" in the modal window.", "安装后，您需要获取<a href=\"https://tronscan.org/#/\" target=\"_blank\"> TRON加密货币钱包</a>。 在该网站的右上角，单击“登录”，然后选择“导入钱包”，然后在模式窗口中单击“创建钱包”。"],
+  "supportHelpAfterTronLinkBinance1": ["После этого необходимо пополнить Ваш кошелек криптовалютой TRON. Сделать это можно на разных обменниках, мы рекомендуем биржу", "After that, you need to replenish your wallet with TRON cryptocurrency. You can do this on different exchangers, we recommend the exchange", "之后，您需要用TRON加密货币补充钱包。 您可以在不同的交换器上执行此操作，我们建议您交换"],
+  "supportHelpAfterTronLinkBinance2": ["После регистрации, необходимо перейти во вкладку \"Депозит\" и пополнить свой счет, выберите монету ETH.", "After registration, you need to go to the \"Deposit\" tab and replenish your account, select the ETH coin.", "注册后，您需要转到“存款”标签并补充您的帐户，然后选择ETH硬币。"],
+  "supportHelpAfterTronMoney": ["Необходимо пополнить кошелек. <br>\n Сделать это можно с помощью отличного обменника", "It is necessary to replenish the wallet. <br>\n  You can do this with a great exchange.", "有必要补充钱包。 <br>\n  您可以使用出色的交换器来完成此操作。"],
+  "supportHelpOperaInstall": [" (Если сайт недоступен, попробуйте использовать браузер <a href=\"https://www.opera.com/\" target=\"_blank\">Opera</a> у него есть VPN)", "(If the site is unavailable, try using the <a href=\"https://www.opera.com/\" target=\"_blank\"> Opera </a> browser, it has a VPN)", "（如果该站点不可用，请尝试使用<a href=\"https://www.opera.com/\" target=\"_blank\"> Opera </a>浏览器，它具有VPN）"],
+  "supportHelpAfterOpera": ["В левой части экрана выбирайте продавца далее", "On the left side of the screen, select the seller further", "在屏幕左侧，进一步选择卖方"],
+  "supportHelpExchange": ["указывайте номер кошелька, который Вам предоставила биржа.", "indicate the wallet number provided by the exchange.", "指示交易所提供的钱包号码。"],
+  "supportHelpPublicKey": ["указывайте публичный номер Вашего кошелька.", "indicate the public number of your wallet.", "指出您钱包的公开号码。"],
+  "supportHelpExchangeTransfer": ["Теперь необходимо приобрести   <a href=\"https://www.binance.com/ru/trade/TRX_ETH\">ETH/TRX</a>   И купить по рыночной стоимости.   <br>   После покупки необходимо перевести криптовалюту на Ваш TRON кошелек, для этого перейдите на вкладку   <a href=\"https://www.binance.com/ru/usercenter/wallet/withdrawals/TRX\" target=\"_blank\">Вывод</a> и укажите адрес Вашего кошелька. ", "Now you need to purchase <a href=\"https://www.binance.com/en/trade/TRX_ETH\"> ETH / TRX </a> and buy at market value. <br> After the purchase, you need to transfer the cryptocurrency to your TRON wallet, for this, go to the <a href=\"https://www.binance.com/us/usercenter/wallet/withdrawals/TRX\" target=\"_blank\"> tab </a> and enter the address of your wallet.", "现在，您需要购买<a href=\"https://www.binance.com/en/trade/TRX_ETH\"> ETH / TRX </a>并以市场价值购买。 <br>购买后，您需要将加密货币转移到TRON钱包中，为此，请转到<a href=\"https://www.binance.com/us/usercenter/wallet/withdrawals/TRX\" target=\"_blank\">标签 </a>，然后输入您的钱包地址。"],
+  "presaleHelpDescription1": ["Необходимо выбрать в настройках расширения tronLink тестовую сеть SHASTA", "You must select the SHASTA test network in the tronLink extension settings", "您必须在扩展设置中选择SHASTA测试网络"],
+  "presaleHelpDescription2": ["Теперь необходимо пополнить Ваш тестовый кошелек, пополнить можно на этом <a href=\"https://www.trongrid.io/shasta\" target=\"_blank\">сайте</a>", "Now you need to get cryptocurrency for your test wallet, you can get cryptocurrency for on this <a href=\"https://www.trongrid.io/shasta\" target=\"_blank\"> site </a>", "现在，您需要给测试钱包充值，您可以在<a href=\"https://www.trongrid.io/shasta\" target=\"_blank\">网站</a>上充值"],
+  "supportHelpCongrats": ["Поздравляем, теперь можно начать игру. <br> Зайдите в расширение <b>TronLink</b> авторизуйтесь, обновите эту страницу нажмите кнопку \"Начать игру\".", "Congratulations, now you can start the game. <br> Go to extension <b> TronLink </b> log in, refresh this page click the \"Start Game\" button.", "恭喜，您现在可以开始游戏了。 <br> 转到扩展 <b> TronLink </ b>登录，刷新此页面，然后单击“开始游戏”按钮。"],
+
+  "withoutExchange": ["Без биржи (быстрее)","No exchange (faster)","没有交换（更快）"],
+  "withExchange": ["С помощью биржи","Using the exchange","使用交流"],
+  "iHaveWallet": ["У меня есть кошелек TRON","I have a TRON wallet","我有一个TRON钱包"],
+
+
+  "playSectionAboveButtonDescription": ["Предварительная продажа началась. <br> Спешите купить дом со скидкой. <br> Предварительная продажа продлится до 30 ноября. <br> Запуск игры запланирован на 1 декабря. <br> Вы также можете играть в testnet, нажмите кнопку начать игру, чтобы играть","Pre-sale has been started. <br> Hurry up to buy a house with a discount. <br> The pre-sale will last until 30th November. <br> The launch of the game is scheduled for 1st December. <br>You can also play in testnet, click start game to play","预售已经开始。 <br>急着以折扣价买房。 <br>预售将持续到11月30日。 <br>游戏的发布时间定于12月1日。 <br>您也可以玩测试网，单击“开始游戏”按钮进行播放"],
+
+  "getDailyBonus": ["Получить ежедневный бонус?", "Get a daily bonus?", "获得每日奖金？"],
+  "regItemToTradeIn1": ["Зарегистрировать предмет на аукционе? Комиссия за регистрацию предмета составит:", "Register an item at auction? The commission for registering an item will be:", "在拍卖中注册商品？ 注册项目的佣金为："],
+  "regItemToTradeIn2": ["При продаже Вы получите <span class=\"ml-2 text-info\">95%</span> от его стоимости.", "Upon sale, you will receive <span class=\"ml-2 text-info\">95%</span> of its value.", "出售后，您将获得其价值的 <span class=\"ml-2 text-info\">95％</span>。"],
+  "getDailyBonusLoadDescription": ["Получение ежедневного бонуса, пожалуйста подождите.", "Getting a daily bonus, please wait.", "获得每日奖金，请等待。"],
+  "openChest": ["Открыть сундук", "Open chest", "开胸"],
+  "openingChest": ["Открываю сундук", "Opening chest", "我打开胸部"],
+  "registrationAnItemInTradeIn": ["Регистрирую игровой предмет, пожалуйста подождите", "Registering a game item, please wait", "正在注册游戏项目，请稍候"],
+  "openChestDescription": ["Вы точно хотите открыть сундук?", "Are you sure you want to open the chest?", "您确定要打开箱子吗？"],
+  "pleaseWait": ["Пожалуйста подождите.", "Wait, please", "请稍等"],
+  "areYouSure": ["Вы уверены?", "Are you sure?", "你确定吗？"],
+  "fixItemDescription": ["Для починки предмета необходимо 10 единиц", "To repair a game item, 10 units are needed of", "要修复游戏物品，需要10个单位"],
+
+
+  "chest": ["Сундук","Chest","胸部"],
+  "eatChest": ["Сундук с едой","Food chest","食物柜"],
+  "eatChestDescription": ["Обычно содержит от 5 до 30 единиц пищи, этот сундук спасет Вас от голода. Иногда вместе с едой можно найти экипировку.","Usually contains from 5 to 30 units of food, this chest will save you from hunger. Sometimes with food you can find equipment.","通常包含5到30单位的食物，这个箱子可以使您免于饥饿。 有时带食物可以找到设备。"],
+  "rareChest":["Редкий сундук","Rare chest","稀有的箱子"],
+  "rareChestDescription":["Может содержать в себе разные драгоценности и редкие предметы (<span class=\"text-info\">алмазы</span>, <span class=\"text-info\">золото</span>, <span class=\"text-info\">железо</span>). Также есть небольшой шанс найти <span class=\"text-info\">алмазные предметы</span>","May contain various jewels and rare items (<span class=\"text-info\">diamonds</span>, <span class=\"text-info\">gold</span>, <span class=\"text-info \">iron</span>). There is also a small chance to find <span class=\"text-info\">diamond objects</span> ","可能包含各种珠宝和稀有物品（<span class=\"text-info\">钻石</span>，<span class=\"text-info\">黄金</span>， <span class=\"text-info\">铁</span>）。 还有机会找到 <span class=\"text-info\">钻石对象</span>"],
+  "epicChest": ["Эпический сундук","Epic chest","史诗般的宝箱"],
+  "epicChestDescription": ["Содержит очень редкие предметы (<span class=\"text-info\">золотые</span> и <span class=\"text-info\">алмазные доспехи</span>, <span class=\"text-info\">кирки</span>, <span class=\"text-info\">мечи</span> и <span class=\"text-info\">мотыги</span>) также есть вероятность найти большое количество <span class=\"text-info\">ресурсов</span>.","Contains very rare items (<span class=\"text-info\">gold</span> and <span class=\"text-info\">diamond armor</span>, <span class=\"text-info\">pickaxe</span>, <span class=\"text-info\">swords</span> and <span class=\"text-info\">hoes</span>) it is also possible to find a large number of <span class=\"text-info \">resources</span>.","包含非常稀有的物品（<span class=\"text-info\">黄金</span>和<span class=\"text-info\">钻石装甲</span>，<span class=\"text-info\">镐</span>，<span class=\"text-info\">剑</span>和<span class=\"text-info\">es头</span>），也有可能找到大量的 <span class=\"text-info\">资源</span>。"],
+
+
+
+
+  "exchangeResourceWoodInDiamond": ["400 ед. Дерева в Алмаз", "400 units of Tree in Diamond", "400伙 钻石树"],
+  "exchangeResourceStoneInDiamond": ["350 ед. Камня в Алмаз", "350 units of Stone in Diamond", "350伙 钻石中的石头"],
+  "exchangeResourceIronInDiamond": ["300 ед. Железа в Алмаз", "300 units of Iron in Diamond", "300伙 铁到钻石"],
+  "exchangeResourceGoldInDiamond": ["100 ед. Золота в Алмаз", "100 units of Gold in Diamond", "100单位 金到钻石"],
+  "exchangeResourceDiamondInExp": ["Обменять алмазы в опыт", "Exchange Diamonds in Experience", "交流经验中的钻石"],
+
+
+
+
+
+
+  "registration": ["Регистрация","Registration","注册"],
+  "dailyBonus": ["Ежедневный бонус","Daily Bonus","每日奖金"],
+  "homeImprovement": ["Улучшение дома","Home improvement","家居装修"],
+  "becamePartner": ["Стал партнером","Became a partner","成为合作伙伴"],
+  "fixGameItem": ["Починка предмета","Fix a game item","修正游戏物品"],
+  "threw": ["Выкинул/Сломал предмет","Threw / Broken item","投掷/破碎的物品"],
+  "enchantedItem": ["Улучшение предмета","Enchant Item","附魔物品"],
+  "itemCreated": ["Создание предмета","Item create","项目创建"],
+  "exchangeResources": ["Обменял ресурсы","Exchange resources","交换资源"],
+  "boughtItemFromAuction": ["Купил предмет на аукционе","Bought an item in auction","在拍卖会上买了一件商品"],
+  "takeItemFromAuction": ["Забрал предмет с аукциона","Took an item from the auction","我从拍卖中拿走了"],
+  "putOnAnItemInAuction": ["Поставил предмет на аукцион","Put on an item in auction","放在拍卖品中"],
+  "sendMessage": ["Отправил сообщение в чат","Send a message","发送一个消息"],
+  "praisedSomeUser": ["Похвалил пользователя","Praised some user","称赞一些用户"],
+  "boughtChest": ["Покупка сундука","Buy chest","买胸部"],
+  "openedChest": ["Открыл сундук","Opened some chest","打开一些箱子"],
+  "visitedAnAdventure": ["Посетил подземелье","Visited an adventure","参观了一次冒险"]
+}

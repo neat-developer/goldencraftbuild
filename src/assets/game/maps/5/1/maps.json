@@ -1,0 +1,123 @@
+{
+  "tree": {
+    "images": [
+      "assets/game/maps/5/1/tree/0.png"
+    ],
+    "markers": [
+      "TREE"
+    ]
+  },
+  "waterfall": {
+    "images": [
+      "assets/game/maps/5/1/waterfall/0.png"
+    ],
+    "markers": [
+      "WATERFALL"
+    ]
+  },
+  "beach": {
+    "images": [
+      "assets/game/maps/5/1/beach/0.png"
+    ],
+    "markers": [
+      "BEACH"
+    ]
+  },
+  "hill": {
+    "images": [
+      "assets/game/maps/5/1/hill/0.png"
+    ],
+    "markers": [
+      "HILL"
+    ]
+  },
+  "foot": {
+    "images": [
+      "assets/game/maps/5/1/foot/0.png"
+    ],
+    "markers": [
+      "FOOT"
+    ]
+  },
+  "athome": {
+    "images": [
+      "assets/game/maps/5/1/athome/0.png"
+    ],
+    "markers": ["5ATHOME"]
+  },
+  "athome-1": {
+
+    "images": [
+      "assets/game/maps/5/1/athome/1.png"
+    ],
+    "markers": ["5ATHOME-1"]
+  },
+  "athome-2": {
+
+    "images": [
+      "assets/game/maps/5/1/athome/2.png"
+    ],
+    "markers": ["5ATHOME-2"]
+  },
+  "inhome-0": {
+    "images": [
+      "assets/game/maps/5/1/inhome/0.png"
+    ],
+    "markers": ["5INHOME-0"]
+  },
+  "inhome-1": {
+    "images": [
+      "assets/game/maps/5/1/inhome/1.png"
+    ],
+    "markers": ["5INHOME-1"]  },
+  "inhome-2": {
+    "images": [
+      "assets/game/maps/5/1/inhome/2.png"
+    ],
+    "markers": ["5INHOME-2"]  },
+  "inhome-3": {
+    "images": [
+      "assets/game/maps/5/1/inhome/3.png"
+    ],
+    "markers": ["5INHOME-3"]  },
+  "inhome-4": {
+    "images": [
+      "assets/game/maps/5/1/inhome/4.png"
+    ],
+    "markers": ["5INHOME-4"]  },
+  "inhome-5": {
+    "images": [
+      "assets/game/maps/5/1/inhome/5.png"
+    ],
+    "markers": ["5INHOME-5"]  },
+  "inhome-6": {
+    "images": [
+      "assets/game/maps/5/1/inhome/6.png"
+    ],
+    "markers": ["5INHOME-6"]  },
+  "inhome-7": {
+    "images": [
+      "assets/game/maps/5/1/inhome/7.png"
+    ],
+    "markers": ["5INHOME-7"]  },
+  "inhome-8": {
+    "images": [
+      "assets/game/maps/5/1/inhome/8.png"
+    ],
+    "markers": ["5INHOME-8"]  },
+  "inhome-9": {
+    "images": [
+      "assets/game/maps/5/1/inhome/9.png"
+    ],
+    "markers": ["5INHOME-9"]  },
+  "inhome-10": {
+    "images": [
+      "assets/game/maps/5/1/inhome/10.png"
+    ],
+    "markers": ["5INHOME-10"]  },
+  "inhome-11": {
+    "images": [
+      "assets/game/maps/5/1/inhome/11.png"
+    ],
+    "markers": ["5INHOME-11"]  }
+}

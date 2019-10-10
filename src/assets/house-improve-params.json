@@ -1,0 +1,267 @@
+[
+  {
+    "idx": 0,
+    "title": "1-й уровень",
+    "available": false,
+    "cost": {
+      "wood": {
+        "key": "wood",
+        "value": 0
+      },
+      "stone": {
+        "key": "stone",
+        "value": 0
+      },
+      "iron": {
+        "key": "iron",
+        "value": 0
+      },
+      "gold": {
+        "key": "gold",
+        "value": 0
+      },
+      "food": {
+        "key": "food",
+        "value": 0
+      },
+      "trx": {
+        "key": "trx",
+        "value": 0
+      }
+    },
+    "increase": {
+      "wood": {
+        "key": "wood",
+        "value": 0
+      },
+      "iron": {
+        "key": "iron",
+        "value": 0
+      },
+      "gold": {
+        "key": "gold",
+        "value": 0
+      },
+      "food": {
+        "key": "food",
+        "value": 0
+      },
+      "stone": {
+        "key": "stone",
+        "value": 0
+      }
+    }
+  },
+  {
+    "idx": 1,
+    "title": "2-й уровень",
+    "available": true,
+    "cost": {
+      "wood": {
+        "key": "wood",
+        "value": 15
+      },
+      "stone": {
+        "key": "stone",
+        "value": 10
+      },
+      "iron": {
+        "key": "iron",
+        "value": 0
+      },
+      "gold": {
+        "key": "gold",
+        "value": 0
+      },
+      "food": {
+        "key": "food",
+        "value": 2
+      },
+      "trx": {
+        "key": "trx",
+        "value": 0
+      }
+    },
+    "increase": {
+      "wood": {
+        "key": "wood",
+        "value": 5
+      },
+      "iron": {
+        "key": "iron",
+        "value": 0
+      },
+      "gold": {
+        "key": "gold",
+        "value": 0
+      },
+      "food": {
+        "key": "food",
+        "value": 5
+      },
+      "stone": {
+        "key": "stone",
+        "value": 0
+      }
+    }
+  },
+  {
+    "idx": 2,
+    "title": "3-й уровень",
+    "available": true,
+    "cost": {
+      "wood": {
+        "key": "wood",
+        "value": 200
+      },
+      "stone": {
+        "key": "stone",
+        "value": 100
+      },
+      "iron": {
+        "key": "iron",
+        "value": 40
+      },
+      "gold": {
+        "key": "gold",
+        "value": 0
+      },
+      "food": {
+        "key": "food",
+        "value": 25
+      },
+      "trx": {
+        "key": "trx",
+        "value": 0
+      }
+    },
+    "increase": {
+      "wood": {
+        "key": "wood",
+        "value": 10
+      },
+      "iron": {
+        "key": "iron",
+        "value": 0
+      },
+      "gold": {
+        "key": "gold",
+        "value": 0
+      },
+      "food": {
+        "key": "food",
+        "value": 10
+      },
+      "stone": {
+        "key": "stone",
+        "value": 5
+      }
+    }
+  },
+  {
+    "idx": 3,
+    "title": "4-й уровень",
+    "available": true,
+    "cost": {
+      "wood": {
+        "key": "wood",
+        "value": 500
+      },
+      "stone": {
+        "key": "stone",
+        "value": 300
+      },
+      "iron": {
+        "key": "iron",
+        "value": 100
+      },
+      "gold": {
+        "key": "gold",
+        "value": 25
+      },
+      "food": {
+        "key": "food",
+        "value": 50
+      },
+      "trx": {
+        "key": "trx",
+        "value": 0
+      }
+    },
+    "increase": {
+      "wood": {
+        "key": "wood",
+        "value": 20
+      },
+      "iron": {
+        "key": "iron",
+        "value": 3
+      },
+      "gold": {
+        "key": "gold",
+        "value": 1
+      },
+      "food": {
+        "key": "food",
+        "value": 25
+      },
+      "stone": {
+        "key": "stone",
+        "value": 10
+      }
+    }
+  },
+  {
+    "idx": 4,
+    "title": "5-й уровень",
+    "available": true,
+    "cost": {
+      "wood": {
+        "key": "wood",
+        "value": 2500
+      },
+      "stone": {
+        "key": "stone",
+        "value": 1500
+      },
+      "iron": {
+        "key": "iron",
+        "value": 750
+      },
+      "gold": {
+        "key": "gold",
+        "value": 150
+      },
+      "food": {
+        "key": "food",
+        "value": 150
+      },
+      "trx": {
+        "key": "trx",
+        "value": 0
+      }
+    },
+    "increase": {
+      "wood": {
+        "key": "wood",
+        "value": 35
+      },
+      "iron": {
+        "key": "iron",
+        "value": 12
+      },
+      "gold": {
+        "key": "gold",
+        "value": 4
+      },
+      "food": {
+        "key": "food",
+        "value": 60
+      },
+      "stone": {
+        "key": "stone",
+        "value": 25
+      }
+    }
+  }
+]
