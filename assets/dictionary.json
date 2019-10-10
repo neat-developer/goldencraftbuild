@@ -361,7 +361,7 @@
   "iHaveWallet": ["У меня есть кошелек TRON","I have a TRON wallet","我有一个TRON钱包"],
 
 
-  "playSectionAboveButtonDescription": ["Предварительная продажа началась. <br> Спешите купить дом со скидкой. <br> Предварительная продажа продлится до 1 ноября. <br> Запуск игры запланирован на 3 ноября. <br> Вы также можете играть в testnet, нажмите кнопку начать игру, чтобы играть","Pre-sale has been started. <br> Hurry up to buy a house with a discount. <br> The pre-sale will last until 1st November. <br> The launch of the game is scheduled for 3th November. <br>You can also play in testnet, click start game to play","预售已经开始。 <br>赶紧购买打折的房子。 <br> 预售将持续到11月1日。 <br>游戏的发布时间定于11月3日。 <br> 您也可以在测试网中玩，点击开始游戏即可玩"],
+  "playSectionAboveButtonDescription": ["Предварительная продажа началась. <br> Спешите купить дом со скидкой. <br> Предварительная продажа продлится до 30 ноября. <br> Запуск игры запланирован на 1 декабря. <br> Вы также можете играть в testnet, нажмите кнопку начать игру, чтобы играть","Pre-sale has been started. <br> Hurry up to buy a house with a discount. <br> The pre-sale will last until 30th November. <br> The launch of the game is scheduled for 1st December. <br>You can also play in testnet, click start game to play","预售已经开始。 <br>急着以折扣价买房。 <br>预售将持续到11月30日。 <br>游戏的发布时间定于12月1日。 <br>您也可以玩测试网，单击“开始游戏”按钮进行播放"],
 
   "getDailyBonus": ["Получить ежедневный бонус?", "Get a daily bonus?", "获得每日奖金？"],
   "regItemToTradeIn1": ["Зарегистрировать предмет на аукционе? Комиссия за регистрацию предмета составит:", "Register an item at auction? The commission for registering an item will be:", "在拍卖中注册商品？ 注册项目的佣金为："],
