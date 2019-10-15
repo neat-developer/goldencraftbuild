@@ -192,6 +192,7 @@
   "youFound": ["Вы нашли", "You have found", "你发现了"],
   "empty": ["Пусто", "It's Empty", "是空的"],
   "knowMore": ["Узнать больше", "To learn more", "了解更多"],
+  "giveawayBanner": ["Бесплатная раздача 10 домов (общая стоимость 20 тыс. trx) 10 счастливчикам", "Giveaway 10 houses (total cost 20k trx) to 10 lucky winners", "向10位幸运获奖者赠送10所房屋（总费用为20k trx）"],
   "yourUniqLink": ["Ваша уникальная ссылка:", "Your unique link:", "您的独特链接："],
   "list": ["Список", "List", "名单"],
   "history": ["История", "History", "历史"],
