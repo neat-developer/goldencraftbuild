@@ -105,7 +105,7 @@
     "恭喜，您已经完成了这项任务，欢迎来到游戏中。 您会发现很多令人兴奋的东西！"
   ],
 
-  "enterNickname": ["Введите никнейм персонажа", "Type nickname of your character", "输入角色的昵称"],
+  "enterNickname": ["Введите никнейм персонажа", "Enter your nickname", "输入角色的昵称"],
 
   "hide": ["Свернуть", "Hide", "隐藏"],
   "here": ["Здесь", "Here", "这里"],
