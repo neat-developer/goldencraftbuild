@@ -63,7 +63,7 @@
 /******/
 /******/ 	// script path function
 /******/ 	function jsonpScriptSrc(chunkId) {
-/******/ 		return __webpack_require__.p + "" + ({"main-main-module":"main-main-module"}[chunkId]||chunkId) + ".js"
+/******/ 		return __webpack_require__.p + "" + ({"admin-admin-module-ngfactory":"admin-admin-module-ngfactory","game-game-module-ngfactory":"game-game-module-ngfactory","main-main-module-ngfactory":"main-main-module-ngfactory"}[chunkId]||chunkId) + ".js"
 /******/ 	}
 /******/
 /******/ 	// The require function
