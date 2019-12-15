@@ -4023,7 +4023,7 @@ var StatSectionComponent = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"bg-dark\">\r\n  <div *ngIf=\"!ls.isLoad\">\r\n<!--    <app-banner></app-banner>-->\r\n    <app-header></app-header>`\r\n    <app-play-section></app-play-section>\r\n    <app-info-section></app-info-section>\r\n    <app-about-section></app-about-section>\r\n    <app-referal-section></app-referal-section>\r\n    <!--    <app-road-section></app-road-section>-->\r\n    <app-stat-section></app-stat-section>\r\n    <app-latest-operation-section></app-latest-operation-section>\r\n    <app-footer></app-footer>\r\n  </div>\r\n  <app-loading [loadingState]=\"loadingHasBeenLoad\" [loadingType]=\"'main'\"></app-loading>\r\n</div>\r\n"
+module.exports = "<div class=\"bg-dark\">\r\n  <div *ngIf=\"!ls.isLoad\">\r\n    <app-header></app-header>`\r\n    <app-play-section></app-play-section>\r\n    <app-info-section></app-info-section>\r\n    <app-about-section></app-about-section>\r\n    <app-referal-section></app-referal-section>\r\n    <!--    <app-road-section></app-road-section>-->\r\n    <app-stat-section></app-stat-section>\r\n    <app-latest-operation-section></app-latest-operation-section>\r\n    <app-footer></app-footer>\r\n  </div>\r\n  <app-loading [loadingState]=\"loadingHasBeenLoad\" [loadingType]=\"'main'\"></app-loading>\r\n</div>\r\n"
 
 /***/ }),
 
