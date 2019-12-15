@@ -4,7 +4,7 @@
   "partners": ["Партнерка", "Partner", "伙伴"],
   "graphic": ["График инвестиций", "Investment schedule", "投资时间表"],
   "latestOperation": ["Список последних операций", "List of Recent Operations", "最近操作清单"],
-  "startGame": ["Начать игру!", "Start game!", "开始游戏!"],
+  "startGame": ["Демо игры!", "DEMO!", "开始游戏!"],
   "regCount": ["Зарегистрировано пользователей", "Registered Users", "注册用户"],
   "turnover": ["Общий оборот игры", "The total turnover", "总营业额"],
   "incomeOfReferral": ["Общая прибль рефералов", "Profit of referrals", "推荐利润"],
