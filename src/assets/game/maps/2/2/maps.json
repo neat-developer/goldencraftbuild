@@ -1,0 +1,89 @@
+{
+  "tree": {
+    "images": [
+      "assets/game/maps/2/2/tree/0.png"
+    ],
+    "markers": [
+      "TREE"
+    ]
+  },
+  "waterfall": {
+    "images": [
+      "assets/game/maps/2/2/waterfall/0.png"
+    ],
+    "markers": [
+      "WATERFALL"
+    ]
+  },
+  "mine": {
+    "images": [
+      "assets/game/maps/2/2/mine/0.png"
+    ],
+    "markers":  ["0MINE"] },
+  "beach": {
+    "images": [
+      "assets/game/maps/2/2/beach/0.png"
+    ],
+    "markers": [
+      "BEACH"
+    ]
+  },
+  "hill": {
+    "images": [
+      "assets/game/maps/0/1/hill/0.png"
+    ],
+    "markers": [
+      "HILL"
+    ]
+  },
+  "foot": {
+    "images": [
+      "assets/game/maps/2/1/foot/0.png"
+    ],
+    "markers": [
+      "FOOT"
+    ]
+  },
+  "athome": {
+    "images": [
+      "assets/game/maps/2/2/athome/0.png"
+    ],
+    "markers": ["22ATHOME"]
+  },
+  "inhome-0": {
+    "images": [
+      "assets/game/maps/2/2/inhome/0.png"
+    ],
+    "markers": ["2INHOME-0"]
+  },
+  "inhome-1": {
+    "images": [
+      "assets/game/maps/2/2/inhome/1.png"
+    ],
+    "markers": ["2INHOME-1"]  },
+  "inhome-2": {
+    "images": [
+      "assets/game/maps/2/1/inhome/2.png"
+    ],
+    "markers": ["2INHOME-2"]  },
+  "inhome-3": {
+    "images": [
+      "assets/game/maps/2/1/inhome/3.png"
+    ],
+    "markers": ["2INHOME-3"]  },
+  "inhome-4": {
+    "images": [
+      "assets/game/maps/2/1/inhome/4.png"
+    ],
+    "markers": ["2INHOME-4"]  },
+  "inhome-5": {
+    "images": [
+      "assets/game/maps/2/1/inhome/5.png"
+    ],
+    "markers": ["2INHOME-5"]  },
+  "inhome-10": {
+    "images": [
+      "assets/game/maps/2/2/inhome/10.png"
+    ],
+    "markers": ["2INHOME-10"]  }
+}
